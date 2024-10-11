@@ -1,0 +1,151 @@
+#EXTM3U
+
+# ♦♦♦♦♦ TV DİZİLERİ ♦♦♦♦♦
+
+#EXTINF:0 tvg-logo="https://i.hizliresim.com/lm3vyen.png" group-title="TV DİZİLERİ",Deha 3.Bölüm
+https://vmcdn.ciner.com.tr/ht/2024/10/06/28A8AB3BF431EDD4CD1056E5490AB487/28A8AB3BF431EDD4CD1056E5490AB487.m3u8
+
+#EXTINF:0 tvg-logo="https://i.hizliresim.com/nxssud9.png" group-title="TV DİZİLERİ",Kızıl Goncalar 21.Bölüm
+https://video.twimg.com/amplify_video/1843395589398036480/vid/avc1/1280x720/YEjt3K4UKTMYKka8.mp4?tag=16
+
+#EXTINF:0 tvg-logo="https://i.hizliresim.com/7aoj0d3.png" group-title="TV DİZİLERİ",Taş Kağıt Makas 18.Bölüm
+https://vod3.cf.dmcdn.net/sec2(r66wqxSqJ68r9LjoH9fluPpptdy0fHuGXdI7NM8QmCxamlgUlxaCryrkX7VcphEUd4KzZOhlfDq9zA-OdyVbJiWaa9ME5P44RDKmN55JStajtP0S_wc64NAMH_eGLNZ7vROqkiptNxcLMijTQJ0jLyBWdaPDYuQymGk9-nplQTX_7wN9SfV9rWiMTFPiyBkC)/video/246/970/556079642_mp4_h264_aac_hq_2.m3u8
+
+#EXTINF:0 tvg-logo="https://i.hizliresim.com/k0ax8io.png" group-title="TV DİZİLERİ",İnci Taneleri 17
+https://www.youtube.com/watch?v=--TKOtIS1tk
+
+#EXTINF:0 tvg-logo="https://i.hizliresim.com/6gb6jhe.png" group-title="TV DİZİLERİ",Ç.G.Hareketler
+https://startv-p3.mncdn.com/smil:cgh2_blm_177_star_yeni_DD_smil.smil/playlist.m3u8?st=yGVsYjOtumvK8vYw1fOQmA&e=1718097482
+
+
+# ♦♦♦♦♦ FİLMLER ♦♦♦♦♦
+
+#EXTINF:0 tvg-logo="https://i.hizliresim.com/opv70uw.png" group-title="FİLMLER",Arap Kadri
+https://lublin.cdn77.host/hls2/02/00025/eilvkkkj50tc_n/index-v1-a1.m3u8?t=5SaYvVf5hmoSDNIHb85Fy1dUrHht3RD5KKZNX7ZfWjs&s=1726838983&e=43200&f=125546&srv=x2&i=0.0&sp=5000&fr=eilvkkkj50tc&p1=lublin&p2=lublin
+
+#EXTINF:0 tvg-logo="https://i.hizliresim.com/opv70uw.png" group-title="FİLMLER",Subservience
+https://vs5.photostack.net/v/k4xno87q3kz1/720.m3u8
+
+#EXTINF:0 tvg-logo="https://i.hizliresim.com/opv70uw.png" group-title="FİLMLER",Outlaw
+https://vs1.photostack.net/v/ulkbvo9orgtn/480.m3u8
+
+#EXTINF:0 tvg-logo="https://i.hizliresim.com/opv70uw.png" group-title="FİLMLER",Sicario
+https://sx1.rovideo.buzz/v/d/tt3397884/tr/480.m3u8
+
+#EXTINF:0 tvg-logo="https://i.hizliresim.com/opv70uw.png" group-title="FİLMLER",İkramiye
+https://rovideo.xyz/269/tt26940324.480p.tr.m3u8
+
+#EXTINF:0 tvg-logo="https://i.hizliresim.com/opv70uw.png" group-title="FİLMLER",Beni Sev
+https://vs6.photofunny.org/v/sxxnieereov5/480.m3u8
+
+#EXTINF:0 tvg-logo="https://i.hizliresim.com/opv70uw.png" group-title="FİLMLER",Yaratık
+https://vs7.photostack.net/v/ac3jnr5e9q6y/master.m3u8
+
+#EXTINF:0 tvg-logo="https://i.hizliresim.com/opv70uw.png" group-title="FİLMLER",Narsistle Aşk
+https://rovideo.xyz/230/tt23049206.480p.tr.m3u8
+
+#EXTINF:0 tvg-logo="https://i.hizliresim.com/opv70uw.png" group-title="FİLMLER",Çirkinler
+https://vs5.photofunia.org/v/ea9ykmk8n783/master.m3u8
+
+#EXTINF:0 tvg-logo="https://i.hizliresim.com/opv70uw.png" group-title="FİLMLER",Bastarden
+https://vs3.photomag.biz/v/cduokyczkvgq/720.m3u8
+
+#EXTINF:0 tvg-logo="https://i.hizliresim.com/opv70uw.png" group-title="FİLMLER",i Origins
+https://rovideo.xyz/288/tt2884206.480p.tr.m3u8
+
+#EXTINF:0 tvg-logo="https://i.hizliresim.com/opv70uw.png" group-title="FİLMLER",İlk Kehanet
+https://vs4.photour.org/v/yg4u9hexkr8z/master.m3u8
+
+# ♦♦♦♦♦ TV KANALLARI ♦♦♦♦♦
+
+#EXTINF:0 tvg-logo="https://cdn-i.pr.trt.com.tr/trttv/w750/h750/q100/10660277.png" group-title="TV KANALLARI",TRT 1  720p
+https://trt.daioncdn.net/trt-1/master_720p.m3u8?&sid=6jo8gz6q2uaz&app=ed3904e8-737b-4a5e-856a-1b0d7a0a94e2&ce=2
+
+#EXTINF:0 tvg-logo="https://i.hizliresim.com/e9bycj9.png" group-title="TV KANALLARI",TRT 1  1080p
+https://trt.daioncdn.net/trt-1/master_1080p.m3u8?&sid=6joa3yqz2bc3&app=ed3904e8-737b-4a5e-856a-1b0d7a0a94e2&ce=2
+
+#EXTINF:0 tvg-logo="https://i.hizliresim.com/8c9dk5s.png" group-title="TV KANALLARI",A SPOR
+https://youtube.jitendraunatti.workers.dev/wanda.m3u8?id=7uBpwcn2ZZ0
+
+#EXTINF:0 tvg-logo="https://i.hizliresim.com/mcslono.png" group-title="TV KANALLARI",TRT SPOR 720p
+https://tv-trtspor1.medya.trt.com.tr/master_720.m3u8
+
+#EXTINF:0 tvg-logo="https://i.hizliresim.com/mcslono.png" group-title="TV KANALLARI",TRT SPOR 1080p
+https://tv-trtspor1.medya.trt.com.tr/master_1080.m3u8
+
+#EXTINF:0 tvg-logo="https://i.hizliresim.com/lpupw63.png" group-title="TV KANALLARI",TV 8 720p
+https://tv8.daioncdn.net/tv8/tv8_720p.m3u8?&sid=6kcxjl1er67i&app=7ddc255a-ef47-4e81-ab14-c0e5f2949788&ce=3
+
+#EXTINF:0 tvg-logo="https://i.hizliresim.com/lpupw63.png" group-title="TV KANALLARI",TV 8 1080p
+https://tv8.daioncdn.net/tv8/tv8_1080p.m3u8?&sid=6kcxjl1er67i&app=7ddc255a-ef47-4e81-ab14-c0e5f2949788&ce=3
+
+#EXTINF:0 tvg-logo="https://i.hizliresim.com/libma22.png" group-title="TV KANALLARI",TV 8.5 720p
+https://tv8.daioncdn.net/tv8bucuk/tv8bucuk_720p.m3u8?&sid=6kcxozvaks8h&app=bf58ab52-4865-4c81-b223-26b41009801e&ce=3
+
+#EXTINF:0 tvg-logo="https://i.hizliresim.com/libma22.png" group-title="TV KANALLARI",TV 8.5 1080p
+https://tv8.daioncdn.net/tv8bucuk/tv8bucuk_1080p.m3u8?&sid=6kcxozvaks8h&app=bf58ab52-4865-4c81-b223-26b41009801e&ce=3
+
+#EXTINF:0 tvg-logo="https://i.hizliresim.com/sliiojh.png" group-title="TV KANALLARI",ATV 7200p
+http://stream.tvcdn.net/ulusal/atv.m3u8
+
+#EXTINF:0 tvg-logo="https://i.hizliresim.com/oxzd8cu.png" group-title="TV KANALLARI",BEYAZ TV 720p
+https://beyaztv-live.daioncdn.net/beyaztv/beyaztv_720p.m3u8
+
+# ♦♦♦♦♦ MAÇ YAYINLARI ♦♦♦♦♦
+
+#EXTINF:0 tvg-logo="https://i.hizliresim.com/9s63qbu.png" group-title="MAÇ YAYINLARI",YAYIN 1
+https://hlsjs.kocamanfeces.workers.dev/https://tayland.kesintisizmaclar11.site/hls/exxenesra.m3u8
+
+#EXTINF:0 tvg-logo="https://i.hizliresim.com/9s63qbu.png" group-title="MAÇ YAYINLARI",YAYIN 2
+https://jyayintv57.site/cdn/exxen_sports_1_hd/main.m3u8
+
+#EXTINF:0 tvg-logo="https://i.hizliresim.com/9s63qbu.png" group-title="MAÇ YAYINLARI",YAYIN 3
+https://jyayintv57.site/assia2/cdn/mix-sport30/main.m3u8
+
+#EXTINF:0 tvg-logo="https://i.hizliresim.com/9s63qbu.png" group-title="MAÇ YAYINLARI",YAYIN 4
+https://jyayintv57.site/daddyhd/cdn/7/main.m3u8
+
+#EXTINF:0 tvg-logo="https://i.hizliresim.com/sliiojh.png" group-title="MAÇ YAYINLARI",ATV 1080p
+https://trkvz.daioncdn.net/atv/atv_1080p.m3u8?e=1724998943&st=2WfqJLMvsspotpKHHVUGHg&sid=6p4jtk0uqdfk&app=d1ce2d40-5256-4550-b02e-e73c185a314e&ce=3
+
+# ♦♦♦♦♦ Prison Break ♦♦♦♦♦
+
+#EXTINF:0 tvg-logo="https://i.hizliresim.com/prhjcs1.png" group-title="Prison Break",19.Bölüm
+https://storage.diziyou.co/episodes/10019_tr/720p.m3u8
+
+#EXTINF:0 tvg-logo="https://i.hizliresim.com/prhjcs1.png" group-title="Prison Break",20.Bölüm
+https://storage.diziyou.co/episodes/10020_tr/720p.m3u8
+
+#EXTINF:0 tvg-logo="https://i.hizliresim.com/prhjcs1.png" group-title="Prison Break",21.Bölüm
+https://storage.diziyou.co/episodes/10021_tr/720p.m3u8
+
+#EXTINF:0 tvg-logo="https://i.hizliresim.com/prhjcs1.png" group-title="Prison Break",22.Bölüm
+https://storage.diziyou.co/episodes/10022_tr/720p.m3u8
+
+#EXTINF:0 tvg-logo="https://i.hizliresim.com/qtz7amq.png" group-title="Prison Break",2.Sezon 1.Bölüm
+https://storage.diziyou.co/episodes/10023_tr/720p.m3u8
+
+#EXTINF:0 tvg-logo="https://i.hizliresim.com/qtz7amq.png" group-title="Prison Break",2.Sezon 2.Bölüm
+https://storage.diziyou.co/episodes/10024_tr/720p.m3u8
+
+#EXTINF:0 tvg-logo="https://i.hizliresim.com/qtz7amq.png" group-title="Prison Break",2.Sezon 3.Bölüm
+https://storage.diziyou.co/episodes/10025_tr/720p.m3u8
+
+#EXTINF:0 tvg-logo="https://i.hizliresim.com/qtz7amq.png" group-title="Prison Break",2.Sezon 4.Bölüm
+https://storage.diziyou.co/episodes/10026_tr/720p.m3u8
+
+#EXTINF:0 tvg-logo="https://i.hizliresim.com/qtz7amq.png" group-title="Prison Break",2.Sezon 5.Bölüm
+https://storage.diziyou.co/episodes/10027_tr/720p.m3u8
+
+#EXTINF:0 tvg-logo="https://i.hizliresim.com/qtz7amq.png" group-title="Prison Break",2.Sezon 6.Bölüm
+https://storage.diziyou.co/episodes/10028_tr/720p.m3u8
+
+#EXTINF:0 tvg-logo="https://i.hizliresim.com/qtz7amq.png" group-title="Prison Break",2.Sezon 7.Bölüm
+https://storage.diziyou.co/episodes/10029_tr/720p.m3u8
+
+#EXTINF:0 tvg-logo="https://i.hizliresim.com/qtz7amq.png" group-title="Prison Break",2.Sezon 8.Bölüm
+https://storage.diziyou.co/episodes/10030_tr/720p.m3u8
+
+
+
+
