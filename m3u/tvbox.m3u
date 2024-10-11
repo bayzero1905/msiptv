@@ -143,6 +143,28 @@ https://storage.diziyou.co/episodes/10029_tr/720p.m3u8
 #EXTINF:0 tvg-logo="https://i.hizliresim.com/qtz7amq.png" group-title="Prison Break",2.Sezon 8.Bölüm
 https://storage.diziyou.co/episodes/10030_tr/720p.m3u8
 
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/bayzero1905/msiptv/refs/heads/main/logolar/dizired.png" group-title="Erşan Kuneri",1.Bölüm
+https://brighton.cdn77.host/hls2/02/00025/yp9mmvbjn4qi_n/index-v1-a1.m3u8?t=tb0gDt8vpzpc-Trfs8DmY7w7Ji2-QLpqDwtZ3ejTGzY&s=1728646679&e=43200&f=125622&srv=x1&i=0.0&sp=5000&fr=yp9mmvbjn4qi&p1=brighton&p2=brighton
 
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/bayzero1905/msiptv/refs/heads/main/logolar/dizired.png" group-title="Erşan Kuneri",2.Bölüm
+https://lyon.cdn77.host/hls2/02/00025/rh61heax1ah5_n/index-v1-a1.m3u8?t=RsFh0HTHXI0Fm8CX_MrrBBpm4A0HeGuCwYaTkvQPixg&s=1728647016&e=43200&f=125623&srv=x1&i=0.0&sp=5000&fr=rh61heax1ah5&p1=lyon&p2=lyon
+
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/bayzero1905/msiptv/refs/heads/main/logolar/dizired.png" group-title="Erşan Kuneri",3.Bölüm
+https://leicester.cdn77.host/hls2/02/00025/doa6p1p3325j_n/index-v1-a1.m3u8?t=udTS6TqLbKoSbReU7qzgMg6S5GFExtfukCNvIZbiwn8&s=1728647036&e=43200&f=125624&srv=x1&i=0.0&sp=5000&fr=doa6p1p3325j&p1=leicester&p2=leicester
+
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/bayzero1905/msiptv/refs/heads/main/logolar/dizired.png" group-title="Erşan Kuneri",4.Bölüm
+https://leeds.cdn77.host/hls2/02/00025/mrytv6whas2l_n/index-v1-a1.m3u8?t=w1mPTW1jG9xsJ0SE00B6G-bCW50g6ST1M5sG7Q1tJjU&s=1728647073&e=43200&f=125617&srv=x1&i=0.0&sp=5000&fr=mrytv6whas2l&p1=leeds&p2=leeds
+
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/bayzero1905/msiptv/refs/heads/main/logolar/dizired.png" group-title="Erşan Kuneri",5.Bölüm
+https://bordeaux.cdn77.host/hls2/02/00025/90wgmribv621_n/seg-1-v1-a1.ts?t=6C1Cx_hNoYjY78ySJ8IkcouMvdQk1JYypMiEcR4fCLU&s=1728647093&e=43200&f=125618&srv=x1&i=0.0&sp=5000&fr=90wgmribv621&p1=bordeaux&p2=bordeaux
+
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/bayzero1905/msiptv/refs/heads/main/logolar/dizired.png" group-title="Erşan Kuneri",6.Bölüm
+https://manchester.cdn77.host/hls2/02/00025/oo7vn3im6tft_n/index-v1-a1.m3u8?t=UuEL0IclWwuDPPokzba7uO2xiip6ivTfLg8QFTMm8a4&s=1728647136&e=43200&f=125619&srv=x1&i=0.0&sp=5000&fr=oo7vn3im6tft&p1=manchester&p2=manchester
+
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/bayzero1905/msiptv/refs/heads/main/logolar/dizired.png" group-title="Erşan Kuneri",7.Bölüm
+https://manchester.cdn77.host/hls2/02/00025/b32jq5caun0p_n/index-v1-a1.m3u8?t=NrcEIb3de0gmseLQWQ1LGatxTHfQ3SwlbPVU-S3srRM&s=1728647146&e=43200&f=125620&srv=x1&i=0.0&sp=5000&fr=b32jq5caun0p&p1=manchester&p2=manchester
+
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/bayzero1905/msiptv/refs/heads/main/logolar/dizired.png" group-title="Erşan Kuneri",8.Bölüm
+https://bordeaux.cdn77.host/hls2/02/00025/pgsf9hdfj2xz_n/index-v1-a1.m3u8?t=RkyKXzWlA1iq0j3WXynBcWtAgWh2ZAljNONCEUToCSA&s=1728647167&e=43200&f=125621&srv=x1&i=0.0&sp=5000&fr=pgsf9hdfj2xz&p1=bordeaux&p2=bordeaux
 
 
