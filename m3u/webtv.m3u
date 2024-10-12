@@ -34,6 +34,9 @@ https://vmcdn.ciner.com.tr/ht/2024/10/03/E2B7B547C3F3AD7C56626DFAB3CF84CC/E2B7B5
 
 # ♦♦♦♦♦ FİLMLER ♦♦♦♦♦
 
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/bayzero1905/msiptv/refs/heads/main/logolar/film.png" group-title="FİLMLER",Bay Blake Hizmetinizde!
+https://rovideo.xyz/182/tt18224752.480p.tr.m3u8
+
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/bayzero1905/msiptv/refs/heads/main/logolar/film.png" group-title="FİLMLER",House of Spoils
 https://rovideo.xyz/218/tt21830836.480p.tr.m3u8
 
