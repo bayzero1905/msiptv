@@ -36,8 +36,8 @@ https://raw.githubusercontent.com/bayzero1905/msiptv/refs/heads/main/logolar/end
 
 
 # ♦♦♦♦♦ KONUŞANLAR ♦♦♦♦♦
-#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/bayzero1905/msiptv/refs/heads/main/logolar/dizired.png" group-title="KONUŞANLAR",5.Sezon 2.Bölüm
-https://wroclaw.cdn77.host/hls2/02/00025/pxuad0m32rrt_n/master.m3u8?t=eAjf6jmzdoQ_hjOWD9HEMCA__VOn2ycG5CsOHAiLdUQ&s=1728089666&e=43200&f=125607&srv=x1&i=0.0&sp=5000&p1=wroclaw&p2=wroclaw
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/bayzero1905/msiptv/refs/heads/main/logolar/dizired.png" group-title="KONUŞANLAR",5.Sezon 3.Bölüm
+https://strasbourg.cdn77.host/hls2/02/00025/d24tywxlb9lh_n/index-v1-a1.m3u8?t=800807MMfVu0FUEoKnnGKVo1JNdeSBAErWABFX_lmsU&s=1728819313&e=43200&f=125637&srv=x2&i=0.0&sp=5000&p1=strasbourg&p2=strasbourg
 
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/bayzero1905/msiptv/refs/heads/main/logolar/end.png" group-title="KONUŞANLAR",END
 https://raw.githubusercontent.com/bayzero1905/msiptv/refs/heads/main/logolar/end.png
