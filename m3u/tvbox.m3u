@@ -17,6 +17,7 @@ https://kanaldvod.duhnet.tv/hls/F/SX/incit_18_blm/incit_18_blm.smil/hlssubplayli
 https://startv-p3.mncdn.com/smil:cgh2_blm_177_star_yeni_DD_smil.smil/playlist.m3u8?st=yGVsYjOtumvK8vYw1fOQmA&e=1718097482
 
 
+
 # ♦♦♦♦♦ FİLMLER ♦♦♦♦♦
 #EXTINF:0 tvg-logo="https://i.hizliresim.com/opv70uw.png" group-title="FİLMLER",Arap Kadri
 https://cdnfilmdizi3.xyz/upload/5c43bea937d64ed3f45f43ac9e98d7b7013a/master.m3u8
@@ -53,6 +54,8 @@ https://rovideo.xyz/288/tt2884206.480p.tr.m3u8
 
 #EXTINF:0 tvg-logo="https://i.hizliresim.com/opv70uw.png" group-title="FİLMLER",İlk Kehanet
 https://vs4.photour.org/v/yg4u9hexkr8z/master.m3u8
+
+
 
 # ♦♦♦♦♦ TV KANALLARI ♦♦♦♦♦
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/bayzero1905/msiptv/refs/heads/main/logolar/trt1.png" group-title="TV KANALLARI",TRT 1  720p
@@ -91,6 +94,8 @@ http://stream.tvcdn.net/ulusal/atv.m3u8
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/bayzero1905/msiptv/refs/heads/main/logolar/beyaztv.png" group-title="TV KANALLARI",BEYAZ TV 720p
 https://beyaztv-live.daioncdn.net/beyaztv/beyaztv_720p.m3u8
 
+
+
 # ♦♦♦♦♦ MAÇ YAYINLARI ♦♦♦♦♦
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/bayzero1905/msiptv/refs/heads/main/logolar/macyayin.png" group-title="MAÇ YAYINLARI",YAYIN 1
 https://hlsjs.kocamanfeces.workers.dev/https://tayland.kesintisizmaclar11.site/hls/exxenesra.m3u8
@@ -106,6 +111,8 @@ https://jyayintv57.site/daddyhd/cdn/7/main.m3u8
 
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/bayzero1905/msiptv/refs/heads/main/logolar/macyayin.png" group-title="MAÇ YAYINLARI",ATV 1080p
 https://trkvz.daioncdn.net/atv/atv_1080p.m3u8?e=1724998943&st=2WfqJLMvsspotpKHHVUGHg&sid=6p4jtk0uqdfk&app=d1ce2d40-5256-4550-b02e-e73c185a314e&ce=3
+
+
 
 # ♦♦♦♦♦ Prison Break ♦♦♦♦♦
 #EXTINF:0 tvg-logo="https://i.hizliresim.com/prhjcs1.png" group-title="Prison Break",20.Bölüm
@@ -141,12 +148,16 @@ https://storage.diziyou.co/episodes/10029_tr/720p.m3u8
 #EXTINF:0 tvg-logo="https://i.hizliresim.com/qtz7amq.png" group-title="Prison Break",2.Sezon 8.Bölüm
 https://storage.diziyou.co/episodes/10030_tr/720p.m3u8
 
+
+
 # ♦♦♦♦♦ Sorgu ♦♦♦♦♦
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/bayzero1905/msiptv/refs/heads/main/logolar/dizired.png" group-title="SORGU",1.Bölüm
 https://cdnfilmdizi4.xyz/upload/1aaf078ac255de6b759aa500aefdb7572803/master.m3u8
 
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/bayzero1905/msiptv/refs/heads/main/logolar/dizired.png" group-title="SORGU",2.Bölüm
 https://cdnfilmdizi4.xyz/upload/30886bb448d02e6f6c647d14a719e720afea/master.m3u8
+
+
 
 # ♦♦♦♦♦ Erşan Kuneri ♦♦♦♦♦
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/bayzero1905/msiptv/refs/heads/main/logolar/dizired.png" group-title="ERŞAN KUNERİ",8.Bölüm
