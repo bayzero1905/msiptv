@@ -21,40 +21,37 @@ https://raw.githubusercontent.com/bayzero1905/msiptv/refs/heads/main/logolar/end
 
 
 # ♦♦♦♦♦ FİLMLER ♦♦♦♦♦
-#EXTINF:0 tvg-logo="https://i.hizliresim.com/opv70uw.png" group-title="FİLMLER",Arap Kadri
-https://cdnfilmdizi3.xyz/upload/5c43bea937d64ed3f45f43ac9e98d7b7013a/master.m3u8
-
-#EXTINF:0 tvg-logo="https://i.hizliresim.com/opv70uw.png" group-title="FİLMLER",Subservience
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/bayzero1905/msiptv/refs/heads/main/logolar/film.png" group-title="FİLMLER",Subservience
 https://vs5.photostack.net/v/k4xno87q3kz1/720.m3u8
 
-#EXTINF:0 tvg-logo="https://i.hizliresim.com/opv70uw.png" group-title="FİLMLER",Outlaw
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/bayzero1905/msiptv/refs/heads/main/logolar/film.png" group-title="FİLMLER",Outlaw
 https://vs1.photostack.net/v/ulkbvo9orgtn/480.m3u8
 
-#EXTINF:0 tvg-logo="https://i.hizliresim.com/opv70uw.png" group-title="FİLMLER",Sicario
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/bayzero1905/msiptv/refs/heads/main/logolar/film.png" group-title="FİLMLER",Sicario
 https://sx1.rovideo.buzz/v/d/tt3397884/tr/480.m3u8
 
-#EXTINF:0 tvg-logo="https://i.hizliresim.com/opv70uw.png" group-title="FİLMLER",İkramiye
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/bayzero1905/msiptv/refs/heads/main/logolar/film.png" group-title="FİLMLER",İkramiye
 https://rovideo.xyz/269/tt26940324.480p.tr.m3u8
 
-#EXTINF:0 tvg-logo="https://i.hizliresim.com/opv70uw.png" group-title="FİLMLER",Beni Sev
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/bayzero1905/msiptv/refs/heads/main/logolar/film.png" group-title="FİLMLER",Beni Sev
 https://vs6.photofunny.org/v/sxxnieereov5/480.m3u8
 
-#EXTINF:0 tvg-logo="https://i.hizliresim.com/opv70uw.png" group-title="FİLMLER",Yaratık
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/bayzero1905/msiptv/refs/heads/main/logolar/film.png" group-title="FİLMLER",Yaratık
 https://vs7.photostack.net/v/ac3jnr5e9q6y/master.m3u8
 
-#EXTINF:0 tvg-logo="https://i.hizliresim.com/opv70uw.png" group-title="FİLMLER",Narsistle Aşk
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/bayzero1905/msiptv/refs/heads/main/logolar/film.png" group-title="FİLMLER",Narsistle Aşk
 https://rovideo.xyz/230/tt23049206.480p.tr.m3u8
 
-#EXTINF:0 tvg-logo="https://i.hizliresim.com/opv70uw.png" group-title="FİLMLER",Çirkinler
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/bayzero1905/msiptv/refs/heads/main/logolar/film.png" group-title="FİLMLER",Çirkinler
 https://vs5.photofunia.org/v/ea9ykmk8n783/master.m3u8
 
-#EXTINF:0 tvg-logo="https://i.hizliresim.com/opv70uw.png" group-title="FİLMLER",Bastarden
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/bayzero1905/msiptv/refs/heads/main/logolar/film.png" group-title="FİLMLER",Bastarden
 https://vs3.photomag.biz/v/cduokyczkvgq/720.m3u8
 
-#EXTINF:0 tvg-logo="https://i.hizliresim.com/opv70uw.png" group-title="FİLMLER",i Origins
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/bayzero1905/msiptv/refs/heads/main/logolar/film.png" group-title="FİLMLER",i Origins
 https://rovideo.xyz/288/tt2884206.480p.tr.m3u8
 
-#EXTINF:0 tvg-logo="https://i.hizliresim.com/opv70uw.png" group-title="FİLMLER",İlk Kehanet
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/bayzero1905/msiptv/refs/heads/main/logolar/film.png" group-title="FİLMLER",İlk Kehanet
 https://vs4.photour.org/v/yg4u9hexkr8z/master.m3u8
 
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/bayzero1905/msiptv/refs/heads/main/logolar/end.png" group-title="FİLMLER",END
@@ -62,11 +59,8 @@ https://raw.githubusercontent.com/bayzero1905/msiptv/refs/heads/main/logolar/end
 
 
 # ♦♦♦♦♦ TV KANALLARI ♦♦♦♦♦
-#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/bayzero1905/msiptv/refs/heads/main/logolar/trt1.png" group-title="TV KANALLARI",TRT 1  720p
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/bayzero1905/msiptv/refs/heads/main/logolar/trt1.png" group-title="TV KANALLARI",TRT 1
 https://trt.daioncdn.net/trt-1/master_720p.m3u8?&sid=6jo8gz6q2uaz&app=ed3904e8-737b-4a5e-856a-1b0d7a0a94e2&ce=2
-
-#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/bayzero1905/msiptv/refs/heads/main/logolar/trt1.png" group-title="TV KANALLARI",TRT 1  1080p
-https://trt.daioncdn.net/trt-1/master_1080p.m3u8?&sid=6joa3yqz2bc3&app=ed3904e8-737b-4a5e-856a-1b0d7a0a94e2&ce=2
 
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/bayzero1905/msiptv/refs/heads/main/logolar/aspor.png" group-title="TV KANALLARI",A SPOR
 https://youtube.jitendraunatti.workers.dev/wanda.m3u8?id=7uBpwcn2ZZ0
@@ -74,25 +68,16 @@ https://youtube.jitendraunatti.workers.dev/wanda.m3u8?id=7uBpwcn2ZZ0
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/bayzero1905/msiptv/refs/heads/main/logolar/beinsports.png" group-title="TV KANALLARI",BEIN SPORTS HABER
 https://youtube.jitendraunatti.workers.dev/wanda.m3u8?id=VCl1wO81VdM
 
-#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/bayzero1905/msiptv/refs/heads/main/logolar/trtspor.png" group-title="TV KANALLARI",TRT SPOR 720p
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/bayzero1905/msiptv/refs/heads/main/logolar/trtspor.png" group-title="TV KANALLARI",TRT SPOR
 https://tv-trtspor1.medya.trt.com.tr/master_720.m3u8
 
-#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/bayzero1905/msiptv/refs/heads/main/logolar/trtspor.png" group-title="TV KANALLARI",TRT SPOR 1080p
-https://tv-trtspor1.medya.trt.com.tr/master_1080.m3u8
-
-#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/bayzero1905/msiptv/refs/heads/main/logolar/tv8.png" group-title="TV KANALLARI",TV 8 720p
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/bayzero1905/msiptv/refs/heads/main/logolar/tv8.png" group-title="TV KANALLARI",TV 8
 https://tv8.daioncdn.net/tv8/tv8_720p.m3u8?&sid=6kcxjl1er67i&app=7ddc255a-ef47-4e81-ab14-c0e5f2949788&ce=3
 
-#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/bayzero1905/msiptv/refs/heads/main/logolar/tv8.png" group-title="TV KANALLARI",TV 8 1080p
-https://tv8.daioncdn.net/tv8/tv8_1080p.m3u8?&sid=6kcxjl1er67i&app=7ddc255a-ef47-4e81-ab14-c0e5f2949788&ce=3
-
-#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/bayzero1905/msiptv/refs/heads/main/logolar/tv85.png" group-title="TV KANALLARI",TV 8.5 720p
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/bayzero1905/msiptv/refs/heads/main/logolar/tv85.png" group-title="TV KANALLARI",TV 8.5
 https://tv8.daioncdn.net/tv8bucuk/tv8bucuk_720p.m3u8?&sid=6kcxozvaks8h&app=bf58ab52-4865-4c81-b223-26b41009801e&ce=3
 
-#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/bayzero1905/msiptv/refs/heads/main/logolar/tv85.png" group-title="TV KANALLARI",TV 8.5 1080p
-https://tv8.daioncdn.net/tv8bucuk/tv8bucuk_1080p.m3u8?&sid=6kcxozvaks8h&app=bf58ab52-4865-4c81-b223-26b41009801e&ce=3
-
-#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/bayzero1905/msiptv/refs/heads/main/logolar/atv.png" group-title="TV KANALLARI",ATV 7200p
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/bayzero1905/msiptv/refs/heads/main/logolar/atv.png" group-title="TV KANALLARI",ATV
 http://stream.tvcdn.net/ulusal/atv.m3u8
 
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/bayzero1905/msiptv/refs/heads/main/logolar/beyaztv.png" group-title="TV KANALLARI",BEYAZ TV 720p
@@ -115,9 +100,6 @@ https://jyayintv57.site/assia2/cdn/mix-sport30/main.m3u8
 
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/bayzero1905/msiptv/refs/heads/main/logolar/macyayin.png" group-title="MAÇ YAYINLARI",YAYIN 4
 https://jyayintv57.site/daddyhd/cdn/7/main.m3u8
-
-#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/bayzero1905/msiptv/refs/heads/main/logolar/macyayin.png" group-title="MAÇ YAYINLARI",ATV 1080p
-https://trkvz.daioncdn.net/atv/atv_1080p.m3u8?e=1724998943&st=2WfqJLMvsspotpKHHVUGHg&sid=6p4jtk0uqdfk&app=d1ce2d40-5256-4550-b02e-e73c185a314e&ce=3
 
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/bayzero1905/msiptv/refs/heads/main/logolar/end.png" group-title="MAÇ YAYINLARI",END
 https://raw.githubusercontent.com/bayzero1905/msiptv/refs/heads/main/logolar/end.png
