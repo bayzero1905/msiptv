@@ -1,8 +1,8 @@
 #EXTM3U
 
 # ♦♦♦♦♦ TV DİZİLERİ ♦♦♦♦♦
-#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/bayzero1905/msiptv/refs/heads/main/logolar/deha.png" group-title="TV DİZİLERİ",Deha 3.Bölüm
-https://vmcdn.ciner.com.tr/ht/2024/10/06/28A8AB3BF431EDD4CD1056E5490AB487/28A8AB3BF431EDD4CD1056E5490AB487.m3u8
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/bayzero1905/msiptv/refs/heads/main/logolar/deha.png" group-title="TV DİZİLERİ",Deha 4.Bölüm
+https://vmcdn.ciner.com.tr/ht/2024/10/13/518E7BF5C04A2358E2D3440EC190A499/518E7BF5C04A2358E2D3440EC190A499.m3u8
 
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/bayzero1905/msiptv/refs/heads/main/logolar/kzlgnclr.png" group-title="TV DİZİLERİ",Kızıl Goncalar 21.Bölüm
 https://video.twimg.com/amplify_video/1843395589398036480/vid/avc1/1280x720/YEjt3K4UKTMYKka8.mp4?tag=16
@@ -33,8 +33,8 @@ https://rovideo.xyz/281/tt28182919.480p.tr.m3u8
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/bayzero1905/msiptv/refs/heads/main/logolar/film.png" group-title="FİLMLER",İkramiye
 https://rovideo.xyz/269/tt26940324.480p.tr.m3u8
 
-#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/bayzero1905/msiptv/refs/heads/main/logolar/film.png" group-title="FİLMLER",Beni Sev
-https://vs6.photofunny.org/v/sxxnieereov5/480.m3u8
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/bayzero1905/msiptv/refs/heads/main/logolar/film.png" group-title="FİLMLER",His Three Daughters
+https://vs3.photomag.biz/v/iqla3ss4nmej/480.m3u8
 
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/bayzero1905/msiptv/refs/heads/main/logolar/film.png" group-title="FİLMLER",Yaratık
 https://vs7.photostack.net/v/ac3jnr5e9q6y/master.m3u8
@@ -48,10 +48,10 @@ https://vs5.photofunia.org/v/ea9ykmk8n783/master.m3u8
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/bayzero1905/msiptv/refs/heads/main/logolar/film.png" group-title="FİLMLER",Bastarden
 https://vs3.photomag.biz/v/cduokyczkvgq/720.m3u8
 
-#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/bayzero1905/msiptv/refs/heads/main/logolar/film.png" group-title="FİLMLER",i Origins
-https://rovideo.xyz/288/tt2884206.480p.tr.m3u8
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/bayzero1905/msiptv/refs/heads/main/logolar/film.png" group-title="FİLMLER",İçinde Kim Var?
+https://vs8.photomag.biz/v/Its.Whats.Inside.2024.WEB-DL.1080p.DUAL/480.m3u8
 
-#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/bayzero1905/msiptv/refs/heads/main/logolar/film.png" group-title="FİLMLER",İlk Kehanet
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/bayzero1905/msiptv/refs/heads/main/logolar/film.png" group-title="FİLMLER",Omen: İlk Kehanet
 https://vs4.photour.org/v/yg4u9hexkr8z/master.m3u8
 
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/bayzero1905/msiptv/refs/heads/main/logolar/end.png" group-title="FİLMLER",END
@@ -105,9 +105,6 @@ https://raw.githubusercontent.com/bayzero1905/msiptv/refs/heads/main/logolar/end
 
 
 # ♦♦♦♦♦ Prison Break ♦♦♦♦♦
-#EXTINF:0 tvg-logo="https://i.hizliresim.com/prhjcs1.png" group-title="Prison Break",20.Bölüm
-https://storage.diziyou.co/episodes/10020_tr/720p.m3u8
-
 #EXTINF:0 tvg-logo="https://i.hizliresim.com/prhjcs1.png" group-title="Prison Break",21.Bölüm
 https://storage.diziyou.co/episodes/10021_tr/720p.m3u8
 
@@ -150,12 +147,4 @@ https://cdnfilmdizi4.xyz/upload/1aaf078ac255de6b759aa500aefdb7572803/master.m3u8
 https://cdnfilmdizi4.xyz/upload/30886bb448d02e6f6c647d14a719e720afea/master.m3u8
 
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/bayzero1905/msiptv/refs/heads/main/logolar/end.png" group-title="SORGU",END
-https://raw.githubusercontent.com/bayzero1905/msiptv/refs/heads/main/logolar/end.png
-
-
-# ♦♦♦♦♦ Erşan Kuneri ♦♦♦♦♦
-#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/bayzero1905/msiptv/refs/heads/main/logolar/dizired.png" group-title="ERŞAN KUNERİ",8.Bölüm
-https://cdnfilmdizi3.xyz/upload/5c43bea937d64ed3f45f43ac9e98d7b7013a/master.m3u8
-
-#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/bayzero1905/msiptv/refs/heads/main/logolar/end.png" group-title="ERŞAN KUNERİ",END
 https://raw.githubusercontent.com/bayzero1905/msiptv/refs/heads/main/logolar/end.png
