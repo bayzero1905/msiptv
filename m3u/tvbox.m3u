@@ -80,12 +80,11 @@ https://tv8.daioncdn.net/tv8bucuk/tv8bucuk_720p.m3u8?&sid=6kcxozvaks8h&app=bf58a
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/bayzero1905/msiptv/refs/heads/main/logolar/atv.png" group-title="TV KANALLARI",ATV
 http://stream.tvcdn.net/ulusal/atv.m3u8
 
-#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/bayzero1905/msiptv/refs/heads/main/logolar/beyaztv.png" group-title="TV KANALLARI",BEYAZ TV 720p
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/bayzero1905/msiptv/refs/heads/main/logolar/beyaztv.png" group-title="TV KANALLARI",BEYAZ TV 
 https://beyaztv-live.daioncdn.net/beyaztv/beyaztv_720p.m3u8
 
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/bayzero1905/msiptv/refs/heads/main/logolar/end.png" group-title="TV KANALLARI",END
 https://raw.githubusercontent.com/bayzero1905/msiptv/refs/heads/main/logolar/end.png
-
 
 
 # ♦♦♦♦♦ MAÇ YAYINLARI ♦♦♦♦♦
