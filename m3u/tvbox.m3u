@@ -67,6 +67,9 @@ https://trt.daioncdn.net/trt-1/master_1080p.m3u8?&sid=6joa3yqz2bc3&app=ed3904e8-
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/bayzero1905/msiptv/refs/heads/main/logolar/aspor.png" group-title="TV KANALLARI",A SPOR
 https://youtube.jitendraunatti.workers.dev/wanda.m3u8?id=7uBpwcn2ZZ0
 
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/bayzero1905/msiptv/refs/heads/main/logolar/beinsports.png" group-title="TV KANALLARI",BEIN SPORTS HABER
+https://youtube.jitendraunatti.workers.dev/wanda.m3u8?id=VCl1wO81VdM
+
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/bayzero1905/msiptv/refs/heads/main/logolar/trtspor.png" group-title="TV KANALLARI",TRT SPOR 720p
 https://tv-trtspor1.medya.trt.com.tr/master_720.m3u8
 
