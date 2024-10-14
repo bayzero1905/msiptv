@@ -50,6 +50,18 @@ https://s1.giomgr.xyz/hls2/02/00006/pxgfjrdtzaa8_n/index-v1-a1.m3u8?t=U4nIeZ6M7a
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/bayzero1905/msiptv/refs/heads/main/logolar/dizired.png" group-title="Deceitful Love",2.Bölüm
 https://s1.giomgr.xyz/hls2/02/00006/ove10rcf1q6e_n/index-v1-a1.m3u8?t=ViynntyoEFFU3h_-7WCmYZP2Ckk98N_VR2EnOjaDa34&s=1728869764&e=43200&f=30173&srv=127.0.0.1
 
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/bayzero1905/msiptv/refs/heads/main/logolar/dizired.png" group-title="Deceitful Love",3.Bölüm
+https://s1.giomgr.xyz/hls2/02/00006/g5xtu3rs5ash_n/index-v1-a1.m3u8?t=SBvC8z4-9LwIPK-_sLvj_a2YcHtJHMojHjqMfmf1Tuw&s=1728869914&e=43200&f=30174&srv=127.0.0.1
+
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/bayzero1905/msiptv/refs/heads/main/logolar/dizired.png" group-title="Deceitful Love",4.Bölüm
+https://s1.giomgr.xyz/hls2/02/00006/149jgvg3fck6_n/index-v1-a1.m3u8?t=-fnl1yblN2W9MtkOuiXi3AMMz7uGJyKUvFBJGviZQ-k&s=1728869977&e=43200&f=30175&srv=127.0.0.1
+
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/bayzero1905/msiptv/refs/heads/main/logolar/dizired.png" group-title="Deceitful Love",5.Bölüm
+https://s1.giomgr.xyz/hls2/02/00006/d9m3jkd1b862_n/index-v1-a1.m3u8?t=fVqszGmLzF9YWAXvdHHJFJFI-LPld8YoXGDT4PGQOVY&s=1728870017&e=43200&f=30176&srv=127.0.0.1
+
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/bayzero1905/msiptv/refs/heads/main/logolar/dizired.png" group-title="Deceitful Love",6.Bölüm
+https://s1.giomgr.xyz/hls2/02/00006/jhdurcxoigbb_n/index-v1-a1.m3u8?t=OC7bHOVkLpqfNULfYIhAOgz0yorSFAr8QIry8CgD4M0&s=1728870058&e=43200&f=30177&srv=127.0.0.1
+
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/bayzero1905/msiptv/refs/heads/main/logolar/end.png" group-title="Deceitful Love",END
 https://raw.githubusercontent.com/bayzero1905/msiptv/refs/heads/main/logolar/end.png
 
