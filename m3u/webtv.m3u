@@ -68,6 +68,19 @@ https://s1.giomgr.xyz/hls2/02/00006/bsq6mpo3ekxx_n/index-v1-a1.m3u8?t=KDa_bsy2yJ
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/bayzero1905/msiptv/refs/heads/main/logolar/end.png" group-title="Dizi",END
 https://raw.githubusercontent.com/bayzero1905/msiptv/refs/heads/main/logolar/end.png
 
+# ♦♦♦♦♦ The Old Man ♦♦♦♦♦
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/bayzero1905/msiptv/refs/heads/main/logolar/dizired.png" group-title="The Old Man",01.Bölüm
+https://s1.giomgr.xyz/hls2/05/00005/k4fqyw6daktw_n/index-v1-a1.m3u8?t=TIRW_keSW3maKAGRmnbceCFy2HADHGC2Qi3ag8vSvzE&s=1728890647&e=43200&f=25738&srv=127.0.0.1
+
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/bayzero1905/msiptv/refs/heads/main/logolar/dizired.png" group-title="The Old Man",02.Bölüm
+https://s1.giomgr.xyz/hls2/05/00005/bmimyfisudjd_n/index-v1-a1.m3u8?t=NfoTpGaSpd1sME0CLLhG-Z9KaBUVw4fXf0LARrafN90&s=1728890767&e=43200&f=25739&srv=127.0.0.1
+
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/bayzero1905/msiptv/refs/heads/main/logolar/dizired.png" group-title="The Old Man",03.Bölüm
+https://s1.giomgr.xyz/hls2/05/00005/vhy6mmnkta6w_n/index-v1-a1.m3u8?t=9lWKDRdu9w-CMZUHu3KCzJF_Rb8m7tcT6rHZCnUu3dU&s=1728890796&e=43200&f=25740&srv=127.0.0.1
+
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/bayzero1905/msiptv/refs/heads/main/logolar/end.png" group-title="The Old Man",END
+https://raw.githubusercontent.com/bayzero1905/msiptv/refs/heads/main/logolar/end.png
+
 
 
 
