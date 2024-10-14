@@ -13,8 +13,8 @@ https://vod3.cf.dmcdn.net/sec2(r66wqxSqJ68r9LjoH9fluPpptdy0fHuGXdI7NM8QmCxamlgUl
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/bayzero1905/msiptv/refs/heads/main/logolar/inctnlr.png" group-title="TV DİZİLERİ",İnci Taneleri 18.Bölüm
 https://kanaldvod.duhnet.tv/hls/F/SX/incit_18_blm/incit_18_blm.smil/hlssubplaylist-ovdnEmSf_oacnOx7.m3u8?&app=com.kanald&min=0&max=1250
 
-#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/bayzero1905/msiptv/refs/heads/main/logolar/cgh.png" group-title="TV DİZİLERİ",Ç.G.Hareketler
-https://startv-p3.mncdn.com/smil:cgh2_blm_177_star_yeni_DD_smil.smil/playlist.m3u8?st=yGVsYjOtumvK8vYw1fOQmA&e=1718097482
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/bayzero1905/msiptv/refs/heads/main/logolar/cgh.png" group-title="TV DİZİLERİ",Ç.G.Hareketler 178.Bölüm
+https://startv-p3.mncdn.com/smil:cgh2_bolum178_DD_smil.smil/chunklist_b1628000.m3u8?st=_A4JkEI-iOcz1aeqjD4rog&e=1728980455
 
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/bayzero1905/msiptv/refs/heads/main/logolar/end.png" group-title="TV DİZİLERİ",END
 https://raw.githubusercontent.com/bayzero1905/msiptv/refs/heads/main/logolar/end.png
