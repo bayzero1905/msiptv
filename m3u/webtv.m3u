@@ -1,21 +1,6 @@
 #EXTM3U
 
 # ♦♦♦♦♦ TV DİZİLERİ ♦♦♦♦♦
-#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/bayzero1905/msiptv/refs/heads/main/logolar/deha.png" group-title="TV DİZİLERİ",Deha 3.Bölüm
-https://vmcdn.ciner.com.tr/ht/2024/10/06/28A8AB3BF431EDD4CD1056E5490AB487/28A8AB3BF431EDD4CD1056E5490AB487.m3u8
-
-#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/bayzero1905/msiptv/refs/heads/main/logolar/kzlgnclr.png" group-title="TV DİZİLERİ",Kızıl Goncalar 21.Bölüm
-https://video.twimg.com/amplify_video/1843395589398036480/vid/avc1/1280x720/YEjt3K4UKTMYKka8.mp4?tag=16
-
-#EXTINF:0 tvg-logo="https://i.hizliresim.com/7aoj0d3.png" group-title="TV DİZİLERİ",Taş Kağıt Makas 18.Bölüm
-https://vod3.cf.dmcdn.net/sec2(r66wqxSqJ68r9LjoH9fluPpptdy0fHuGXdI7NM8QmCxamlgUlxaCryrkX7VcphEUd4KzZOhlfDq9zA-OdyVbJiWaa9ME5P44RDKmN55JStajtP0S_wc64NAMH_eGLNZ7vROqkiptNxcLMijTQJ0jLyBWdaPDYuQymGk9-nplQTX_7wN9SfV9rWiMTFPiyBkC)/video/246/970/556079642_mp4_h264_aac_hq_2.m3u8
-
-#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/bayzero1905/msiptv/refs/heads/main/logolar/inctnlr.png" group-title="TV DİZİLERİ",İnci Taneleri 18.Bölüm
-https://kanaldvod.duhnet.tv/hls/F/SX/incit_18_blm/incit_18_blm.smil/hlssubplaylist-ovdnEmSf_oacnOx7.m3u8?&app=com.kanald&min=0&max=1250
-
-#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/bayzero1905/msiptv/refs/heads/main/logolar/cgh.png" group-title="TV DİZİLERİ",Ç.G.Hareketler
-https://startv-p3.mncdn.com/smil:cgh2_blm_177_star_yeni_DD_smil.smil/playlist.m3u8?st=yGVsYjOtumvK8vYw1fOQmA&e=1718097482
-
 #EXTINF:0 tvg-logo="https://i.hizliresim.com/4jcj88z.png" group-title="TV DİZİLERİ",Kötü Kan 6.Bölüm
 https://nowtv-vod.ercdn.net/Kotu-Kan/bolumler/6/PDTKOTUKAN6HDYENIRTUK7YASVEUZERISIDDETOLUMSUZDAVRANISLAR.smil/hlssubplaylist-ovdnohwd_oacnK37.m3u8?e=1728731918&st=6P0QpWfwERQvpCBObx87Bw
 
@@ -25,11 +10,11 @@ https://atv-vod.ercdn.net/video/dizi/bir-gece-masali/6_rklp/f2ffcffd-93eb-4015-8
 #EXTINF:0 tvg-logo="https://tpsbayxekmes.merlincdn.net//i/posters/1691" group-title="TV DİZİLERİ",Yabani 41.Bölüm
 https://nowtv-vod.ercdn.net/Yabani/bolumler/41/PDTYABANI41HDRTUK7YASVEUZERISIDDETOLUMSUZDAVRANISLAR.smil/hlssubplaylist-ovdnohwd_oacnw37.m3u8?e=1728820465&st=WmN-nkaiASHem_jDlwDR1A
 
-#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/bayzero1905/msiptv/refs/heads/main/logolar/dizired.png" group-title="TV DİZİLERİ",Leyla 4.Bölüm
-https://nowtv-vod.ercdn.net/Leyla-Hayat-Ask-Adalet/bolumler/4/PDTLEYLA4HDRTUK7YASVEUZERISIDDETOLUMSUZDAVRANISLAR.smil/hlssubplaylist-ovenEmSf_oacn227.m3u8?e=1727975226&st=fQdQgqnD7QdJF2kkUlNopA
-
 #EXTINF:0 tvg-logo="https://mo.ciner.com.tr/showtv/iu/393x220/siyah-kalp.jpg" group-title="TV DİZİLERİ",Siyah Kalp 4.Bölüm
 https://vmcdn.ciner.com.tr/ht/2024/10/03/E2B7B547C3F3AD7C56626DFAB3CF84CC/E2B7B547C3F3AD7C56626DFAB3CF84CC.m3u8
+
+#EXTINF:0 tvg-logo="https://iaatv.tmgrup.com.tr/e1b9b7/0/0/0/0/0/0?u=https://iatv.tmgrup.com.tr/2024/09/05/295x410/1725525348415.jpg" group-title="TV DİZİLERİ",Kara Dut 4.Bölüm
+https://atv-vod.ercdn.net/video/dizi/karadut/4_sobf/aa0a460d-2c9f-4f05-b9df-ba52a489d914.hb.smil/hlssubplaylist-ovbnMgjd_oacnkj8.m3u8?st=aGoG1BxB007VTWUvGMU_Ug&e=1728987192
 
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/bayzero1905/msiptv/refs/heads/main/logolar/end.png" group-title="TV DİZİLERİ",END
 https://raw.githubusercontent.com/bayzero1905/msiptv/refs/heads/main/logolar/end.png
