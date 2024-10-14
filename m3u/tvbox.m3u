@@ -87,7 +87,7 @@ http://stream.tvcdn.net/ulusal/atv.m3u8
 https://beyaztv-live.daioncdn.net/beyaztv/beyaztv_720p.m3u8
 
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/bayzero1905/msiptv/refs/heads/main/logolar/gstv.png" group-title="TV KANALLARI",GS TV 
-https://owifavo5.rocketcdn.com/gstv/gstv.smil/chunklist_b396000_sltur.m3u8
+https://owifavo5.rocketcdn.com/gstv/gstv.smil/master.m3u8
 
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/bayzero1905/msiptv/refs/heads/main/logolar/end.png" group-title="TV KANALLARI",END
 https://raw.githubusercontent.com/bayzero1905/msiptv/refs/heads/main/logolar/end.png
