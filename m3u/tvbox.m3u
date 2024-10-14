@@ -65,6 +65,9 @@ https://trt.daioncdn.net/trt-1/master_720p.m3u8?&sid=6jo8gz6q2uaz&app=ed3904e8-7
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/bayzero1905/msiptv/refs/heads/main/logolar/aspor.png" group-title="TV KANALLARI",A SPOR
 https://youtube.jitendraunatti.workers.dev/wanda.m3u8?id=7uBpwcn2ZZ0
 
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/bayzero1905/msiptv/refs/heads/main/logolar/htspor.png" group-title="TV KANALLARI",HT SPOR
+https://youtube.jitendraunatti.workers.dev/wanda.m3u8?id=RdpqsTbi_KU
+
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/bayzero1905/msiptv/refs/heads/main/logolar/beinsports.png" group-title="TV KANALLARI",BEIN SPORTS HABER
 https://youtube.jitendraunatti.workers.dev/wanda.m3u8?id=VCl1wO81VdM
 
@@ -82,6 +85,9 @@ http://stream.tvcdn.net/ulusal/atv.m3u8
 
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/bayzero1905/msiptv/refs/heads/main/logolar/beyaztv.png" group-title="TV KANALLARI",BEYAZ TV 
 https://beyaztv-live.daioncdn.net/beyaztv/beyaztv_720p.m3u8
+
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/bayzero1905/msiptv/refs/heads/main/logolar/gstv.png" group-title="TV KANALLARI",GS TV 
+https://owifavo5.rocketcdn.com/gstv/gstv.smil/chunklist_b396000_sltur.m3u8
 
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/bayzero1905/msiptv/refs/heads/main/logolar/end.png" group-title="TV KANALLARI",END
 https://raw.githubusercontent.com/bayzero1905/msiptv/refs/heads/main/logolar/end.png
