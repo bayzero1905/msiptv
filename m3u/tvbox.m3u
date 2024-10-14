@@ -147,10 +147,10 @@ https://raw.githubusercontent.com/bayzero1905/msiptv/refs/heads/main/logolar/end
 
 # ♦♦♦♦♦ Sorgu ♦♦♦♦♦
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/bayzero1905/msiptv/refs/heads/main/logolar/dizired.png" group-title="SORGU",1.Bölüm
-https://cdnfilmdizi4.xyz/upload/1aaf078ac255de6b759aa500aefdb7572803/master.m3u8
+https://s1.giomgr.xyz/hls2/03/00006/qjzfzs9u84zi_n/index-v1-a1.m3u8?t=OdMdyHAgdcnjlPvfn6m-M7kmttFOQXCUeogGnlZAOgk&s=1728891042&e=43200&f=30449&srv=127.0.0.1
 
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/bayzero1905/msiptv/refs/heads/main/logolar/dizired.png" group-title="SORGU",2.Bölüm
-https://cdnfilmdizi4.xyz/upload/30886bb448d02e6f6c647d14a719e720afea/master.m3u8
+https://s1.giomgr.xyz/hls2/03/00006/qs1tpdr51896_n/index-v1-a1.m3u8?t=SWlMMy7I8sCtXnGN0jWngxSD9YSNTCbWBXC4j7p6gP0&s=1728891089&e=43200&f=30448&srv=127.0.0.1
 
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/bayzero1905/msiptv/refs/heads/main/logolar/end.png" group-title="SORGU",END
 https://raw.githubusercontent.com/bayzero1905/msiptv/refs/heads/main/logolar/end.png
