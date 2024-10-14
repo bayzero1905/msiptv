@@ -48,10 +48,10 @@ https://raw.githubusercontent.com/bayzero1905/msiptv/refs/heads/main/logolar/end
 https://s1.giomgr.xyz/hls2/06/00006/eddpbpcwckgc_n/index-v1-a1.m3u8?t=waJNBwwXJueK6l31xysE3w5HjiLVNbS5Hd-dX9R0Wos&s=1728887262&e=43200&f=30178&srv=127.0.0.1
 
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/bayzero1905/msiptv/refs/heads/main/logolar/dizired.png" group-title="Dizi",2.Bölüm
-https://s1.giomgr.xyz/hls2/06/00006/49xbtjgdc8hq_n/master.m3u8?t=IpkTxh2uU_rm7J8448yer7ydjoon3mMiyfKdW29BTBk&s=1728887304&e=43200&f=30179&srv=127.0.0.1
+https://s1.giomgr.xyz/hls2/06/00006/49xbtjgdc8hq_n/index-v1-a1.m3u8?t=IpkTxh2uU_rm7J8448yer7ydjoon3mMiyfKdW29BTBk&s=1728887304&e=43200&f=30179&srv=127.0.0.1
 
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/bayzero1905/msiptv/refs/heads/main/logolar/dizired.png" group-title="Dizi",3.Bölüm
-https://s1.giomgr.xyz/hls2/06/00006/f65z36ftdppx_n/master.m3u8?t=gxksn0x_r7trUehXC7hUmdiMYa1Uf39ytKZTV1c0HLg&s=1728887332&e=43200&f=30180&srv=127.0.0.1
+https://s1.giomgr.xyz/hls2/06/00006/f65z36ftdppx_n/index-v1-a1.m3u8?t=gxksn0x_r7trUehXC7hUmdiMYa1Uf39ytKZTV1c0HLg&s=1728887332&e=43200&f=30180&srv=127.0.0.1
 
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/bayzero1905/msiptv/refs/heads/main/logolar/dizired.png" group-title="Dizi",4.Bölüm
 https://s1.giomgr.xyz/hls2/06/00006/amibo9pl90yu_n/index-v1-a1.m3u8?t=FuwJ7fxC_VzdhRsqIsW0s98mAoQrNEAXLnz2jxbRY5k&s=1728887356&e=43200&f=30181&srv=127.0.0.1
@@ -61,6 +61,9 @@ https://s1.giomgr.xyz/hls2/06/00006/h6rz6ah3phot_n/index-v1-a1.m3u8?t=MUlaSy3b5u
 
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/bayzero1905/msiptv/refs/heads/main/logolar/dizired.png" group-title="Dizi",6.Bölüm
 https://s1.giomgr.xyz/hls2/06/00006/oo035n4qrloe_n/index-v1-a1.m3u8?t=DJAz89CM22h_Ic7t_WtiuPDyUGdY_v3DuGILxLHNkmE&s=1728887448&e=43200&f=30183&srv=127.0.0.1
+
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/bayzero1905/msiptv/refs/heads/main/logolar/dizired.png" group-title="Dizi",7.Bölüm
+https://s1.giomgr.xyz/hls2/02/00006/bsq6mpo3ekxx_n/index-v1-a1.m3u8?t=KDa_bsy2yJBDRkHVrYimDQ_AuACVD5S77wumhiHokpc&s=1728889747&e=43200&f=30345&srv=127.0.0.1
 
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/bayzero1905/msiptv/refs/heads/main/logolar/end.png" group-title="Dizi",END
 https://raw.githubusercontent.com/bayzero1905/msiptv/refs/heads/main/logolar/end.png
