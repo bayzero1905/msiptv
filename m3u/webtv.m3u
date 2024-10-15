@@ -24,6 +24,12 @@ https://raw.githubusercontent.com/bayzero1905/msiptv/refs/heads/main/logolar/end
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/bayzero1905/msiptv/refs/heads/main/logolar/dizired.png" group-title="KONUŞANLAR",5.Sezon 3.Bölüm
 https://leeds.cdn77.host/hls2/01/00025/zp1age6ksmvk_n/index-v1-a1.m3u8?t=Zw12_0MMYHlMZyuVEW77kTnvGa8Z6Mg1B9ypFs2lAdA&s=1729011997&e=43200&f=125643&srv=x1&i=0.0&sp=5000&fr=zp1age6ksmvk&p1=leeds&p2=leeds
 
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/bayzero1905/msiptv/refs/heads/main/logolar/dizired.png" group-title="KONUŞANLAR",5.Sezon 4.Bölüm
+https://leeds.cdn77.host/hls2/01/00025/zp1age6ksmvk_n/index-v1-a2.m3u8?t=Zw12_0MMYHlMZyuVEW77kTnvGa8Z6Mg1B9ypFs2lAdA&s=1729011997&e=43200&f=125643&srv=x1&i=0.0&sp=5000&fr=zp1age6ksmvk&p1=leeds&p2=leeds
+
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/bayzero1905/msiptv/refs/heads/main/logolar/dizired.png" group-title="KONUŞANLAR",5.Sezon 5.Bölüm
+https://leeds.cdn77.host/hls2/01/00025/zp1age6ksmvk_n/master.m3u8?t=Zw12_0MMYHlMZyuVEW77kTnvGa8Z6Mg1B9ypFs2lAdA&s=1729011997&e=43200&f=125643&srv=x1&i=0.0&sp=5000&fr=zp1age6ksmvk&p1=leeds&p2=leeds
+
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/bayzero1905/msiptv/refs/heads/main/logolar/end.png" group-title="KONUŞANLAR",END
 https://raw.githubusercontent.com/bayzero1905/msiptv/refs/heads/main/logolar/end.png
 
