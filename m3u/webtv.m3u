@@ -4,8 +4,8 @@
 #EXTINF:0 tvg-logo="https://i.hizliresim.com/4jcj88z.png" group-title="TV DİZİLERİ",Kötü Kan 6.Bölüm
 https://nowtv-vod.ercdn.net/Kotu-Kan/bolumler/6/PDTKOTUKAN6HDYENIRTUK7YASVEUZERISIDDETOLUMSUZDAVRANISLAR.smil/hlssubplaylist-ovdnohwd_oacnK37.m3u8?e=1728731918&st=6P0QpWfwERQvpCBObx87Bw
 
-#EXTINF:0 tvg-logo="https://iaatv.tmgrup.com.tr/aaaa92/0/0/0/0/0/0?u=https://iatv.tmgrup.com.tr/2024/09/05/295x410/1725545448317.jpg" group-title="TV DİZİLERİ",Bir Gece Masalı 6.Bölüm
-https://atv-vod.ercdn.net/video/dizi/bir-gece-masali/6_rklp/f2ffcffd-93eb-4015-8f5f-38394cae89e1.hb.smil/hlssubplaylist-ovenMgjd_oacn0L7.m3u8?st=VcSSZjvVXvE9iPNQFgKv8g&e=1728470725
+#EXTINF:0 tvg-logo="https://iaatv.tmgrup.com.tr/aaaa92/0/0/0/0/0/0?u=https://iatv.tmgrup.com.tr/2024/09/05/295x410/1725545448317.jpg" group-title="TV DİZİLERİ",Bir Gece Masalı 7.Bölüm
+https://atv-vod.ercdn.net/video/dizi/bir-gece-masali/7_e74c/c76d9970-cf58-47ca-b8df-e01482e49cdf.hb.smil/hlssubplaylist-ovdnQkcf_oacnmM7.m3u8?st=wSmn30jZbK-zrs8W_fcw3g&e=1729077368
 
 #EXTINF:0 tvg-logo="https://tpsbayxekmes.merlincdn.net//i/posters/1691" group-title="TV DİZİLERİ",Yabani 41.Bölüm
 https://nowtv-vod.ercdn.net/Yabani/bolumler/41/PDTYABANI41HDRTUK7YASVEUZERISIDDETOLUMSUZDAVRANISLAR.smil/hlssubplaylist-ovdnohwd_oacnw37.m3u8?e=1728820465&st=WmN-nkaiASHem_jDlwDR1A
@@ -20,14 +20,17 @@ https://atv-vod.ercdn.net/video/dizi/karadut/4_sobf/aa0a460d-2c9f-4f05-b9df-ba52
 https://raw.githubusercontent.com/bayzero1905/msiptv/refs/heads/main/logolar/end.png
 
 
-# ♦♦♦♦♦ KONUŞANLAR ♦♦♦♦♦
-#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/bayzero1905/msiptv/refs/heads/main/logolar/dizired.png" group-title="KONUŞANLAR",5.Sezon 3.Bölüm
+# ♦♦♦♦♦ FİLM ♦♦♦♦♦
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/bayzero1905/msiptv/refs/heads/main/logolar/dizired.png" group-title="FİLM",Yalnız Gezegen
 https://poznan.cdn77.host/hls2/02/00025/snyexd09zxjh_n/index-v1-a2.m3u8?t=alJ4ORPoIhX4mLKEO_qyjQQ8KBYeao275DYcLKCFpio&s=1729031246&e=43200&f=125628&srv=x2&i=0.0&sp=5000&fr=snyexd09zxjh&p1=poznan&p2=poznan
 
-#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/bayzero1905/msiptv/refs/heads/main/logolar/dizired.png" group-title="KONUŞANLAR",5.Sezon 4.Bölüm
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/bayzero1905/msiptv/refs/heads/main/logolar/dizired.png" group-title="FİLM",Cloverfield Yolu No:10
 https://nantes.cdn77.host/hls2/01/00018/252pyrwcopwr_n/index-v1-a1.m3u8?t=6iZu4nnWf-N64eiPKu1cRuKvtGZx1L-r2J3ZqZ0cFVo&s=1729031364&e=43200&f=93109&srv=x1&i=0.0&sp=5000&p1=nantes&p2=nantesds
 
-#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/bayzero1905/msiptv/refs/heads/main/logolar/end.png" group-title="KONUŞANLAR",END
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/bayzero1905/msiptv/refs/heads/main/logolar/dizired.png" group-title="FİLM",Güneşi Söndürmem Gerek
+https://leicester.cdn77.host/hls2/01/00025/d3ogcb4g1vdi_n/index-v1-a1.m3u8?t=vkA1x8GmcaGWgFfqLPHOMV0oxpm33Tx2axBH9dy7jIM&s=1729032541&e=43200&f=125450&srv=x2&i=0.0&sp=5000&fr=d3ogcb4g1vdi&p1=leicester&p2=leicester
+
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/bayzero1905/msiptv/refs/heads/main/logolar/end.png" group-title="FİLM",END
 https://raw.githubusercontent.com/bayzero1905/msiptv/refs/heads/main/logolar/end.png
 
 
