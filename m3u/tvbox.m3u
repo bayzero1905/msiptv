@@ -7,8 +7,8 @@ https://vmcdn.ciner.com.tr/ht/2024/10/13/518E7BF5C04A2358E2D3440EC190A499/518E7B
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/bayzero1905/msiptv/refs/heads/main/logolar/kzlgnclr.png" group-title="TV DİZİLERİ",Kızıl Goncalar 22.Bölüm
 https://video.twimg.com/amplify_video/1845923490232258560/vid/avc1/1280x720/2LpGECow62eaBtwV.mp4?tag=16
 
-#EXTINF:0 tvg-logo="https://i.hizliresim.com/7aoj0d3.png" group-title="TV DİZİLERİ",Taş Kağıt Makas 18.Bölüm
-https://vod3.cf.dmcdn.net/sec2(r66wqxSqJ68r9LjoH9fluPpptdy0fHuGXdI7NM8QmCxamlgUlxaCryrkX7VcphEUd4KzZOhlfDq9zA-OdyVbJiWaa9ME5P44RDKmN55JStajtP0S_wc64NAMH_eGLNZ7vROqkiptNxcLMijTQJ0jLyBWdaPDYuQymGk9-nplQTX_7wN9SfV9rWiMTFPiyBkC)/video/246/970/556079642_mp4_h264_aac_hq_2.m3u8
+#EXTINF:0 tvg-logo="https://i.hizliresim.com/7aoj0d3.png" group-title="TV DİZİLERİ",Taş Kağıt Makas FİNAL
+https://vod3.cf.dmcdn.net/sec2(3SCJ-WXlJtPWjusLqqjcKZp8WoJtSW1o701c34NwT3gZ9smWy5r-ciyqFYpxK7_0dfSt2cMAbCOP5t4Tcjq2j4uxcp0R6_Jz5xpSHvxL8Uh26UYrpEkBUl07a3dCIFxAYDf02-O2i95RSq-49bDPx-zyoEnZn2aUm2HaYdSaBbbhR-8XOpV4Xt-jhL1KL8YX)/video/254/408/556804452_mp4_h264_aac_hq_2.m3u8
 
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/bayzero1905/msiptv/refs/heads/main/logolar/inctnlr.png" group-title="TV DİZİLERİ",İnci Taneleri 18.Bölüm
 https://kanaldvod.duhnet.tv/hls/F/SX/incit_18_blm/incit_18_blm.smil/hlssubplaylist-ovdnEmSf_oacnOx7.m3u8?&app=com.kanald&min=0&max=1250
@@ -111,21 +111,6 @@ https://raw.githubusercontent.com/bayzero1905/msiptv/refs/heads/main/logolar/end
 
 
 # ♦♦♦♦♦ Prison Break ♦♦♦♦♦
-#EXTINF:0 tvg-logo="https://i.hizliresim.com/prhjcs1.png" group-title="Prison Break",22.Bölüm
-https://storage.diziyou.co/episodes/10022_tr/720p.m3u8
-
-#EXTINF:0 tvg-logo="https://i.hizliresim.com/qtz7amq.png" group-title="Prison Break",2.Sezon 1.Bölüm
-https://storage.diziyou.co/episodes/10023_tr/720p.m3u8
-
-#EXTINF:0 tvg-logo="https://i.hizliresim.com/qtz7amq.png" group-title="Prison Break",2.Sezon 2.Bölüm
-https://storage.diziyou.co/episodes/10024_tr/720p.m3u8
-
-#EXTINF:0 tvg-logo="https://i.hizliresim.com/qtz7amq.png" group-title="Prison Break",2.Sezon 3.Bölüm
-https://storage.diziyou.co/episodes/10025_tr/720p.m3u8
-
-#EXTINF:0 tvg-logo="https://i.hizliresim.com/qtz7amq.png" group-title="Prison Break",2.Sezon 4.Bölüm
-https://storage.diziyou.co/episodes/10026_tr/720p.m3u8
-
 #EXTINF:0 tvg-logo="https://i.hizliresim.com/qtz7amq.png" group-title="Prison Break",2.Sezon 5.Bölüm
 https://storage.diziyou.co/episodes/10027_tr/720p.m3u8
 
@@ -137,6 +122,21 @@ https://storage.diziyou.co/episodes/10029_tr/720p.m3u8
 
 #EXTINF:0 tvg-logo="https://i.hizliresim.com/qtz7amq.png" group-title="Prison Break",2.Sezon 8.Bölüm
 https://storage.diziyou.co/episodes/10030_tr/720p.m3u8
+
+#EXTINF:0 tvg-logo="https://i.hizliresim.com/qtz7amq.png" group-title="Prison Break",2.Sezon 9.Bölüm
+https://storage.diziyou.co/episodes/10031_tr/720p.m3u8
+
+#EXTINF:0 tvg-logo="https://i.hizliresim.com/qtz7amq.png" group-title="Prison Break",2.Sezon 10.Bölüm
+https://storage.diziyou.co/episodes/10032_tr/720p.m3u8
+
+#EXTINF:0 tvg-logo="https://i.hizliresim.com/qtz7amq.png" group-title="Prison Break",2.Sezon 11.Bölüm
+https://storage.diziyou.co/episodes/10033_tr/720p.m3u8
+
+#EXTINF:0 tvg-logo="https://i.hizliresim.com/qtz7amq.png" group-title="Prison Break",2.Sezon 12.Bölüm
+https://storage.diziyou.co/episodes/10034_tr/720p.m3u8
+
+#EXTINF:0 tvg-logo="https://i.hizliresim.com/qtz7amq.png" group-title="Prison Break",2.Sezon 13.Bölüm
+https://storage.diziyou.co/episodes/10035_tr/720p.m3u8
 
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/bayzero1905/msiptv/refs/heads/main/logolar/end.png" group-title="Prison Break",END
 https://raw.githubusercontent.com/bayzero1905/msiptv/refs/heads/main/logolar/end.png
