@@ -51,6 +51,12 @@ https://vs8.photomag.biz/v/Its.Whats.Inside.2024.WEB-DL.1080p.DUAL/480.m3u8
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/bayzero1905/msiptv/refs/heads/main/logolar/film.png" group-title="FİLMLER",Omen: İlk Kehanet
 https://vs4.photour.org/v/yg4u9hexkr8z/master.m3u8
 
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/bayzero1905/msiptv/refs/heads/main/logolar/film.png" group-title="FİLMLER",Mavi Mağara
+https://lyon.cdn77.host/hls2/02/00025/xhwds9azd21s_n/index-v1-a1.m3u8?t=0l5haMTWTv1YZ3blpmW2gxVx5ET6mfMw1jQtd0092Zs&s=1729237135&e=43200&f=125646&srv=x2&i=0.0&sp=5000&fr=xhwds9azd21s&p1=lyon&p2=lyon
+
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/bayzero1905/msiptv/refs/heads/main/logolar/film.png" group-title="FİLMLER",Mavi Mucize
+https://lokiload.net/upload/videos/2022/04/WBW7JBMnYbPbuFOxif1Y_03_53759918564df4de1bf7ee5afa23afe0_video/master.m3u8
+
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/bayzero1905/msiptv/refs/heads/main/logolar/end.png" group-title="FİLMLER",END
 https://raw.githubusercontent.com/bayzero1905/msiptv/refs/heads/main/logolar/theend.mp4
 
@@ -142,6 +148,12 @@ https://cdnfilmdizi4.xyz/upload/1aaf078ac255de6b759aa500aefdb7572803/master.m3u8
 
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/bayzero1905/msiptv/refs/heads/main/logolar/dizired.png" group-title="SORGU",2.Bölüm
 https://cdnfilmdizi4.xyz/upload/30886bb448d02e6f6c647d14a719e720afea/master.m3u8
+
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/bayzero1905/msiptv/refs/heads/main/logolar/dizired.png" group-title="SORGU",3.Bölüm
+https://cdnfilmdizi4.xyz/upload/23983bc6ef2b637f25bbd563fefa4047fb60/master.m3u8
+
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/bayzero1905/msiptv/refs/heads/main/logolar/dizired.png" group-title="SORGU",4.Bölüm
+https://cdnfilmdizi4.xyz/upload/223fcbadbf0140d7e71b197fac8cc3486e22/master.m3u8
 
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/bayzero1905/msiptv/refs/heads/main/logolar/end.png" group-title="SORGU",END
 https://raw.githubusercontent.com/bayzero1905/msiptv/refs/heads/main/logolar/theend.mp4
