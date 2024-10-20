@@ -91,6 +91,13 @@ https://krakow.cdn77.host/hls2/02/00025/blst44gz68ai_n/index-v1-a1.m3u8?t=hJQ2iR
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/bayzero1905/msiptv/refs/heads/main/logolar/end.png" group-title="KONUŞANLAR",END
 https://raw.githubusercontent.com/bayzero1905/msiptv/refs/heads/main/logolar/theend.mp4
 
+# ♦♦♦♦♦ GS ÖZET ♦♦♦♦♦
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/bayzero1905/msiptv/refs/heads/main/logolar/dizired.png" group-title="GS ÖZET",Antalya-Gs
+https://eu-s2.dt.ercdn.com/s2/progressive/L/xa/ligtvcomtr_tauri_ozt_20242025_9_ant_gs_9h_19ekim_ip.mp4?st=wiMpW495lJS1V9-N9DrP2A&e=1729415536
+
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/bayzero1905/msiptv/refs/heads/main/logolar/end.png" group-title="GS ÖZET",END
+https://raw.githubusercontent.com/bayzero1905/msiptv/refs/heads/main/logolar/theend.mp4
+
 
 
 
