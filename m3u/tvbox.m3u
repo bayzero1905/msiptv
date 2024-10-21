@@ -10,8 +10,11 @@ https://video.twimg.com/amplify_video/1845923490232258560/vid/avc1/1280x720/2LpG
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/bayzero1905/msiptv/refs/heads/main/logolar/inctnlr.png" group-title="TV DİZİLERİ",İnci Taneleri 19.Bölüm
 https://kanaldvod.duhnet.tv/hls/E/Yq/it19_blms/it19_blms.smil/hlssubplaylist-ovdnEmSf_oacnOx7.m3u8?&app=com.kanald&min=0&max=1250
 
-#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/bayzero1905/msiptv/refs/heads/main/logolar/cgh.png" group-title="TV DİZİLERİ",Ç.G.Hareketler 178.Bölüm
-https://startv-p3.mncdn.com/smil:cgh2_bolum178_DD_smil.smil/chunklist_b1628000.m3u8?st=_A4JkEI-iOcz1aeqjD4rog&e=1728980455
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/bayzero1905/msiptv/refs/heads/main/logolar/cgh.png" group-title="TV DİZİLERİ",Ç.G.Hareketler 179.Bölüm
+https://startv-p3.mncdn.com/smil:cgh2_bolum179_DD_smil.smil/chunklist_b1028000.m3u8?st=YTi48K8L5rwcTnrD4grRsw&e=1729587824
+
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/bayzero1905/msiptv/refs/heads/main/logolar/klpzn.png" group-title="TV DİZİLERİ",Kalpazan 1.Bölüm 
+https://kanaldvod.duhnet.tv/hls/E/Yq/it19_blms/it19_blms.smil/hlssubplaylist-ovdnEmSf_oacnOx7.m3u8?&app=com.kanald&min=0&max=1250
 
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/bayzero1905/msiptv/refs/heads/main/logolar/end.png" group-title="TV DİZİLERİ",END
 https://raw.githubusercontent.com/bayzero1905/msiptv/refs/heads/main/logolar/theend.mp4
