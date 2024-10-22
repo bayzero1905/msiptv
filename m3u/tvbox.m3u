@@ -4,8 +4,8 @@
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/bayzero1905/msiptv/refs/heads/main/logolar/deha.png" group-title="TV DİZİLERİ",Deha 5.Bölüm
 https://vmcdn.ciner.com.tr/ht/2024/10/20/0F960BF8BB6520BFB23718ED16CDF476/0F960BF8BB6520BFB23718ED16CDF476.m3u8
 
-#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/bayzero1905/msiptv/refs/heads/main/logolar/kzlgnclr.png" group-title="TV DİZİLERİ",Kızıl Goncalar 22.Bölüm
-https://video.twimg.com/amplify_video/1845923490232258560/vid/avc1/1280x720/2LpGECow62eaBtwV.mp4?tag=16
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/bayzero1905/msiptv/refs/heads/main/logolar/kzlgnclr.png" group-title="TV DİZİLERİ",Kızıl Goncalar 23.Bölüm
+https://video.twimg.com/amplify_video/1848471699403972608/vid/avc1/1280x720/WdfzExixBt0UqU93.mp4?tag=16
 
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/bayzero1905/msiptv/refs/heads/main/logolar/inctnlr.png" group-title="TV DİZİLERİ",İnci Taneleri 19.Bölüm
 https://kanaldvod.duhnet.tv/hls/E/Yq/it19_blms/it19_blms.smil/hlssubplaylist-ovdnEmSf_oacnOx7.m3u8?&app=com.kanald&min=0&max=1250
@@ -14,7 +14,7 @@ https://kanaldvod.duhnet.tv/hls/E/Yq/it19_blms/it19_blms.smil/hlssubplaylist-ovd
 https://startv-p3.mncdn.com/smil:cgh2_bolum179_DD_smil.smil/chunklist_b1028000.m3u8?st=YTi48K8L5rwcTnrD4grRsw&e=1729587824
 
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/bayzero1905/msiptv/refs/heads/main/logolar/klpzn.png" group-title="TV DİZİLERİ",Kalpazan 1.Bölüm 
-https://kanaldvod.duhnet.tv/hls/E/Yq/it19_blms/it19_blms.smil/hlssubplaylist-ovdnEmSf_oacnOx7.m3u8?&app=com.kanald&min=0&max=1250
+https://vmcdn.ciner.com.tr/ht/2024/10/21/7189CC8D94D88DF14F70CE846D68CFE7/7189CC8D94D88DF14F70CE846D68CFE7.m3u8
 
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/bayzero1905/msiptv/refs/heads/main/logolar/end.png" group-title="TV DİZİLERİ",END
 https://raw.githubusercontent.com/bayzero1905/msiptv/refs/heads/main/logolar/theend.mp4
