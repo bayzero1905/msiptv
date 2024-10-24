@@ -1,6 +1,9 @@
 #EXTM3U
 
 # ♦♦♦♦♦ TV DİZİLERİ ♦♦♦♦♦
+#EXTINF:0 tvg-logo="https://mo.ciner.com.tr/showtv/iu/393x220/sandik-kokusu.jpg" group-title="TV DİZİLERİ",Sandık Kokusu 31.Bölüm
+https://vmcdn.ciner.com.tr/ht/2024/10/16/44D08331B3E3F539C70169D42221E7C8/44D08331B3E3F539C70169D42221E7C8.m3u8
+
 #EXTINF:0 tvg-logo="https://i.hizliresim.com/4jcj88z.png" group-title="TV DİZİLERİ",Kötü Kan 6.Bölüm
 https://nowtv-vod.ercdn.net/Kotu-Kan/bolumler/6/PDTKOTUKAN6HDYENIRTUK7YASVEUZERISIDDETOLUMSUZDAVRANISLAR.smil/hlssubplaylist-ovdnohwd_oacnK37.m3u8?e=1728731918&st=6P0QpWfwERQvpCBObx87Bw
 
@@ -61,8 +64,8 @@ https://raw.githubusercontent.com/bayzero1905/msiptv/refs/heads/main/logolar/the
 
 
 # ♦♦♦♦♦ YOUTUBE ♦♦♦♦♦
-#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/bayzero1905/msiptv/refs/heads/main/logolar/dizired.png" group-title="YOUTUBE",İnci Taneleri 18.Bölüm
-https://www.youtube.com/watch?v=Ay51GOuT8no
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/bayzero1905/msiptv/refs/heads/main/logolar/dizired.png" group-title="YOUTUBE",ÇGH 179.Bölüm
+https://www.youtube.com/watch?v=Jc53cSERe-A
 
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/bayzero1905/msiptv/refs/heads/main/logolar/dizired.png" group-title="YOUTUBE",Gizli Bahçe 1.Bölüm
 https://www.youtube.com/watch?v=xKFDODueCF4
