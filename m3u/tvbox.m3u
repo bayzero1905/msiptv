@@ -7,9 +7,6 @@ https://vmcdn.ciner.com.tr/ht/2024/10/20/0F960BF8BB6520BFB23718ED16CDF476/0F960B
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/bayzero1905/msiptv/refs/heads/main/logolar/kzlgnclr.png" group-title="TV DİZİLERİ",Kızıl Goncalar 23.Bölüm
 https://video.twimg.com/amplify_video/1848471699403972608/vid/avc1/1280x720/WdfzExixBt0UqU93.mp4?tag=16
 
-#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/bayzero1905/msiptv/refs/heads/main/logolar/kzlgnclr.png" group-title="TV DİZİLERİ",Kızıl Goncalar YEDEK
-https://vod3.cf.dmcdn.net/sec2(X0mkL7eIOE-cYujerETzRTljduuPge8xG5gLN6qcqGGsJCX2YKy9j0K9CEFBm6qHMOK7940HSOn42Mz4fnbVlK-kEYv3X490qaLF0liAI3L5WNxsGozcoFN4iAZaQt0Qq09w3ZkXsGX4G1TZrXTHW91u7gzBqx-PPNfmvYjOb-slnkc2hq-wK0lgS4zb7YzR)/video/245/503/557305542_mp4_h264_aac_hd_1.m3u8
-
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/bayzero1905/msiptv/refs/heads/main/logolar/inctnlr.png" group-title="TV DİZİLERİ",İnci Taneleri 19.Bölüm
 https://kanaldvod.duhnet.tv/hls/E/Yq/it19_blms/it19_blms.smil/hlssubplaylist-ovdnEmSf_oacnOx7.m3u8?&app=com.kanald&min=0&max=1250
 
@@ -24,6 +21,13 @@ https://raw.githubusercontent.com/bayzero1905/msiptv/refs/heads/main/logolar/the
 
 
 # ♦♦♦♦♦ FİLMLER ♦♦♦♦♦
+
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/bayzero1905/msiptv/refs/heads/main/logolar/film.png" group-title="FİLMLER",Gözlerini Kırp
+https://vs6.pictureflix.org/v/Blink.Twice.2024.WEB-DL.1080p.DUAL/480.m3u8
+
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/bayzero1905/msiptv/refs/heads/main/logolar/film.png" group-title="FİLMLER",Furiosa: Bir Mad Max Destanı
+https://vs2.photour.org/v/Furiosa.A.Mad.Max.Saga.2024.WEB-DL.1080p.DUAL2/480.m3u8
+
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/bayzero1905/msiptv/refs/heads/main/logolar/film.png" group-title="FİLMLER",Günlük
 https://vs5.gamephotos.biz/v/El.Diario.2024.WEB-DL.1080p.DUAL/480.m3u8
 
