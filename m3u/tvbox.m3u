@@ -21,6 +21,8 @@ https://raw.githubusercontent.com/bayzero1905/msiptv/refs/heads/main/logolar/the
 
 
 # ♦♦♦♦♦ FİLMLER ♦♦♦♦♦
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/bayzero1905/msiptv/refs/heads/main/logolar/film.png" group-title="FİLMLER",Soğuk Savaş
+https://p1.photofunia.org/v/zrpdbafrkbzc/360.m3u8
 
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/bayzero1905/msiptv/refs/heads/main/logolar/film.png" group-title="FİLMLER",Gözlerini Kırp
 https://vs6.pictureflix.org/v/Blink.Twice.2024.WEB-DL.1080p.DUAL/480.m3u8
