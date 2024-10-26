@@ -221,5 +221,20 @@ https://lodz.cdn77.host/hls2/01/00025/uk7095i1mhro_n/index-v1-a1.m3u8?t=6chqLGU2
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/bayzero1905/msiptv/refs/heads/main/logolar/dizired.png" group-title="Marnalı",5.Bölüm
 https://exeter.cdn77.host/hls2/01/00025/jsd4no1yfdhd_n/index-v1-a1.m3u8?t=-rMPAV5UBs43x2IQ7CqKWDW-poi8-P5JxvA57Nf8UXY&s=1729927062&e=43200&f=125677&srv=x1&i=0.0&sp=5000&p1=exeter&p2=exeter
 
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/bayzero1905/msiptv/refs/heads/main/logolar/dizired.png" group-title="Marnalı",6.Bölüm
+https://lyon.cdn77.host/hls2/01/00025/s3cn23qdhiqs_n/index-v1-a1.m3u8?t=37pvDHnjxa9fblbHaxVk3kCR-ECJl2utYFWRUkxPAqE&s=1729934977&e=43200&f=125668&srv=x1&i=0.0&sp=5000&p1=lyon&p2=lyon
+
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/bayzero1905/msiptv/refs/heads/main/logolar/dizired.png" group-title="Marnalı",7.Bölüm
+https://nice.cdn77.host/hls2/01/00025/j7fr5kn49jh5_n/index-v1-a1.m3u8?t=pSHIlhIsMR-UGaXvi-OeTZvWw-Wdlp2sSvaMg0PB_pw&s=1729935000&e=43200&f=125669&srv=x1&i=0.0&sp=5000&p1=nice&p2=nice
+
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/bayzero1905/msiptv/refs/heads/main/logolar/dizired.png" group-title="Marnalı",8.Bölüm
+https://krakow.cdn77.host/hls2/01/00025/dckdzu1nicw3_n/index-v1-a1.m3u8?t=dADPTI2l3UzGC_C61lcdX-0aLrblMnupVpTiBluKB_0&s=1729935073&e=43200&f=125670&srv=x1&i=0.0&sp=5000&p1=krakow&p2=krakow
+
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/bayzero1905/msiptv/refs/heads/main/logolar/dizired.png" group-title="Marnalı",9.Bölüm
+https://bristol.cdn77.host/hls2/01/00025/m92o538jrqe5_n/index-v1-a1.m3u8?t=FeM7RJILmR8gnQFnlnL9TfXQ529X-2bLcfhkvWjozAA&s=1729935087&e=43200&f=125671&srv=x1&i=0.0&sp=5000&p1=bristol&p2=bristol
+
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/bayzero1905/msiptv/refs/heads/main/logolar/dizired.png" group-title="Marnalı",10.Bölüm
+https://krakow.cdn77.host/hls2/01/00025/w82hqbdsmuxr_n/index-v1-a1.m3u8?t=nZ-Ny-8gKQHIO1Ifym_Z40U2T1Nuj3aWsRzwuNW8ZUU&s=1729935100&e=43200&f=125672&srv=x1&i=0.0&sp=5000&p1=krakow&p2=krakow
+
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/bayzero1905/msiptv/refs/heads/main/logolar/end.png" group-title="Marnalı",END
 https://raw.githubusercontent.com/bayzero1905/msiptv/refs/heads/main/logolar/theend.mp4
