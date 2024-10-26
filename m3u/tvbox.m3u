@@ -204,3 +204,22 @@ https://cdnfilmdizi4.xyz/upload/5d2eda01cafdf41b4db6fb5d3c95c291b124/master.m3u8
 
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/bayzero1905/msiptv/refs/heads/main/logolar/end.png" group-title="SORGU",END
 https://raw.githubusercontent.com/bayzero1905/msiptv/refs/heads/main/logolar/theend.mp4
+
+# ♦♦♦♦♦ Marnalı ♦♦♦♦♦
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/bayzero1905/msiptv/refs/heads/main/logolar/dizired.png" group-title="Marnalı",1.Bölüm
+https://strasbourg.cdn77.host/hls2/01/00025/fjworpqpaxqo_n/index-v1-a1.m3u8?t=uQ2qsIn0owxivkPKBoVEl5IrJ1dUritEini-nC5YE1Q&s=1729926858&e=43200&f=125673&srv=x1&i=0.0&sp=5000&p1=strasbourg&p2=strasbourg
+
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/bayzero1905/msiptv/refs/heads/main/logolar/dizired.png" group-title="Marnalı",2.Bölüm
+https://paris.cdn77.host/hls2/01/00025/6rhr3tgkywdw_n/index-v1-a1.m3u8?t=DA4yjHcFU01wK3qd4UHWkZzBuTZIzKJpAz_QTXqHf0E&s=1729926969&e=43200&f=125674&srv=x1&i=0.0&sp=5000&p1=paris&p2=paris
+
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/bayzero1905/msiptv/refs/heads/main/logolar/dizired.png" group-title="Marnalı",3.Bölüm
+https://szczecin.cdn77.host/hls2/01/00025/u58h6anlepmo_n/index-v1-a1.m3u8?t=eLlwLFWXUquwLItjonqVAnaiWO14ioFI86cZ8P1V4PU&s=1729927009&e=43200&f=125675&srv=x1&i=0.0&sp=5000&p1=szczecin&p2=szczecin
+
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/bayzero1905/msiptv/refs/heads/main/logolar/dizired.png" group-title="Marnalı",4.Bölüm
+https://lodz.cdn77.host/hls2/01/00025/uk7095i1mhro_n/index-v1-a1.m3u8?t=6chqLGU2ACt5dlqLRsodfSKI_HWWbdIRkHLkC2LFIoc&s=1729927050&e=43200&f=125676&srv=x1&i=0.0&sp=5000&p1=lodz&p2=lodz
+
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/bayzero1905/msiptv/refs/heads/main/logolar/dizired.png" group-title="Marnalı",5.Bölüm
+https://exeter.cdn77.host/hls2/01/00025/jsd4no1yfdhd_n/index-v1-a1.m3u8?t=-rMPAV5UBs43x2IQ7CqKWDW-poi8-P5JxvA57Nf8UXY&s=1729927062&e=43200&f=125677&srv=x1&i=0.0&sp=5000&p1=exeter&p2=exeter
+
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/bayzero1905/msiptv/refs/heads/main/logolar/end.png" group-title="Marnalı",END
+https://raw.githubusercontent.com/bayzero1905/msiptv/refs/heads/main/logolar/theend.mp4
