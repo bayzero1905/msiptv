@@ -1,8 +1,8 @@
 #EXTM3U
 
 # ♦♦♦♦♦ TV DİZİLERİ ♦♦♦♦♦
-#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/bayzero1905/msiptv/refs/heads/main/logolar/deha.png" group-title="TV DİZİLERİ",Deha 5.Bölüm
-https://vmcdn.ciner.com.tr/ht/2024/10/20/0F960BF8BB6520BFB23718ED16CDF476/0F960BF8BB6520BFB23718ED16CDF476.m3u8
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/bayzero1905/msiptv/refs/heads/main/logolar/deha.png" group-title="TV DİZİLERİ",Deha 6.Bölüm
+https://vmcdn.ciner.com.tr/ht/2024/10/27/AC7CCBE99D7572EB5DCF83A6539E8C95/AC7CCBE99D7572EB5DCF83A6539E8C95.m3u8
 
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/bayzero1905/msiptv/refs/heads/main/logolar/kzlgnclr.png" group-title="TV DİZİLERİ",Kızıl Goncalar 23.Bölüm
 https://video.twimg.com/amplify_video/1848471699403972608/vid/avc1/1280x720/WdfzExixBt0UqU93.mp4?tag=16
@@ -206,18 +206,6 @@ https://cdnfilmdizi4.xyz/upload/5d2eda01cafdf41b4db6fb5d3c95c291b124/master.m3u8
 https://raw.githubusercontent.com/bayzero1905/msiptv/refs/heads/main/logolar/theend.mp4
 
 # ♦♦♦♦♦ Marnalı ♦♦♦♦♦
-#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/bayzero1905/msiptv/refs/heads/main/logolar/dizired.png" group-title="Marnalı",4.Bölüm
-https://bialystok.cdn77.host/hls2/01/00025/uk7095i1mhro_n/index-v1-a1.m3u8?t=NYLkQwfIqzB3ZYOp1Sif6n9pTtmijXK7vdE5-SuB-zM&s=1730042862&e=43200&f=125676&srv=x1&i=0.0&sp=5000&p1=bialystok&p2=bialystok
-
-#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/bayzero1905/msiptv/refs/heads/main/logolar/dizired.png" group-title="Marnalı",5.Bölüm
-https://krakow.cdn77.host/hls2/01/00025/jsd4no1yfdhd_n/index-v1-a1.m3u8?t=8-ASwyIpPWqgYeZ8179MKy60Pu_ckULJ6L_H4V1mD6c&s=1730042881&e=43200&f=125677&srv=x1&i=0.0&sp=5000&p1=krakow&p2=krakow
-
-#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/bayzero1905/msiptv/refs/heads/main/logolar/dizired.png" group-title="Marnalı",6.Bölüm
-https://szczecin.cdn77.host/hls2/01/00025/s3cn23qdhiqs_n/index-v1-a1.m3u8?t=s8LkhkTZjcOa7pjK-Ekoan9H2dzWBWZaWKwWNIz4uB4&s=1730042919&e=43200&f=125668&srv=x1&i=0.0&sp=5000&p1=szczecin&p2=szczecin
-
-#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/bayzero1905/msiptv/refs/heads/main/logolar/dizired.png" group-title="Marnalı",7.Bölüm
-https://strasbourg.cdn77.host/hls2/01/00025/j7fr5kn49jh5_n/index-v1-a1.m3u8?t=jg52wU_DVyxfxPTK1TLxEGSNgO1-Vkm-Eyt-plaNPWM&s=1730042935&e=43200&f=125669&srv=x1&i=0.0&sp=5000&p1=strasbourg&p2=strasbourg
-
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/bayzero1905/msiptv/refs/heads/main/logolar/dizired.png" group-title="Marnalı",8.Bölüm
 https://exeter.cdn77.host/hls2/01/00025/dckdzu1nicw3_n/index-v1-a1.m3u8?t=-BS-t1DpnAvfATv22ej167HbHA6JX22c7LFhV16tKxU&s=1730042950&e=43200&f=125670&srv=x1&i=0.0&sp=5000&p1=exeter&p2=exeter
 
