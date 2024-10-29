@@ -13,8 +13,8 @@ https://kanaldvod.duhnet.tv/hls/E/Yq/it19_blms/it19_blms.smil/hlssubplaylist-ovd
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/bayzero1905/msiptv/refs/heads/main/logolar/cgh.png" group-title="TV DİZİLERİ",Ç.G.Hareketler 179.Bölüm
 https://startv-p3.mncdn.com/smil:cgh2_bolum179_DD_smil.smil/chunklist_b1028000.m3u8?st=YTi48K8L5rwcTnrD4grRsw&e=1729587824
 
-#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/bayzero1905/msiptv/refs/heads/main/logolar/klpzn.png" group-title="TV DİZİLERİ",Kalpazan 1.Bölüm 
-https://vmcdn.ciner.com.tr/ht/2024/10/21/7189CC8D94D88DF14F70CE846D68CFE7/7189CC8D94D88DF14F70CE846D68CFE7.m3u8
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/bayzero1905/msiptv/refs/heads/main/logolar/klpzn.png" group-title="TV DİZİLERİ",Kalpazan 2.Bölüm 
+https://vmcdn.ciner.com.tr/ht/2024/10/28/79D42D969081EB011A7F19A385ACD609/79D42D969081EB011A7F19A385ACD609.m3u8
 
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/bayzero1905/msiptv/refs/heads/main/logolar/end.png" group-title="TV DİZİLERİ",END
 https://raw.githubusercontent.com/bayzero1905/msiptv/refs/heads/main/logolar/theend.mp4
