@@ -21,6 +21,9 @@ https://raw.githubusercontent.com/bayzero1905/msiptv/refs/heads/main/logolar/the
 
 
 # ♦♦♦♦♦ FİLMLER ♦♦♦♦♦
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/bayzero1905/msiptv/refs/heads/main/logolar/film.png" group-title="FİLMLER",Ibelin
+https://vs8.photour.org/v/Ibelin.2024.WEB-DL.1080p.DUAL/480.m3u8
+
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/bayzero1905/msiptv/refs/heads/main/logolar/film.png" group-title="FİLMLER",Kıpırdama
 https://vs7.photour.org/v/Dont.Move.2024.WEB-DL.1080p.DUAL/480.m3u8
 
