@@ -21,6 +21,9 @@ https://raw.githubusercontent.com/bayzero1905/msiptv/refs/heads/main/logolar/the
 
 
 # ♦♦♦♦♦ FİLMLER ♦♦♦♦♦
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/bayzero1905/msiptv/refs/heads/main/logolar/film.png" group-title="FİLMLER",Atatürk II
+https://strasbourg.cdn77.host/hls2/01/00025/k41qnumhct2z_n/index-v1-a1.m3u8?t=dxDn6tSV0AIVU0yga3EWCaFDDgsqtrRu7R1s5op371k&s=1730381741&e=43200&f=125692&srv=x1&i=0.0&sp=5000&fr=k41qnumhct2z&p1=strasbourg&p2=strasbourg
+
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/bayzero1905/msiptv/refs/heads/main/logolar/film.png" group-title="FİLMLER",Ibelin
 https://vs8.photour.org/v/Ibelin.2024.WEB-DL.1080p.DUAL/480.m3u8
 
@@ -206,14 +209,8 @@ https://cdnfilmdizi4.xyz/upload/5d2eda01cafdf41b4db6fb5d3c95c291b124/master.m3u8
 https://raw.githubusercontent.com/bayzero1905/msiptv/refs/heads/main/logolar/theend.mp4
 
 # ♦♦♦♦♦ Marnalı ♦♦♦♦♦
-#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/bayzero1905/msiptv/refs/heads/main/logolar/dizired.png" group-title="Marnalı",8.Bölüm
-https://lille.cdn77.host/hls2/01/00025/dckdzu1nicw3_n/index-v1-a1.m3u8?t=PHGDpIJxeIgZ8xDjmM7EfBXo-abwp-qNABzFAH7Xri8&s=1730294487&e=43200&f=125670&srv=x1&i=0.0&sp=5000&p1=lille&p2=lille
-
-#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/bayzero1905/msiptv/refs/heads/main/logolar/dizired.png" group-title="Marnalı",9.Bölüm
-https://szczecin.cdn77.host/hls2/01/00025/m92o538jrqe5_n/index-v1-a1.m3u8?t=mw1-8h1lh1xRJPdk_JulucjWOdsDOBHCl4GLOTPSnbc&s=1730294529&e=43200&f=125671&srv=x1&i=0.0&sp=5000&p1=szczecin&p2=szczecin
-
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/bayzero1905/msiptv/refs/heads/main/logolar/dizired.png" group-title="Marnalı",10.Bölüm
-https://marseille.cdn77.host/hls2/01/00025/w82hqbdsmuxr_n/index-v1-a1.m3u8?t=zTF8gUJERRTP_Vb-vTDX6qQuLO4dqNlfT9O6MO69aWY&s=1730294542&e=43200&f=125672&srv=x1&i=0.0&sp=5000&p1=marseille&p2=marseille
+https://nottingham.cdn77.host/hls2/01/00025/w82hqbdsmuxr_n/index-v1-a1.m3u8?t=YSvOPlZN2dHxueLJ6A_ZkcmWcFh_zrXf5p2T_UMhgPE&s=1730381632&e=43200&f=125672&srv=x1&i=0.0&sp=5000&p1=nottingham&p2=nottingham
 
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/bayzero1905/msiptv/refs/heads/main/logolar/end.png" group-title="Marnalı",END
 https://raw.githubusercontent.com/bayzero1905/msiptv/refs/heads/main/logolar/theend.mp4
