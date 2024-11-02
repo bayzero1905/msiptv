@@ -144,12 +144,6 @@ https://raw.githubusercontent.com/bayzero1905/msiptv/refs/heads/main/logolar/the
 
 
 # ♦♦♦♦♦ Prison Break ♦♦♦♦♦
-#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/bayzero1905/msiptv/refs/heads/main/logolar/prison.png" group-title="Prison Break",3.Sezon 3.Bölüm
-https://storage.diziyou.co/episodes/10047_tr/720p.m3u8
-
-#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/bayzero1905/msiptv/refs/heads/main/logolar/prison.png" group-title="Prison Break",3.Sezon 4.Bölüm
-https://storage.diziyou.co/episodes/10048_tr/720p.m3u8
-
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/bayzero1905/msiptv/refs/heads/main/logolar/prison.png" group-title="Prison Break",3.Sezon 5.Bölüm
 https://storage.diziyou.co/episodes/10049_tr/720p.m3u8
 
@@ -199,6 +193,12 @@ https://cdnfilmdizi4.xyz/upload/0e8796e6ade4c6b3312447ee4391821c2b18/master.m3u8
 
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/bayzero1905/msiptv/refs/heads/main/logolar/dizired.png" group-title="SORGU",6.Bölüm
 https://cdnfilmdizi4.xyz/upload/5d2eda01cafdf41b4db6fb5d3c95c291b124/master.m3u8
+
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/bayzero1905/msiptv/refs/heads/main/logolar/dizired.png" group-title="SORGU",7.Bölüm
+https://lyon.cdn77.host/hls2/01/00025/nrhpd28v6ne1_n/index-v1-a1.m3u8?t=l4pal57v-6mY1lDTSCJcfaZPIF_3V3r9do8xhJG4m2g&s=1730548742&e=43200&f=125695&srv=x1&i=0.0&sp=5000&fr=nrhpd28v6ne1&p1=lyon&p2=lyon
+
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/bayzero1905/msiptv/refs/heads/main/logolar/dizired.png" group-title="SORGU",8.Bölüm
+https://lublin.cdn77.host/hls2/01/00025/m83awfx00ppa_n/index-v1-a1.m3u8?t=9qE89tpYftYF6Gew02bWP40qW2yQJbWSpRKHRR5EE6Y&s=1730548766&e=43200&f=125694&srv=x1&i=0.0&sp=5000&fr=m83awfx00ppa&p1=lublin&p2=lublin
 
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/bayzero1905/msiptv/refs/heads/main/logolar/end.png" group-title="SORGU",END
 https://raw.githubusercontent.com/bayzero1905/msiptv/refs/heads/main/logolar/theend.mp4
