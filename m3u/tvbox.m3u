@@ -2,7 +2,7 @@
 
 # ♦♦♦♦♦ TV DİZİLERİ ♦♦♦♦♦
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/bayzero1905/msiptv/refs/heads/main/logolar/deha.png" group-title="TV DİZİLERİ",Deha 7.Bölüm
-https://video.twimg.com/amplify_video/1853177381655375872/vid/avc1/1280x720/TvcY6phlC8gmpQv_.mp4?tag=16
+https://vmcdn.ciner.com.tr/ht/2024/11/04/A0D2E73F028E1631368F64FE35274440/A0D2E73F028E1631368F64FE35274440.m3u8
 
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/bayzero1905/msiptv/refs/heads/main/logolar/kzlgnclr.png" group-title="TV DİZİLERİ",Kızıl Goncalar 24.Bölüm
 https://video.twimg.com/amplify_video/1851003983084523520/vid/avc1/1280x720/MGbJg4NIv5pMMEn7.mp4?tag=16
@@ -10,8 +10,8 @@ https://video.twimg.com/amplify_video/1851003983084523520/vid/avc1/1280x720/MGbJ
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/bayzero1905/msiptv/refs/heads/main/logolar/inctnlr.png" group-title="TV DİZİLERİ",İnci Taneleri 20.Bölüm
 https://kanaldvod.duhnet.tv/hls/u/m_/it_20_bolum/it_20_bolum.smil/hlssubplaylist-ovbnGvek_oacnGx7.m3u8?&app=com.kanald&min=0&max=1250
 
-#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/bayzero1905/msiptv/refs/heads/main/logolar/cgh.png" group-title="TV DİZİLERİ",Ç.G.Hareketler 179.Bölüm
-https://startv-p3.mncdn.com/smil:cgh2_bolum179_DD_smil.smil/chunklist_b1028000.m3u8?st=YTi48K8L5rwcTnrD4grRsw&e=1729587824
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/bayzero1905/msiptv/refs/heads/main/logolar/cgh.png" group-title="TV DİZİLERİ",Ç.G.Hareketler 180.Bölüm
+https://startv-p3.mncdn.com/smil:cgh2_180_smil.smil/chunklist_b1628000.m3u8?st=3Nv9p9uQ8wG6uJjo3JUtxQ&e=1730808918
 
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/bayzero1905/msiptv/refs/heads/main/logolar/klpzn.png" group-title="TV DİZİLERİ",Kalpazan 2.Bölüm 
 https://vmcdn.ciner.com.tr/ht/2024/10/28/79D42D969081EB011A7F19A385ACD609/79D42D969081EB011A7F19A385ACD609.m3u8
