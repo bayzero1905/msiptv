@@ -7,8 +7,8 @@ https://vmcdn.ciner.com.tr/ht/2024/11/04/A0D2E73F028E1631368F64FE35274440/A0D2E7
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/bayzero1905/msiptv/refs/heads/main/logolar/kzlgnclr.png" group-title="TV DİZİLERİ",Kızıl Goncalar 25.Bölüm
 https://video.twimg.com/amplify_video/1853539504017051649/vid/avc1/1920x1080/yKxQwbJs7x_bVy9N.mp4?tag=16
 
-#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/bayzero1905/msiptv/refs/heads/main/logolar/inctnlr.png" group-title="TV DİZİLERİ",İnci Taneleri 20.Bölüm
-https://kanaldvod.duhnet.tv/hls/u/m_/it_20_bolum/it_20_bolum.smil/hlssubplaylist-ovbnGvek_oacnGx7.m3u8?&app=com.kanald&min=0&max=1250
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/bayzero1905/msiptv/refs/heads/main/logolar/inctnlr.png" group-title="TV DİZİLERİ",İnci Taneleri 21.Bölüm
+https://kanaldvod.duhnet.tv/hls/N/fd/inci_blm21/inci_blm21.smil/hlssubplaylist-ovdnEmSf_oacnGx7.m3u8?&app=com.kanald&min=0&max=1250
 
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/bayzero1905/msiptv/refs/heads/main/logolar/cgh.png" group-title="TV DİZİLERİ",Ç.G.Hareketler 180.Bölüm
 https://startv-p3.mncdn.com/smil:cgh2_180_smil.smil/chunklist_b1628000.m3u8?st=3Nv9p9uQ8wG6uJjo3JUtxQ&e=1730808918
@@ -146,9 +146,6 @@ https://raw.githubusercontent.com/bayzero1905/msiptv/refs/heads/main/logolar/the
 
 
 # ♦♦♦♦♦ Prison Break ♦♦♦♦♦
-#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/bayzero1905/msiptv/refs/heads/main/logolar/prisonred.png" group-title="Prison Break",3.Sezon 13.Bölüm
-https://storage.diziyou.co/episodes/10057_tr/720p.m3u8
-
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/bayzero1905/msiptv/refs/heads/main/logolar/prison.png" group-title="Prison Break",4.Sezon 1.Bölüm
 https://storage.diziyou.co/episodes/10058_tr/720p.m3u8
 
