@@ -109,7 +109,13 @@ https://video-b.xhpingcdn.com/key=ftRk0w7-g-WuqSY6IOhjcg,end=1731196800/data=195
 https://video-b.xhpingcdn.com/key=RoWLuWvBzx6yY8EvEQtzUQ,end=1731196800/data=195.155.121.62-dvp/media=hls4/011/123/488/720p.h264.mp4.m3u8
 
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/bayzero1905/msiptv/refs/heads/main/logolar/dizired.png" group-title="XHAMSTER",03
+https://video-b.xhpingcdn.com/key=0krxhWeu6kQv8JrKImWmzw,end=1731196800/data=195.155.121.62-dvp/media=hls4/019/336/893/720p.h264.mp4.m3u8
 
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/bayzero1905/msiptv/refs/heads/main/logolar/dizired.png" group-title="XHAMSTER",04
+https://ip174214509.ahcdn.com/key=4lUkK1Jw+NaGDvkmTI1Pww,s=,end=1731196800/data=195.155.121.62-dvp/state=Zy-Mw5t5/reftag=0324070729/media=hls4/ssd7/21/7/252201067.mp4/index.m3u8
+
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/bayzero1905/msiptv/refs/heads/main/logolar/dizired.png" group-title="XHAMSTER",END
+https://raw.githubusercontent.com/bayzero1905/msiptv/refs/heads/main/logolar/theend.mp4
 
 
 
