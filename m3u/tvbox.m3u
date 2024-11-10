@@ -1,8 +1,8 @@
 #EXTM3U
 
 # ♦♦♦♦♦ TV DİZİLERİ ♦♦♦♦♦
-#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/bayzero1905/msiptv/refs/heads/main/logolar/deha.png" group-title="TV DİZİLERİ",Deha 7.Bölüm
-https://vmcdn.ciner.com.tr/ht/2024/11/04/A0D2E73F028E1631368F64FE35274440/A0D2E73F028E1631368F64FE35274440.m3u8
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/bayzero1905/msiptv/refs/heads/main/logolar/deha.png" group-title="TV DİZİLERİ",Deha 8.Bölüm
+https://vmcdn.ciner.com.tr/ht/2024/11/10/19165B6C914C9FFF226F1E3800F2191D/19165B6C914C9FFF226F1E3800F2191D.m3u8
 
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/bayzero1905/msiptv/refs/heads/main/logolar/kzlgnclr.png" group-title="TV DİZİLERİ",Kızıl Goncalar 25.Bölüm
 https://video.twimg.com/amplify_video/1853539504017051649/vid/avc1/1920x1080/yKxQwbJs7x_bVy9N.mp4?tag=16
@@ -155,15 +155,6 @@ https://raw.githubusercontent.com/bayzero1905/msiptv/refs/heads/main/logolar/the
 
 
 # ♦♦♦♦♦ Prison Break ♦♦♦♦♦
-#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/bayzero1905/msiptv/refs/heads/main/logolar/prison.png" group-title="Prison Break",4.Sezon 3.Bölüm
-https://storage.diziyou.co/episodes/10060_tr/720p.m3u8
-
-#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/bayzero1905/msiptv/refs/heads/main/logolar/prison.png" group-title="Prison Break",4.Sezon 4.Bölüm
-https://storage.diziyou.co/episodes/10061_tr/720p.m3u8
-
-#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/bayzero1905/msiptv/refs/heads/main/logolar/prison.png" group-title="Prison Break",4.Sezon 5.Bölüm
-https://storage.diziyou.co/episodes/10062_tr/720p.m3u8
-
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/bayzero1905/msiptv/refs/heads/main/logolar/prison.png" group-title="Prison Break",4.Sezon 6.Bölüm
 https://storage.diziyou.co/episodes/10063_tr/720p.m3u8
 
@@ -178,6 +169,15 @@ https://storage.diziyou.co/episodes/10066_tr/720p.m3u8
 
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/bayzero1905/msiptv/refs/heads/main/logolar/prison.png" group-title="Prison Break",4.Sezon 10.Bölüm
 https://storage.diziyou.co/episodes/10067_tr/720p.m3u8
+
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/bayzero1905/msiptv/refs/heads/main/logolar/prison.png" group-title="Prison Break",4.Sezon 11.Bölüm
+https://storage.diziyou.co/episodes/10068_tr/720p.m3u8
+
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/bayzero1905/msiptv/refs/heads/main/logolar/prison.png" group-title="Prison Break",4.Sezon 12.Bölüm
+https://storage.diziyou.co/episodes/10068_tr/720p.m3u8
+
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/bayzero1905/msiptv/refs/heads/main/logolar/prison.png" group-title="Prison Break",4.Sezon 13.Bölüm
+https://storage.diziyou.co/episodes/10069_tr/720p.m3u8
 
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/bayzero1905/msiptv/refs/heads/main/logolar/end.png" group-title="Prison Break",END
 https://raw.githubusercontent.com/bayzero1905/msiptv/refs/heads/main/logolar/theend.mp4
