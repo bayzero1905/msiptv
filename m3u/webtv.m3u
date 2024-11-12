@@ -89,7 +89,7 @@ https://raw.githubusercontent.com/bayzero1905/msiptv/refs/heads/main/logolar/the
 
 # ♦♦♦♦♦ KONUŞANLAR ♦♦♦♦♦
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/bayzero1905/msiptv/refs/heads/main/logolar/dizired.png" group-title="KONUŞANLAR",5.Bölüm
-https://lublin.cdn77.host/hls2/01/00025/v1c2a51khwyr_n/index-v1-a1.m3u8?t=21TPi0m1B41eYMLT77OUvYqWAwygceR603zJgL9lXh0&s=1730973174&e=43200&f=125698&srv=x2&i=0.0&sp=5000&p1=lublin&p2=lublin
+https://strasbourg.cdn77.host/hls2/01/00025/v1c2a51khwyr_n/index-v1-a1.m3u8?t=Bz1kW7z6HuhVJUJIQuenGkui6k_uzeE5gR01_4cy0d0&s=1731411966&e=43200&f=125698&srv=x2&i=0.0&sp=5000&p1=strasbourg&p2=strasbourg
 
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/bayzero1905/msiptv/refs/heads/main/logolar/end.png" group-title="KONUŞANLAR",END
 https://raw.githubusercontent.com/bayzero1905/msiptv/refs/heads/main/logolar/theend.mp4
@@ -128,10 +128,10 @@ https://raw.githubusercontent.com/bayzero1905/msiptv/refs/heads/main/logolar/the
 https://marseille.cdn77.host/hls2/02/00025/bceycohzkyn1_n/index-v1-a1.m3u8?t=5S7ROwO56vQ04BlME8FVbw4YyvO_ABejwFlkEGw0rAU&s=1731267520&e=43200&f=125681&srv=x1&i=0.0&sp=5000&fr=bceycohzkyn1&p1=marseille&p2=marseille
 
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/bayzero1905/msiptv/refs/heads/main/logolar/dizired.png" group-title="İlk ve Son",02.Bölüm
-https://strasbourg.cdn77.host/hls2/01/00025/0xk5nz1ezu46_n/index-v1-a1.m3u8?t=Hg5zuoFxlmX8Bkh-KntqpvepSCbk1aPnnfzfSRlo05c&s=1731267621&e=43200&f=125696&srv=x2&i=0.0&sp=5000&fr=0xk5nz1ezu46&p1=strasbourg&p2=strasbourg
+https://strasbourg.cdn77.host/hls2/01/00025/0xk5nz1ezu46_n/index-v1-a1.m3u8?t=Z-X_-p8UktPlnpV2yHzFxdIu0iQU1uI0iySokAFIqcU&s=1731411809&e=43200&f=125696&srv=x2&i=0.0&sp=5000&fr=0xk5nz1ezu46&p1=strasbourg&p2=strasbourg
 
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/bayzero1905/msiptv/refs/heads/main/logolar/dizired.png" group-title="İlk ve Son",03.Bölüm
-https://bordeaux.cdn77.host/hls2/02/00025/taf12m1xqry2_n/index-v1-a1.m3u8?t=ifkDoaootRX03KnnhiNbWufLrlB8xGjwL1yaAldMCB0&s=1731267681&e=43200&f=125718&srv=x1&i=0.0&sp=5000&fr=taf12m1xqry2&p1=bordeaux&p2=bordeaux
+https://bordeaux.cdn77.host/hls2/02/00025/taf12m1xqry2_n/index-v1-a1.m3u8?t=sSI93iiMIAl9lYcLuwWtkZPVv093-VTzED3ZjuOpCDU&s=1731411895&e=43200&f=125718&srv=x1&i=0.0&sp=5000&fr=taf12m1xqry2&p1=bordeaux&p2=bordeaux
 
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/bayzero1905/msiptv/refs/heads/main/logolar/dizired.png" group-title="İlk ve Son",END
 https://raw.githubusercontent.com/bayzero1905/msiptv/refs/heads/main/logolar/theend.mp4
