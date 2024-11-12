@@ -21,14 +21,8 @@ https://raw.githubusercontent.com/bayzero1905/msiptv/refs/heads/main/logolar/the
 
 
 # ♦♦♦♦♦ FİLMLER ♦♦♦♦♦
-#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/bayzero1905/msiptv/refs/heads/main/logolar/film.png" group-title="FİLMLER",İyi Adamın 10 Günü
-https://brighton.cdn77.host/hls2/01/00019/7u70llc8avmo_h/index-v1-a1.m3u8?t=suW3JSsQjA1xSBbUEdLjDA02NVgrUavmj05nStAOTgw&s=1731164954&e=43200&f=95214&srv=x2&i=0.0&sp=5000&p1=brighton&p2=brighton
-
-#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/bayzero1905/msiptv/refs/heads/main/logolar/film.png" group-title="FİLMLER",Kötü Adamın 10 Günü
-https://poznan.cdn77.host/hls2/01/00019/16l5hsz20fye_h/index-v1-a1.m3u8?t=qcOhBlW-C-JGeWMOLJfDw7kIFZA0AkyCydyL1kNL_To&s=1731164891&e=43200&f=95601&srv=x2&i=0.0&sp=5000&p1=poznan&p2=poznan
-
-#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/bayzero1905/msiptv/refs/heads/main/logolar/film.png" group-title="FİLMLER",Meraklı Adamın 10 Günü
-https://liverpool.cdn77.host/hls2/02/00025/3gnj3fpfv2r6_n/index-v1-a1.m3u8?t=uCGKSgye8pu5YsyNmlsMybtI0y0QLO9Hrntp9lSKMes&s=1731164684&e=43200&f=125715&srv=x1&i=0.0&sp=5000&fr=3gnj3fpfv2r6&p1=liverpool&p2=liverpool
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/bayzero1905/msiptv/refs/heads/main/logolar/film.png" group-title="FİLMLER",Sapkın
+https://vs11.photoflix.org/v/Heretic.2024.720p.CAMRip.TR.DUB/480.m3u8
 
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/bayzero1905/msiptv/refs/heads/main/logolar/film.png" group-title="FİLMLER",Being There
 https://vs8.avphotos.pro/v/ft91tf3eotdy/480.m3u8
