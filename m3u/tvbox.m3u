@@ -1,8 +1,8 @@
 #EXTM3U
 
 # ♦♦♦♦♦ TV DİZİLERİ ♦♦♦♦♦
-#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/bayzero1905/msiptv/refs/heads/main/logolar/deha.png" group-title="TV DİZİLERİ",Deha 8.Bölüm
-https://vmcdn.ciner.com.tr/ht/2024/11/10/19165B6C914C9FFF226F1E3800F2191D/19165B6C914C9FFF226F1E3800F2191D.m3u8
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/bayzero1905/msiptv/refs/heads/main/logolar/deha.png" group-title="TV DİZİLERİ",Deha 9.Bölüm
+https://vmcdn.ciner.com.tr/ht/2024/11/17/1C6E65E9E85EF2BA047EF29CC626C1FC/1C6E65E9E85EF2BA047EF29CC626C1FC.m3u8
 
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/bayzero1905/msiptv/refs/heads/main/logolar/kzlgnclr.png" group-title="TV DİZİLERİ",Kızıl Goncalar 26.Bölüm
 https://video.twimg.com/amplify_video/1856077326603198464/vid/avc1/1920x1080/-KFZP-RFYsrEE94p.mp4?tag=16
@@ -10,8 +10,8 @@ https://video.twimg.com/amplify_video/1856077326603198464/vid/avc1/1920x1080/-KF
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/bayzero1905/msiptv/refs/heads/main/logolar/inctnlr.png" group-title="TV DİZİLERİ",İnci Taneleri 22.Bölüm
 https://kanaldvod.duhnet.tv/hls/3/aO/it_22_blm/it_22_blm.smil/hlssubplaylist-ovbnGvek_oacnWx7.m3u8?&app=com.kanald&min=0&max=1250
 
-#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/bayzero1905/msiptv/refs/heads/main/logolar/cgh.png" group-title="TV DİZİLERİ",Ç.G.Hareketler 181.Bölüm
-https://startv-p3.mncdn.com/smil:cgh2_181_smil.smil/chunklist_b1628000.m3u8?st=hgjWPyHpJDLY_-Qaaq0o7g&e=1731412820
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/bayzero1905/msiptv/refs/heads/main/logolar/cgh.png" group-title="TV DİZİLERİ",Ç.G.Hareketler 182.Bölüm
+https://startv-p3.mncdn.com/smil:cgh2_182_smil.smil/chunklist_b1628000.m3u8?st=YQ-zg97m6obmpoKrPbbPJA&e=1731964538
 
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/bayzero1905/msiptv/refs/heads/main/logolar/klpzn.png" group-title="TV DİZİLERİ",Kalpazan 4.Bölüm 
 https://vmcdn.ciner.com.tr/ht/2024/11/11/B75064D16BD7A4368CC59242F676A81A/B75064D16BD7A4368CC59242F676A81A.m3u8
@@ -152,18 +152,6 @@ https://raw.githubusercontent.com/bayzero1905/msiptv/refs/heads/main/logolar/the
 
 
 # ♦♦♦♦♦ Prison Break ♦♦♦♦♦
-#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/bayzero1905/msiptv/refs/heads/main/logolar/prison.png" group-title="Prison Break",4.Sezon 19.Bölüm
-https://storage.diziyou.co/episodes/10076_tr/720p.m3u8
-
-#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/bayzero1905/msiptv/refs/heads/main/logolar/prison.png" group-title="Prison Break",4.Sezon 20.Bölüm
-https://storage.diziyou.co/episodes/10077_tr/720p.m3u8
-
-#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/bayzero1905/msiptv/refs/heads/main/logolar/prison.png" group-title="Prison Break",4.Sezon 21.Bölüm
-https://storage.diziyou.co/episodes/10078_tr/720p.m3u8
-
-#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/bayzero1905/msiptv/refs/heads/main/logolar/prison.png" group-title="Prison Break",4.Sezon 22.Bölüm
-https://storage.diziyou.co/episodes/10079_tr/720p.m3u8
-
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/bayzero1905/msiptv/refs/heads/main/logolar/prison.png" group-title="Prison Break",4.Sezon 23.Bölüm
 https://storage.diziyou.co/episodes/10080_tr/720p.m3u8
 
