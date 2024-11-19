@@ -1,6 +1,9 @@
 #EXTM3U
 
 # ♦♦♦♦♦ TV DİZİLERİ ♦♦♦♦♦
+#EXTINF:0 tvg-logo="https://mo.ciner.com.tr/showtv/iu/393x220/sandik-kokusu.jpg" group-title="TV DİZİLERİ",Uzak Şehir 2.Bölüm
+https://vod3.cf.dmcdn.net/sec2(l_hrY6vVHkWgUZird7lz5ansSvg-y7CZiwoCoGYpcorBTAKPXLibfGwYS9DNQrps7ieuWurnSF0J-8-sgegA0zrcO3m1zT9GvOj6505oboqbdUnKnXILXzby57P6QlyhXSzERPeVxpXHv9IbViGrzl_2ykVOHtPsteMpc54MxUiNDDWu1oEL4t6cWKz_FyLJ)/video/624/459/559954426_mp4_h264_aac_hq_2.m3u8
+
 #EXTINF:0 tvg-logo="https://mo.ciner.com.tr/showtv/iu/393x220/sandik-kokusu.jpg" group-title="TV DİZİLERİ",Sandık Kokusu 34.Bölüm
 https://vmcdn.ciner.com.tr/ht/2024/11/13/AA8316FD0894BA64F8A5AA1A251980AB/AA8316FD0894BA64F8A5AA1A251980AB.m3u8
 
