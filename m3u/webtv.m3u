@@ -133,6 +133,9 @@ https://strasbourg.cdn77.host/hls2/01/00025/0xk5nz1ezu46_n/index-v1-a1.m3u8?t=Z-
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/bayzero1905/msiptv/refs/heads/main/logolar/dizired.png" group-title="İlk ve Son",03.Bölüm
 https://exeter.eu-traffic-05.com/hls2/02/00025/taf12m1xqry2_n/index-v1-a1.m3u8?t=MAkImiipgpvN8b-QkWRc2WelkOdXOzsRCl1FCrUD8h4&s=1731498442&e=43200&f=125718&srv=x1&i=0.0&sp=5000&fr=taf12m1xqry2&p1=exeter&p2=exeter
 
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/bayzero1905/msiptv/refs/heads/main/logolar/dizired.png" group-title="İlk ve Son",04.Bölüm
+https://krakow.eu-traffic-05.com/hls2/02/00025/l1qphxarasu6_n/index-v1-a1.m3u8?t=8QcT_RegwSIzITi3AgwKAJNpt4hSbgaoEYTDGgMl0UM&s=1732228163&e=43200&f=125730&srv=x2&i=0.0&sp=5000&fr=l1qphxarasu6&p1=krakow&p2=krakow
+
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/bayzero1905/msiptv/refs/heads/main/logolar/dizired.png" group-title="İlk ve Son",END
 https://raw.githubusercontent.com/bayzero1905/msiptv/refs/heads/main/logolar/theend.mp4
 
