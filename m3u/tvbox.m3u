@@ -7,8 +7,8 @@ https://vmcdn.ciner.com.tr/ht/2024/11/17/1C6E65E9E85EF2BA047EF29CC626C1FC/1C6E65
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/bayzero1905/msiptv/refs/heads/main/logolar/kzlgnclr.png" group-title="TV DİZİLERİ",Kızıl Goncalar 27.Bölüm
 https://video.twimg.com/amplify_video/1858613311190822912/vid/avc1/1920x1080/A4rukrHWtar48odn.mp4?tag=16
 
-#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/bayzero1905/msiptv/refs/heads/main/logolar/inctnlr.png" group-title="TV DİZİLERİ",İnci Taneleri 22.Bölüm
-https://kanaldvod.duhnet.tv/hls/3/aO/it_22_blm/it_22_blm.smil/hlssubplaylist-ovbnGvek_oacnWx7.m3u8?&app=com.kanald&min=0&max=1250
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/bayzero1905/msiptv/refs/heads/main/logolar/inctnlr.png" group-title="TV DİZİLERİ",İnci Taneleri 23.Bölüm
+https://kanaldvod.duhnet.tv/hls/C/ui/it_23_bolumm/it_23_bolumm.smil/hlssubplaylist-ovbnGvek_oacnGx7.m3u8?&app=com.kanald&min=0&max=1250
 
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/bayzero1905/msiptv/refs/heads/main/logolar/cgh.png" group-title="TV DİZİLERİ",Ç.G.Hareketler 182.Bölüm
 https://startv-p3.mncdn.com/smil:cgh2_182_smil.smil/chunklist_b1628000.m3u8?st=YQ-zg97m6obmpoKrPbbPJA&e=1731964538
@@ -194,21 +194,6 @@ https://storage.diziyou.co/episodes/10513_tr/720p.m3u8
 https://raw.githubusercontent.com/bayzero1905/msiptv/refs/heads/main/logolar/theend.mp4
 
 # ♦♦♦♦♦ Prison Break ♦♦♦♦♦
-#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/bayzero1905/msiptv/refs/heads/main/logolar/prisonred.png" group-title="Prison Break",5.Sezon 3.Bölüm
-https://storage.diziyou.co/episodes/10083_tr/720p.m3u8
-
-#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/bayzero1905/msiptv/refs/heads/main/logolar/prisonred.png" group-title="Prison Break",5.Sezon 4.Bölüm
-https://storage.diziyou.co/episodes/10084_tr/720p.m3u8
-
-#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/bayzero1905/msiptv/refs/heads/main/logolar/prisonred.png" group-title="Prison Break",5.Sezon 5.Bölüm
-https://storage.diziyou.co/episodes/10085_tr/720p.m3u8
-
-#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/bayzero1905/msiptv/refs/heads/main/logolar/prisonred.png" group-title="Prison Break",5.Sezon 6.Bölüm
-https://storage.diziyou.co/episodes/10086_tr/720p.m3u8
-
-#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/bayzero1905/msiptv/refs/heads/main/logolar/prisonred.png" group-title="Prison Break",5.Sezon 7.Bölüm
-https://storage.diziyou.co/episodes/10087_tr/720p.m3u8
-
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/bayzero1905/msiptv/refs/heads/main/logolar/prisonred.png" group-title="Prison Break",5.Sezon 8.Bölüm
 https://storage.diziyou.co/episodes/10088_tr/720p.m3u8
 
