@@ -103,7 +103,7 @@ https://raw.githubusercontent.com/bayzero1905/msiptv/refs/heads/main/logolar/the
 
 # ♦♦♦♦♦ XHAMSTER ♦♦♦♦♦
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/bayzero1905/msiptv/refs/heads/main/logolar/dizired.png" group-title="XHAMSTER",01
-https://video-b.xhpingcdn.com/key=UQ35iqn1SFrUy3+zj1hOcQ,end=1732154400/data=176.40.130.231-dvp/media=hls4/020/397/659/240p.h264.mp4.m3u8
+https://ip254359856.ahcdn.com/key=TYT+xrDh55xhYE0+ZZqNlw,s=,end=1732327200/data=176.40.130.231-dvp/state=Z0EKsCiC/reftag=0324070729/media=hls4/3/21/4/241331034.mp4/index.m3u8
 
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/bayzero1905/msiptv/refs/heads/main/logolar/dizired.png" group-title="XHAMSTER",02
 https://ip382050883.ahcdn.com/key=WaOWp4CaDz4jdV-1SZShFQ,s=,end=1731978000/data=176.232.186.246-dvp/state=Zzu1sOi6/reftag=0324070729/media=hls4/13/21/2/386622922.mp4/index.m3u8
@@ -123,6 +123,17 @@ https://video-b.xhpingcdn.com/key=hnVn-IWUCpcxsGnRrY7Nqg,end=1731978000/data=176
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/bayzero1905/msiptv/refs/heads/main/logolar/dizired.png" group-title="XHAMSTER",END
 https://raw.githubusercontent.com/bayzero1905/msiptv/refs/heads/main/logolar/theend.mp4
 
+# ♦♦♦♦♦ Esas Oğlan ♦♦♦♦♦
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/bayzero1905/msiptv/refs/heads/main/logolar/dizired.png" group-title="Esas Oğlan",01.Bölüm
+https://leicester.eu-traffic-05.com/hls2/01/00025/dkov8jpizak8_n/index-v1-a1.m3u8?t=DQzhoT9HMnUdjPUtTzMyISSbnGCJvI8wmiQQFTP7foM&s=1732316136&e=43200&f=125757&srv=x2&i=0.0&sp=5000&fr=dkov8jpizak8&p1=leicester&p2=leicester
+
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/bayzero1905/msiptv/refs/heads/main/logolar/dizired.png" group-title="Esas Oğlan",02.Bölüm
+https://manchester.eu-traffic-05.com/hls2/02/00025/k1ilnwlh9919_n/index-v1-a1.m3u8?t=_H8ZVpYy3b0miJE9iJM2RqKLpZ3IqS9pPygEFxYyrBA&s=1732316306&e=43200&f=125761&srv=x1&i=0.0&sp=5000&fr=k1ilnwlh9919&p1=manchester&p2=manchester 
+
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/bayzero1905/msiptv/refs/heads/main/logolar/dizired.png" group-title="Esas Oğlan",END
+https://raw.githubusercontent.com/bayzero1905/msiptv/refs/heads/main/logolar/theend.mp4
+
+
 # ♦♦♦♦♦ İlk ve Son ♦♦♦♦♦
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/bayzero1905/msiptv/refs/heads/main/logolar/dizired.png" group-title="İlk ve Son",01.Bölüm
 https://marseille.cdn77.host/hls2/02/00025/bceycohzkyn1_n/index-v1-a1.m3u8?t=5S7ROwO56vQ04BlME8FVbw4YyvO_ABejwFlkEGw0rAU&s=1731267520&e=43200&f=125681&srv=x1&i=0.0&sp=5000&fr=bceycohzkyn1&p1=marseille&p2=marseille
@@ -135,6 +146,9 @@ https://exeter.eu-traffic-05.com/hls2/02/00025/taf12m1xqry2_n/index-v1-a1.m3u8?t
 
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/bayzero1905/msiptv/refs/heads/main/logolar/dizired.png" group-title="İlk ve Son",04.Bölüm
 https://krakow.eu-traffic-05.com/hls2/02/00025/l1qphxarasu6_n/index-v1-a1.m3u8?t=8QcT_RegwSIzITi3AgwKAJNpt4hSbgaoEYTDGgMl0UM&s=1732228163&e=43200&f=125730&srv=x2&i=0.0&sp=5000&fr=l1qphxarasu6&p1=krakow&p2=krakow
+
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/bayzero1905/msiptv/refs/heads/main/logolar/dizired.png" group-title="İlk ve Son",05.Bölüm
+https://montpellier.eu-traffic-05.com/hls2/01/00025/ypjsw8qmahj8_n/index-v1-a1.m3u8?t=GK7d7qhWqX4RnJCsb7LycgmuwuZ85OyhBNiKvecyENM&s=1732316084&e=43200&f=125756&srv=x2&i=0.0&sp=5000&fr=ypjsw8qmahj8&p1=montpellier&p2=montpellier
 
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/bayzero1905/msiptv/refs/heads/main/logolar/dizired.png" group-title="İlk ve Son",END
 https://raw.githubusercontent.com/bayzero1905/msiptv/refs/heads/main/logolar/theend.mp4
