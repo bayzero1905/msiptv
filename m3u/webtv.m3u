@@ -13,8 +13,8 @@ https://nowtv-vod.ercdn.net/Kotu-Kan/bolumler/6/PDTKOTUKAN6HDYENIRTUK7YASVEUZERI
 #EXTINF:0 tvg-logo="https://iaatv.tmgrup.com.tr/aaaa92/0/0/0/0/0/0?u=https://iatv.tmgrup.com.tr/2024/09/05/295x410/1725545448317.jpg" group-title="TV DİZİLERİ",Bir Gece Masalı 12.Bölüm
 https://atv-vod.ercdn.net/video/dizi/bir-gece-masali/12_qgcg/ead86e3d-a2d7-42ee-8b39-a1399387dbac.hb.smil/chunklist_b1200000_t64MTIwMGticHM=.m3u8
 
-#EXTINF:0 tvg-logo="https://tpsbayxekmes.merlincdn.net//i/posters/1691" group-title="TV DİZİLERİ",Yabani 46.Bölüm
-https://nowtv-vod.ercdn.net/Yabani/bolumler/46/PDTYABANI46HDRTUK7YASVEUZERISIDDETOLUMSUZDAVRANISLAR.smil/hlssubplaylist-ovenEmSf_oacnK37.m3u8?e=1731842419&st=0ZJf7V_C7y485RD0FciYHA
+#EXTINF:0 tvg-logo="https://tpsbayxekmes.merlincdn.net//i/posters/1691" group-title="TV DİZİLERİ",Yabani 47.Bölüm
+https://nowtv-vod.ercdn.net/Yabani/bolumler/47/PDTYABANI47HDRTUK7YASVEUZERISIDDETOLUMSUZDAVRANISLAR.smil/hlssubplaylist-ovenEmSf_oacnw37.m3u8?e=1732447631&st=OgQ0e9nxpNjEkBGVkTIfGg
 
 #EXTINF:0 tvg-logo="https://mo.ciner.com.tr/showtv/iu/393x220/siyah-kalp.jpg" group-title="TV DİZİLERİ",Siyah Kalp 10.Bölüm
 https://vmcdn.ciner.com.tr/ht/2024/11/21/B5FC467A4E345A9834B237B41F687751/B5FC467A4E345A9834B237B41F687751.m3u8
@@ -27,14 +27,13 @@ https://raw.githubusercontent.com/bayzero1905/msiptv/refs/heads/main/logolar/the
 
 
 # ♦♦♦♦♦ FİLM ♦♦♦♦♦
-#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/bayzero1905/msiptv/refs/heads/main/logolar/dizired.png" group-title="FİLM",Yalnız Gezegen
-https://poznan.cdn77.host/hls2/02/00025/snyexd09zxjh_n/index-v1-a2.m3u8?t=alJ4ORPoIhX4mLKEO_qyjQQ8KBYeao275DYcLKCFpio&s=1729031246&e=43200&f=125628&srv=x2&i=0.0&sp=5000&fr=snyexd09zxjh&p1=poznan&p2=poznan
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/bayzero1905/msiptv/refs/heads/main/logolar/dizired.png" group-title="FİLM",Sleeping Beauty
+https://cdn.jfvid.com/vod/converted-video/vod-content/46/52/60/78/53/77/64/39/61/5/044dc6d6-2835-4698-a890-43377c55fa11/kaltura/desc_916367f8adc284bf21aa396740736541/vicxlTW0oZDs/vw=640,vh=352,fps=24.00,vbrt=370156,abrt=129380,vcodec=avc1.4D4014,acodec=mp4a.40.2,label=360p/index-f3-v1-a1.m3u8
 
-#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/bayzero1905/msiptv/refs/heads/main/logolar/dizired.png" group-title="FİLM",Cloverfield Yolu No:10
-https://nantes.cdn77.host/hls2/01/00018/252pyrwcopwr_n/index-v1-a1.m3u8?t=6iZu4nnWf-N64eiPKu1cRuKvtGZx1L-r2J3ZqZ0cFVo&s=1729031364&e=43200&f=93109&srv=x1&i=0.0&sp=5000&p1=nantes&p2=nantesds
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/bayzero1905/msiptv/refs/heads/main/logolar/dizired.png" group-title="FİLM",Double Lover https://sc2.rovideo.buzz/v/d/tt6367558/tr/480
 
-#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/bayzero1905/msiptv/refs/heads/main/logolar/dizired.png" group-title="FİLM",Güneşi Söndürmem Gerek
-https://vs3.photomag.biz/v/vs0vzjfcokwy/480.m3u8
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/bayzero1905/msiptv/refs/heads/main/logolar/dizired.png" group-title="FİLM",Mammal 
+https://rovideo.xyz/377/tt3777860.480p.en.m3u8
 
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/bayzero1905/msiptv/refs/heads/main/logolar/end.png" group-title="FİLM",END
 https://raw.githubusercontent.com/bayzero1905/msiptv/refs/heads/main/logolar/theend.mp4
