@@ -5,7 +5,7 @@
 https://vmcdn.ciner.com.tr/ht/2024/11/24/150B0457B66E44B11084CCE08C6DE700/150B0457B66E44B11084CCE08C6DE700.m3u8
 
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/bayzero1905/msiptv/refs/heads/main/logolar/kzlgnclr.png" group-title="TV DİZİLERİ",Kızıl Goncalar 27.Bölüm
-https://video.twimg.com/amplify_video/1858613311190822912/vid/avc1/1920x1080/A4rukrHWtar48odn.mp4?tag=16
+https://video.twimg.com/amplify_video/1861151531682205696/vid/avc1/1920x1080/RHUGtd6jxvhJOEv1.mp4?tag=16
 
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/bayzero1905/msiptv/refs/heads/main/logolar/inctnlr.png" group-title="TV DİZİLERİ",İnci Taneleri 23.Bölüm
 https://kanaldvod.duhnet.tv/hls/C/ui/it_23_bolumm/it_23_bolumm.smil/hlssubplaylist-ovbnGvek_oacnGx7.m3u8?&app=com.kanald&min=0&max=1250
@@ -13,8 +13,8 @@ https://kanaldvod.duhnet.tv/hls/C/ui/it_23_bolumm/it_23_bolumm.smil/hlssubplayli
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/bayzero1905/msiptv/refs/heads/main/logolar/cgh.png" group-title="TV DİZİLERİ",Ç.G.Hareketler 183.Bölüm
 https://startv-p3.mncdn.com/smil:cgh2_183_smil.smil/chunklist_b1628000.m3u8?st=uCI55Gsh09iI_3QR1TVxyw&e=1732571154
 
-#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/bayzero1905/msiptv/refs/heads/main/logolar/klpzn.png" group-title="TV DİZİLERİ",Kalpazan 5.Bölüm 
-https://vmcdn.ciner.com.tr/ht/2024/11/19/CB89E42A9D2F7AC8D4EFB63B4EC3400E/CB89E42A9D2F7AC8D4EFB63B4EC3400E.m3u8
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/bayzero1905/msiptv/refs/heads/main/logolar/klpzn.png" group-title="TV DİZİLERİ",Kalpazan 6.Bölüm 
+https://vmcdn.ciner.com.tr/ht/2024/11/25/4F5B8ACD51270DB05D533464D3FDD74F/4F5B8ACD51270DB05D533464D3FDD74F.m3u8
 
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/bayzero1905/msiptv/refs/heads/main/logolar/end.png" group-title="TV DİZİLERİ",END
 https://raw.githubusercontent.com/bayzero1905/msiptv/refs/heads/main/logolar/theend.mp4
