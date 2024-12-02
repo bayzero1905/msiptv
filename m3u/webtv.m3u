@@ -212,35 +212,23 @@ https://raw.githubusercontent.com/bayzero1905/msiptv/refs/heads/main/logolar/the
 
 
 # ♦♦♦♦♦ Çırak ♦♦♦♦♦
-#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/bayzero1905/msiptv/refs/heads/main/logolar/dizired.png" group-title="Çırak",1.Bölüm
-https://lyon.eu-traffic-05.com/hls2/02/00025/x6tb9cuabows_n/index-v1-a1.m3u8?t=WsLjm0slnYrd_nX9bCIVhqZ6l4XWVAqyneZDzjgYC-8&s=1733055248&e=43200&f=125789&srv=x1&i=0.0&sp=5000&p1=lyon&p2=lyon
-
-#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/bayzero1905/msiptv/refs/heads/main/logolar/dizired.png" group-title="Çırak",2.Bölüm
-https://nice.eu-traffic-05.com/hls2/02/00025/sr854qqqhmep_n/index-v1-a1.m3u8?t=JQdiyN16CrU5b3QWBxAn-HmwDmWhRTyrEzLtBEF1CYk&s=1733055290&e=43200&f=125790&srv=x1&i=0.0&sp=5000&p1=nice&p2=nice
-
-#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/bayzero1905/msiptv/refs/heads/main/logolar/dizired.png" group-title="Çırak",3.Bölüm
-https://manchester.eu-traffic-05.com/hls2/02/00025/p8w8lgtiopbe_n/index-v1-a1.m3u8?t=6tsYojlNq2n8y0qwEX1GREO-jZZKxX1rYB0rK663gCQ&s=1733055337&e=43200&f=125791&srv=x1&i=0.0&sp=5000&p1=manchester&p2=manchester
-
-#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/bayzero1905/msiptv/refs/heads/main/logolar/dizired.png" group-title="Çırak",4.Bölüm
-https://wroclaw.eu-traffic-05.com/hls2/02/00025/6rvdz8ha10ut_n/index-v1-a1.m3u8?t=9gamUu0nQ-tim7KdSfEUii8mRb4gayHCTO5Cys4C-ig&s=1733055373&e=43200&f=125792&srv=x1&i=0.0&sp=5000&p1=wroclaw&p2=wroclaw
-
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/bayzero1905/msiptv/refs/heads/main/logolar/dizired.png" group-title="Çırak",5.Bölüm
-https://leeds.eu-traffic-05.com/hls2/02/00025/imeo0eddm989_n/index-v1-a1.m3u8?t=xY6cmqadluQgipwI4TYK_r-EgnSk0NaHU38fCuTg9Aw&s=1733055394&e=43200&f=125793&srv=x1&i=0.0&sp=5000&p1=leeds&p2=leeds
+https://nice.eu-traffic-05.com/hls2/02/00025/imeo0eddm989_n/index-v1-a1.m3u8?t=XwSxJ5_xbg-qAkBTDF-p9Hcsn2U-rr9INSrVCroaMuo&s=1733145471&e=43200&f=125793&srv=x1&i=0.0&sp=5000&p1=nice&p2=nice
 
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/bayzero1905/msiptv/refs/heads/main/logolar/dizired.png" group-title="Çırak",6.Bölüm
-https://leicester.eu-traffic-05.com/hls2/02/00025/r756jwp3dyeq_n/index-v1-a1.m3u8?t=D5CHFA8Ykk7Do3C0M6WyEuX2Cj5NLcdeiaYefzNbUuc&s=1733055417&e=43200&f=125784&srv=x1&i=0.0&sp=5000&p1=leicester&p2=leicester
+https://paris.eu-traffic-05.com/hls2/02/00025/r756jwp3dyeq_n/index-v1-a1.m3u8?t=QAWGLu6wWMtoXK6whmECdOglbJ4FoT5uGzTl6vWbBro&s=1733145531&e=43200&f=125784&srv=x1&i=0.0&sp=5000&p1=paris&p2=paris
 
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/bayzero1905/msiptv/refs/heads/main/logolar/dizired.png" group-title="Çırak",7.Bölüm
-https://toulouse.eu-traffic-05.com/hls2/02/00025/n8m51vb8ln4t_n/index-v1-a1.m3u8?t=cZinscYzfPAU85bM2hv8Vl44NlWNz7s8DMc27jPAyBc&s=1733055443&e=43200&f=125785&srv=x1&i=0.0&sp=5000&p1=toulouse&p2=toulouse
+https://bordeaux.eu-traffic-05.com/hls2/02/00025/n8m51vb8ln4t_n/index-v1-a1.m3u8?t=whrDzW9BqwOEHKCSSYMzEY7kzuHJUPL1VPlKfRZRYvA&s=1733145550&e=43200&f=125785&srv=x1&i=0.0&sp=5000&p1=bordeaux&p2=bordeaux
 
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/bayzero1905/msiptv/refs/heads/main/logolar/dizired.png" group-title="Çırak",8.Bölüm
-https://marseille.eu-traffic-05.com/hls2/02/00025/lmgtf1j0q2qg_n/index-v1-a1.m3u8?t=hsbqnIn84EICIG-KX69718oQ8Ju7GfeM8XgrRbM2PW0&s=1733055471&e=43200&f=125786&srv=x1&i=0.0&sp=5000&p1=marseille&p2=marseille
+https://bordeaux.eu-traffic-05.com/hls2/02/00025/lmgtf1j0q2qg_n/index-v1-a1.m3u8?t=mGv1XbqMrCWXBbx-jkYxEMZapEO2wS7b85xoBxyYB94&s=1733145570&e=43200&f=125786&srv=x1&i=0.0&sp=5000&p1=bordeaux&p2=bordeaux
 
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/bayzero1905/msiptv/refs/heads/main/logolar/dizired.png" group-title="Çırak",9.Bölüm
-https://leicester.eu-traffic-05.com/hls2/02/00025/u7r5h2bl8hly_n/index-v1-a1.m3u8?t=7GcwBuGR2mI50KCw923gp7-aH3bfT5_Wxdy7RHy5zm8&s=1733055507&e=43200&f=125787&srv=x1&i=0.0&sp=5000&p1=leicester&p2=leicester
+https://bordeaux.eu-traffic-05.com/hls2/02/00025/u7r5h2bl8hly_n/index-v1-a1.m3u8?t=hAaCebb_cinBoOM25eVypxWuL0f-p92G_q9NySRMHiY&s=1733145594&e=43200&f=125787&srv=x1&i=0.0&sp=5000&p1=bordeaux&p2=bordeaux
 
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/bayzero1905/msiptv/refs/heads/main/logolar/dizired.png" group-title="Çırak",10.Bölüm
-https://londra.eu-traffic-05.com/hls2/02/00025/w11m38ei6vm9_n/index-v1-a1.m3u8?t=qvw9xWQ-4jFBplHGOsqEvNLbvwEw1ORVK0mHDhUoZ1U&s=1733055542&e=43200&f=125788&srv=x1&i=0.0&sp=5000&p1=londra&p2=londra
+https://bialystok.eu-traffic-05.com/hls2/02/00025/w11m38ei6vm9_n/index-v1-a1.m3u8?t=RvfslJH-gxMGEIvj6mw0G3i5TFVyDLkkQ_hyJLpfcYw&s=1733145610&e=43200&f=125788&srv=x1&i=0.0&sp=5000&p1=bialystok&p2=bialystok
 
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/bayzero1905/msiptv/refs/heads/main/logolar/end.png" group-title="Çırak",END
 https://raw.githubusercontent.com/bayzero1905/msiptv/refs/heads/main/logolar/theend.mp4
