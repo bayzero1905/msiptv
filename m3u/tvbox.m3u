@@ -4,8 +4,8 @@
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/bayzero1905/msiptv/refs/heads/main/logolar/deha.png" group-title="TV DİZİLERİ",Deha 11.Bölüm
 https://vmcdn.ciner.com.tr/ht/2024/12/02/0221F1DCB38F66D1305E47ED46318653/0221F1DCB38F66D1305E47ED46318653.m3u8
 
-#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/bayzero1905/msiptv/refs/heads/main/logolar/kzlgnclr.png" group-title="TV DİZİLERİ",Kızıl Goncalar 27.Bölüm
-https://video.twimg.com/amplify_video/1861151531682205696/vid/avc1/1920x1080/RHUGtd6jxvhJOEv1.mp4?tag=16
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/bayzero1905/msiptv/refs/heads/main/logolar/kzlgnclr.png" group-title="TV DİZİLERİ",Kızıl Goncalar 29.Bölüm
+https://video.twimg.com/amplify_video/1863686003195613187/vid/avc1/1920x1080/XLpXXScGxS8E_DpZ.mp4?tag=16
 
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/bayzero1905/msiptv/refs/heads/main/logolar/inctnlr.png" group-title="TV DİZİLERİ",İnci Taneleri 24.Bölüm
 https://kanaldvod.duhnet.tv/hls/R/hW/it_24_blm/it_24_blm.smil/hlssubplaylist-ovbnGvek_oacnGx7.m3u8?&app=com.kanald&min=0&max=1250
@@ -13,8 +13,8 @@ https://kanaldvod.duhnet.tv/hls/R/hW/it_24_blm/it_24_blm.smil/hlssubplaylist-ovb
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/bayzero1905/msiptv/refs/heads/main/logolar/cgh.png" group-title="TV DİZİLERİ",Ç.G.Hareketler 184.Bölüm
 https://startv-p3.mncdn.com/smil:cgh2_184_smil.smil/chunklist_b1628000.m3u8?st=bsE02aF78-25LbN5EDMXLQ&e=1733176235
 
-#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/bayzero1905/msiptv/refs/heads/main/logolar/klpzn.png" group-title="TV DİZİLERİ",Kalpazan 6.Bölüm 
-https://vmcdn.ciner.com.tr/ht/2024/11/25/4F5B8ACD51270DB05D533464D3FDD74F/4F5B8ACD51270DB05D533464D3FDD74F.m3u8
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/bayzero1905/msiptv/refs/heads/main/logolar/klpzn.png" group-title="TV DİZİLERİ",Kalpazan 7.Bölüm 
+https://vmcdn.ciner.com.tr/ht/2024/12/03/95A70B5F68B3EB2B7FCEE393CE34BC03/95A70B5F68B3EB2B7FCEE393CE34BC03.m3u8
 
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/bayzero1905/msiptv/refs/heads/main/logolar/end.png" group-title="TV DİZİLERİ",END
 https://raw.githubusercontent.com/bayzero1905/msiptv/refs/heads/main/logolar/theend.mp4
