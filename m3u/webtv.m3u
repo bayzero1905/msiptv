@@ -135,13 +135,14 @@ https://raw.githubusercontent.com/bayzero1905/msiptv/refs/heads/main/logolar/the
 
 # ♦♦♦♦♦ İlk ve Son ♦♦♦♦♦
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/bayzero1905/msiptv/refs/heads/main/logolar/dizired.png" group-title="İlk ve Son",01.Bölüm
-https://marseille.cdn77.host/hls2/02/00025/bceycohzkyn1_n/index-v1-a1.m3u8?t=5S7ROwO56vQ04BlME8FVbw4YyvO_ABejwFlkEGw0rAU&s=1731267520&e=43200&f=125681&srv=x1&i=0.0&sp=5000&fr=bceycohzkyn1&p1=marseille&p2=marseille
+https://warsaw.eu-traffic-05.com/hls2/01/00025/33zjz43rammi_n/index-v1-a2.m3u8?t=PiBleQVwJkksZXnczbUtmp4-pLB91zNWZbqgU2PIVWs&s=1733264201&e=43200&f=125781&srv=x2&i=0.0&sp=5000&fr=33zjz43rammi&p1=warsaw&p2=warsaw
 
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/bayzero1905/msiptv/refs/heads/main/logolar/dizired.png" group-title="İlk ve Son",02.Bölüm
-https://strasbourg.cdn77.host/hls2/01/00025/0xk5nz1ezu46_n/index-v1-a1.m3u8?t=Z-X_-p8UktPlnpV2yHzFxdIu0iQU1uI0iySokAFIqcU&s=1731411809&e=43200&f=125696&srv=x2&i=0.0&sp=5000&fr=0xk5nz1ezu46&p1=strasbourg&p2=strasbourg
+https://lille.eu-traffic-05.com/hls2/01/00025/nprmf7lo2cv1_n/index-v1-a2.m3u8?t=q55MlDH9rFF5ThG6ZYGSwnfLJ5PfMzeRTUr7fTHjL2I&s=1733264229&e=43200&f=125782&srv=x2&i=0.0&sp=5000&fr=nprmf7lo2cv1&p1=lille&p2=lille
 
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/bayzero1905/msiptv/refs/heads/main/logolar/dizired.png" group-title="İlk ve Son",03.Bölüm
-https://exeter.eu-traffic-05.com/hls2/02/00025/taf12m1xqry2_n/index-v1-a1.m3u8?t=MAkImiipgpvN8b-QkWRc2WelkOdXOzsRCl1FCrUD8h4&s=1731498442&e=43200&f=125718&srv=x1&i=0.0&sp=5000&fr=taf12m1xqry2&p1=exeter&p2=exeter
+https://leeds.eu-traffic-05.com/hls2/01/00025/xmik4utwmyae_n/index-v1-a2.m3u8?t=QK6BqMEkhkXO_THcrvkW23UJj4t_ed2VY8PXm1PqoTE&s=1733264255&e=43200&f=125833&srv=x1&i=0.0&sp=5000&fr=xmik4utwmyae&p1=leeds&p2=leeds
+
 
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/bayzero1905/msiptv/refs/heads/main/logolar/dizired.png" group-title="İlk ve Son",04.Bölüm
 https://krakow.eu-traffic-05.com/hls2/02/00025/l1qphxarasu6_n/index-v1-a1.m3u8?t=8QcT_RegwSIzITi3AgwKAJNpt4hSbgaoEYTDGgMl0UM&s=1732228163&e=43200&f=125730&srv=x2&i=0.0&sp=5000&fr=l1qphxarasu6&p1=krakow&p2=krakow
@@ -213,13 +214,13 @@ https://raw.githubusercontent.com/bayzero1905/msiptv/refs/heads/main/logolar/the
 
 # ♦♦♦♦♦ Çırak ♦♦♦♦♦
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/bayzero1905/msiptv/refs/heads/main/logolar/dizired.png" group-title="Çırak",5.Bölüm
-https://nice.eu-traffic-05.com/hls2/02/00025/imeo0eddm989_n/index-v1-a1.m3u8?t=XwSxJ5_xbg-qAkBTDF-p9Hcsn2U-rr9INSrVCroaMuo&s=1733145471&e=43200&f=125793&srv=x1&i=0.0&sp=5000&p1=nice&p2=nice
+https://warsaw.eu-traffic-05.com/hls2/01/00025/33zjz43rammi_n/index-v1-a1.m3u8?t=OlGRjsDt6DkyAflEOhtFWow9rSzGwBL2ussbDI18Xd0&s=1733317398&e=43200&f=125781&srv=x2&i=0.0&sp=5000&fr=33zjz43rammi&p1=warsaw&p2=warsaw
 
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/bayzero1905/msiptv/refs/heads/main/logolar/dizired.png" group-title="Çırak",6.Bölüm
-https://paris.eu-traffic-05.com/hls2/02/00025/r756jwp3dyeq_n/index-v1-a1.m3u8?t=QAWGLu6wWMtoXK6whmECdOglbJ4FoT5uGzTl6vWbBro&s=1733145531&e=43200&f=125784&srv=x1&i=0.0&sp=5000&p1=paris&p2=paris
+https://lille.eu-traffic-05.com/hls2/01/00025/nprmf7lo2cv1_n/index-v1-a1.m3u8?t=wGb36-gZkJ9X-D8zv1jTw6UnM3CqkGFEhfp_z_8KJtY&s=1733317387&e=43200&f=125782&srv=x2&i=0.0&sp=5000&fr=nprmf7lo2cv1&p1=lille&p2=lille
 
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/bayzero1905/msiptv/refs/heads/main/logolar/dizired.png" group-title="Çırak",7.Bölüm
-https://bordeaux.eu-traffic-05.com/hls2/02/00025/n8m51vb8ln4t_n/index-v1-a1.m3u8?t=whrDzW9BqwOEHKCSSYMzEY7kzuHJUPL1VPlKfRZRYvA&s=1733145550&e=43200&f=125785&srv=x1&i=0.0&sp=5000&p1=bordeaux&p2=bordeaux
+https://bordeaux.eu-traffic-05.com/hls2/01/00025/xmik4utwmyae_n/index-v1-a1.m3u8?t=qxeimgK0G0lBtavCnrpQ2rbsINWeqoMHYvNQOwC1IdA&s=1733317314&e=43200&f=125833&srv=x1&i=0.0&sp=5000&fr=xmik4utwmyae&p1=bordeaux&p2=bordeaux
 
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/bayzero1905/msiptv/refs/heads/main/logolar/dizired.png" group-title="Çırak",8.Bölüm
 https://bordeaux.eu-traffic-05.com/hls2/02/00025/lmgtf1j0q2qg_n/index-v1-a1.m3u8?t=mGv1XbqMrCWXBbx-jkYxEMZapEO2wS7b85xoBxyYB94&s=1733145570&e=43200&f=125786&srv=x1&i=0.0&sp=5000&p1=bordeaux&p2=bordeaux
