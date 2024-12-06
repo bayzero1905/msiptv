@@ -87,8 +87,8 @@ https://raw.githubusercontent.com/bayzero1905/msiptv/refs/heads/main/logolar/the
 
 
 # ♦♦♦♦♦ KONUŞANLAR ♦♦♦♦♦
-#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/bayzero1905/msiptv/refs/heads/main/logolar/dizired.png" group-title="KONUŞANLAR",9.Bölüm
-https://bordeaux.eu-traffic-05.com/hls2/02/00025/b4midjzicchb_n/index-v1-a1.m3u8?t=k3Dyy4ZSm3OibZcYRG3b6zlkdOzQWmnCeB5szT-PhUI&s=1732912568&e=43200&f=125814&srv=x1&i=0.0&sp=5000&p1=bordeaux&p2=bordeaux
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/bayzero1905/msiptv/refs/heads/main/logolar/dizired.png" group-title="KONUŞANLAR",10.Bölüm
+https://nice.eu-traffic-05.com/hls2/01/00025/g8qmn89cwvbn_n/index-v1-a1.m3u8?t=CYOR_28bNfRrmVe29l9Af_OTge24zgsLTnhuEw5cGeo&s=1733519693&e=43200&f=125840&srv=x1&i=0.0&sp=5000&p1=nice&p2=nice
 
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/bayzero1905/msiptv/refs/heads/main/logolar/end.png" group-title="KONUŞANLAR",END
 https://raw.githubusercontent.com/bayzero1905/msiptv/refs/heads/main/logolar/theend.mp4
