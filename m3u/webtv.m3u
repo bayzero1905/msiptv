@@ -94,8 +94,8 @@ https://nice.eu-traffic-05.com/hls2/01/00025/g8qmn89cwvbn_n/index-v1-a1.m3u8?t=C
 https://raw.githubusercontent.com/bayzero1905/msiptv/refs/heads/main/logolar/theend.mp4
 
 # ♦♦♦♦♦ GS ÖZET ♦♦♦♦♦
-#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/bayzero1905/msiptv/refs/heads/main/logolar/dizired.png" group-title="GS ÖZET",Antalya-Gs
-https://eu-s2.dt.ercdn.com/s2/progressive/L/xa/ligtvcomtr_tauri_ozt_20242025_9_ant_gs_9h_19ekim_ip.mp4?st=wiMpW495lJS1V9-N9DrP2A&e=1729415536
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/bayzero1905/msiptv/refs/heads/main/logolar/dizired.png" group-title="GS ÖZET",Sivas-Gs
+https://eu-s2.dt.ercdn.com/s2/progressive/R/yv/ligtvcomtr_tauri_ozt_20242025_15_siv_gs_15h_8ara_ip.mp4?st=p5LUUSWK-POc8sctnal7Nw&e=1733707346
 
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/bayzero1905/msiptv/refs/heads/main/logolar/end.png" group-title="GS ÖZET",END
 https://raw.githubusercontent.com/bayzero1905/msiptv/refs/heads/main/logolar/theend.mp4
@@ -231,29 +231,6 @@ https://bordeaux.eu-traffic-05.com/hls2/02/00025/u7r5h2bl8hly_n/index-v1-a1.m3u8
 https://bialystok.eu-traffic-05.com/hls2/02/00025/w11m38ei6vm9_n/index-v1-a1.m3u8?t=UEu32WN3Po2XOyLGva6VReUssXs85-654JQleST1tAo&s=1733233014&e=43200&f=125788&srv=x1&i=0.0&sp=5000&p1=bialystok&p2=bialystok
 
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/bayzero1905/msiptv/refs/heads/main/logolar/end.png" group-title="Çırak",END
-https://raw.githubusercontent.com/bayzero1905/msiptv/refs/heads/main/logolar/theend.mp4
-
-# ♦♦♦♦♦ Ottoman ♦♦♦♦♦
-
-#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/bayzero1905/msiptv/refs/heads/main/logolar/ottoman.png" group-title="Ottoman",1.Bölüm
-https://storage.diziyou.co/episodes/26701_tr/720p.m3u8
-
-#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/bayzero1905/msiptv/refs/heads/main/logolar/ottoman.png" group-title="Ottoman",2.Bölüm
-https://storage.diziyou.co/episodes/26702_tr/720p.m3u8
-
-#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/bayzero1905/msiptv/refs/heads/main/logolar/ottoman.png" group-title="Ottoman",3.Bölüm
-https://storage.diziyou.co/episodes/26703_tr/720p.m3u8
-
-#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/bayzero1905/msiptv/refs/heads/main/logolar/ottoman.png" group-title="Ottoman",4.Bölüm
-https://storage.diziyou.co/episodes/26704_tr/720p.m3u8
-
-#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/bayzero1905/msiptv/refs/heads/main/logolar/ottoman.png" group-title="Ottoman",5.Bölüm
-https://storage.diziyou.co/episodes/26705_tr/720p.m3u8
-
-#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/bayzero1905/msiptv/refs/heads/main/logolar/ottoman.png" group-title="Ottoman",6.Bölüm
-https://storage.diziyou.co/episodes/26706_tr/720p.m3u8
-
-#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/bayzero1905/msiptv/refs/heads/main/logolar/end.png" group-title="Ottoman",END
 https://raw.githubusercontent.com/bayzero1905/msiptv/refs/heads/main/logolar/theend.mp4
 
 
