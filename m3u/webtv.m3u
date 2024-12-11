@@ -4,8 +4,8 @@
 #EXTINF:0 tvg-logo="https://mo.ciner.com.tr/showtv/iu/393x220/sandik-kokusu.jpg" group-title="TV DİZİLERİ",Uzak Şehir 5.Bölüm
 https://kanaldvod.duhnet.tv/hls/l/9Z/us_5_blm/us_5_blm.smil/hlssubplaylist-ovbnGvek_oacnGx7.m3u8?&app=com.kanald&min=0&max=1250
 
-#EXTINF:0 tvg-logo="https://mo.ciner.com.tr/showtv/iu/393x220/sandik-kokusu.jpg" group-title="TV DİZİLERİ",Sandık Kokusu 37.Bölüm
-https://vmcdn.ciner.com.tr/ht/2024/12/04/24E95605007FA63AEF02AF2B79F6E94D/24E95605007FA63AEF02AF2B79F6E94D.m3u8
+#EXTINF:0 tvg-logo="https://mo.ciner.com.tr/showtv/iu/393x220/sandik-kokusu.jpg" group-title="TV DİZİLERİ",Sandık Kokusu 38.Bölüm
+https://vmcdn.ciner.com.tr/ht/2024/12/11/5C0718CD3481ABCA99050448A0D266F1/5C0718CD3481ABCA99050448A0D266F1.m3u8
 
 #EXTINF:0 tvg-logo="https://iaatv.tmgrup.com.tr/aaaa92/0/0/0/0/0/0?u=https://iatv.tmgrup.com.tr/2024/09/05/295x410/1725545448317.jpg" group-title="TV DİZİLERİ",Bir Gece Masalı 15.Bölüm
 https://atv-vod.ercdn.net/video/dizi/bir-gece-masali/15_7saq/1691e8b9-5cc5-424c-9cce-7a48635a03cb.hb.smil/chunklist_b750000_t64NzUwa2Jwcw==.m3u8?st=WltvCcXnax_h-jrQHXNAxQ&e=1733911744
@@ -16,8 +16,8 @@ https://nowtv-vod.ercdn.net/Yabani/bolumler/49/PDTYABANI49HDRTUK7YASVEUZERISIDDE
 #EXTINF:0 tvg-logo="https://mo.ciner.com.tr/showtv/iu/393x220/siyah-kalp.jpg" group-title="TV DİZİLERİ",Siyah Kalp 12.Bölüm
 https://vmcdn.ciner.com.tr/ht/2024/12/06/9444377BF3A979204FF8C27989598E9D/9444377BF3A979204FF8C27989598E9D.m3u8
 
-#EXTINF:0 tvg-logo="https://tpsbayxekmes.merlincdn.net//i/posters/1777" group-title="TV DİZİLERİ",Gizli Bahçe 6.Bölüm
-https://nowtv-vod.ercdn.net/Gizli-Bahce/bolumler/6/PDTGIZLIBAHCE6HDRTUK7YASVEUZERISIDDETOLUMSUZDAVRANISLAR.smil/hlssubplaylist-ovdnohwd_oacna47.m3u8?e=1732612855&st=T1_yij0ffEe_ZIqmowHxDg
+#EXTINF:0 tvg-logo="https://tpsbayxekmes.merlincdn.net//i/posters/1777" group-title="TV DİZİLERİ",Gizli Bahçe 7.Bölüm
+
 
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/bayzero1905/msiptv/refs/heads/main/logolar/end.png" group-title="TV DİZİLERİ",END
 https://raw.githubusercontent.com/bayzero1905/msiptv/refs/heads/main/logolar/theend.mp4
