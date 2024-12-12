@@ -1,8 +1,8 @@
 #EXTM3U
 
 # ♦♦♦♦♦ TV DİZİLERİ ♦♦♦♦♦
-#EXTINF:0 tvg-logo="https://mo.ciner.com.tr/showtv/iu/393x220/sandik-kokusu.jpg" group-title="TV DİZİLERİ",Annem Ankara 3.Bölüm
-https://vod3.cf.dmcdn.net/sec2(CkHsY8-voLOJwCwfJklRfHcul6e1xwPty_8uANuNqSSpWRvGhCyPcFf6xnUPhxjhMyM9jpHlvHraE2w1C8lQWU4Ow4rGkN4PuGriJcPk95t8-RnSvriX9oxWrT_THpaSzgUYQzpH5SdoV-bvi537ljkGTPlJMAS-_5hbuEdMfcS9pttpa_3rMLsgkBBxsbk1)/video/440/414/561414044_mp4_h264_aac_hq_2.m3u8
+#EXTINF:0 tvg-logo="https://mo.ciner.com.tr/showtv/iu/393x220/sandik-kokusu.jpg" group-title="TV DİZİLERİ",Annem Ankara 4.Bölüm
+https://video.twimg.com/amplify_video/1866938972171055104/vid/avc1/1920x1080/aUk23AN0zrGmmYNd.mp4?tag=16
 
 #EXTINF:0 tvg-logo="https://mo.ciner.com.tr/showtv/iu/393x220/sandik-kokusu.jpg" group-title="TV DİZİLERİ",Uzak Şehir 5.Bölüm
 https://kanaldvod.duhnet.tv/hls/l/9Z/us_5_blm/us_5_blm.smil/hlssubplaylist-ovbnGvek_oacnGx7.m3u8?&app=com.kanald&min=0&max=1250
