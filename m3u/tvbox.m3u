@@ -1,8 +1,8 @@
 #EXTM3U
 
 # ♦♦♦♦♦ TV DİZİLERİ ♦♦♦♦♦
-#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/bayzero1905/msiptv/refs/heads/main/logolar/deha.png" group-title="TV DİZİLERİ",Deha 12.Bölüm
-https://vmcdn.ciner.com.tr/ht/2024/12/09/8211B6A321253C853333ACD84BB624B0/8211B6A321253C853333ACD84BB624B0.m3u8
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/bayzero1905/msiptv/refs/heads/main/logolar/deha.png" group-title="TV DİZİLERİ",Deha 13.Bölüm
+https://vmcdn.ciner.com.tr/ht/2024/12/16/437E36ACDEDE4D7D376259E2EF005CE5/437E36ACDEDE4D7D376259E2EF005CE5.m3u8
 
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/bayzero1905/msiptv/refs/heads/main/logolar/kzlgnclr.png" group-title="TV DİZİLERİ",Kızıl Goncalar 30.Bölüm
 https://video.twimg.com/amplify_video/1866222081353850880/vid/avc1/1920x1080/JHiAkuxKtCazCTnn.mp4?tag=16
@@ -10,8 +10,8 @@ https://video.twimg.com/amplify_video/1866222081353850880/vid/avc1/1920x1080/JHi
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/bayzero1905/msiptv/refs/heads/main/logolar/inctnlr.png" group-title="TV DİZİLERİ",İnci Taneleri 26.Bölüm
 https://kanaldvod.duhnet.tv/hls/e/yV/it_26_blm/it_26_blm.smil/hlssubplaylist-ovdnEmSf_oacnGx7.m3u8?&app=com.kanald&min=0&max=1250
 
-#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/bayzero1905/msiptv/refs/heads/main/logolar/cgh.png" group-title="TV DİZİLERİ",Ç.G.Hareketler 185.Bölüm
-https://startv-p3.mncdn.com/smil:cgh2_185_smil.smil/chunklist_b1628000.m3u8?st=TeEzjikPf6gRfUUgOXc8dw&e=1733778715
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/bayzero1905/msiptv/refs/heads/main/logolar/cgh.png" group-title="TV DİZİLERİ",Ç.G.Hareketler 186.Bölüm
+https://startv-p3.mncdn.com/smil:CGH2_186_smil.smil/chunklist_b1628000.m3u8?st=1ZSTMnUp0NjiJHenvyjTnw&e=1734382375
 
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/bayzero1905/msiptv/refs/heads/main/logolar/klpzn.png" group-title="TV DİZİLERİ",Kalpazan 8.Bölüm (Final)
 https://vmcdn.ciner.com.tr/ht/2024/12/09/7A07292C045B2F6B0424058E1F8D9C50/7A07292C045B2F6B0424058E1F8D9C50.m3u8
@@ -151,12 +151,6 @@ https://jyayintv57.site/daddyhd/cdn/7/main.m3u8
 https://raw.githubusercontent.com/bayzero1905/msiptv/refs/heads/main/logolar/theend.mp4
 
 # ♦♦♦♦♦ La casa de papel ♦♦♦♦♦
-#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/bayzero1905/msiptv/refs/heads/main/logolar/lacasadeiki.png" group-title="La casa de papel",4.Sezon 8.Bölüm
-https://storage.diziyou.co/episodes/10538_tr/720p.m3u8
-
-#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/bayzero1905/msiptv/refs/heads/main/logolar/lacasade.png" group-title="La casa de papel",5.Sezon 1.Bölüm
-https://storage.diziyou.co/episodes/10539_tr/720p.m3u8
-
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/bayzero1905/msiptv/refs/heads/main/logolar/lacasade.png" group-title="La casa de papel",5.Sezon 2.Bölüm
 https://storage.diziyou.co/episodes/10540_tr/720p.m3u8
 
