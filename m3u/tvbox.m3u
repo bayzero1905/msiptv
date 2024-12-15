@@ -13,9 +13,6 @@ https://kanaldvod.duhnet.tv/hls/e/yV/it_26_blm/it_26_blm.smil/hlssubplaylist-ovd
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/bayzero1905/msiptv/refs/heads/main/logolar/cgh.png" group-title="TV DİZİLERİ",Ç.G.Hareketler 186.Bölüm
 https://startv-p3.mncdn.com/smil:CGH2_186_smil.smil/chunklist_b1628000.m3u8?st=1ZSTMnUp0NjiJHenvyjTnw&e=1734382375
 
-#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/bayzero1905/msiptv/refs/heads/main/logolar/klpzn.png" group-title="TV DİZİLERİ",Kalpazan 8.Bölüm (Final)
-https://vmcdn.ciner.com.tr/ht/2024/12/09/7A07292C045B2F6B0424058E1F8D9C50/7A07292C045B2F6B0424058E1F8D9C50.m3u8
-
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/bayzero1905/msiptv/refs/heads/main/logolar/end.png" group-title="TV DİZİLERİ",END
 https://raw.githubusercontent.com/bayzero1905/msiptv/refs/heads/main/logolar/theend.mp4
 
