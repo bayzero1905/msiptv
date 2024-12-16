@@ -94,8 +94,8 @@ https://lille.eu-traffic-05.com/hls2/01/00025/dl2u3msqhg6j_n/index-v1-a1.m3u8?t=
 https://raw.githubusercontent.com/bayzero1905/msiptv/refs/heads/main/logolar/theend.mp4
 
 # ♦♦♦♦♦ GS ÖZET ♦♦♦♦♦
-#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/bayzero1905/msiptv/refs/heads/main/logolar/dizired.png" group-title="GS ÖZET",Sivas-Gs
-https://eu-s2.dt.ercdn.com/s2/progressive/R/yv/ligtvcomtr_tauri_ozt_20242025_15_siv_gs_15h_8ara_ip.mp4?st=8fdx1U3t1r2ffp9cSjdQWQ&e=1733709928
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/bayzero1905/msiptv/refs/heads/main/logolar/dizired.png" group-title="GS ÖZET",GS-TS
+https://eu-s2.dt.ercdn.com/s2/progressive/g/nV/ligtvcomtr_tauri_ozt_20242025_16_gs_ts_16h_16ara_ip.mp4?st=NkpHnQui_i2jmIY0Z5KLUg&e=1734402066
 
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/bayzero1905/msiptv/refs/heads/main/logolar/end.png" group-title="GS ÖZET",END
 https://raw.githubusercontent.com/bayzero1905/msiptv/refs/heads/main/logolar/theend.mp4
