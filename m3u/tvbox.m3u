@@ -18,6 +18,12 @@ https://raw.githubusercontent.com/bayzero1905/msiptv/refs/heads/main/logolar/the
 
 
 # ♦♦♦♦♦ FİLMLER ♦♦♦♦♦
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/bayzero1905/msiptv/refs/heads/main/logolar/film.png" group-title="FİLMLER",1992
+https://vs9.photomag.biz/v/1992.2022.Bluray.1080p.DUAL/480.m3u8
+
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/bayzero1905/msiptv/refs/heads/main/logolar/film.png" group-title="FİLMLER",Kabin Bagajı
+https://vs15.photofunny.org/v/Carry-On.2024.WEB-DL.1080p.DUAL/360.m3u8
+
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/bayzero1905/msiptv/refs/heads/main/logolar/film.png" group-title="FİLMLER",Killer
 https://vs17.photofunia.org/v/The.Killer.2024.WEB-DL.1080p.DUAL/360.m3u8
 
