@@ -10,8 +10,8 @@ https://video.twimg.com/amplify_video/1868763252626227200/vid/avc1/1920x1080/atp
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/bayzero1905/msiptv/refs/heads/main/logolar/inctnlr.png" group-title="TV DİZİLERİ",İnci Taneleri 27.Bölüm
 https://vod3.cf.dmcdn.net/sec2(z64y--JAb1ACEpBF3y1MM-9Kzago8cBcodknIzSX36sp8G7e68xCniIa4PxedV0LE3H3bfa3mhg5H_7_be6IDtxElTyqb_K3tj6LBEl5Q2Q19I2r6m0CnZ71qpm1ibgSSu6RPoGLg5fWTgFTW_K2bw1ttN1LinMSGoWTaC8WhKqLotQ7Y9v0-BSVH5m-Od-N)/video/883/397/562793388_mp4_h264_aac_hd_2.m3u8
 
-#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/bayzero1905/msiptv/refs/heads/main/logolar/cgh.png" group-title="TV DİZİLERİ",Ç.G.Hareketler 186.Bölüm
-https://startv-p3.mncdn.com/smil:CGH2_186_smil.smil/chunklist_b1628000.m3u8?st=R_lCYNlut5D0PzlmFU9lRQ&e=1734628973
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/bayzero1905/msiptv/refs/heads/main/logolar/cgh.png" group-title="TV DİZİLERİ",Ç.G.Hareketler 187.Bölüm
+https://startv-p3.mncdn.com/smil:cgh2_187_smil.smil/chunklist_b1628000.m3u8?st=nQ2977OrBdXR33pSV_JLNg&e=1735056851
 
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/bayzero1905/msiptv/refs/heads/main/logolar/end.png" group-title="TV DİZİLERİ",END
 https://raw.githubusercontent.com/bayzero1905/msiptv/refs/heads/main/logolar/theend.mp4
@@ -154,12 +154,6 @@ https://jyayintv57.site/daddyhd/cdn/7/main.m3u8
 https://raw.githubusercontent.com/bayzero1905/msiptv/refs/heads/main/logolar/theend.mp4
 
 # ♦♦♦♦♦ La casa de papel ♦♦♦♦♦
-#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/bayzero1905/msiptv/refs/heads/main/logolar/lacasade.png" group-title="La casa de papel",5.Sezon 8.Bölüm
-https://storage.diziyou.co/episodes/10546_tr/720p.m3u8
-
-#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/bayzero1905/msiptv/refs/heads/main/logolar/lacasade.png" group-title="La casa de papel",5.Sezon 9.Bölüm
-https://storage.diziyou.co/episodes/10547_tr/720p.m3u8
-
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/bayzero1905/msiptv/refs/heads/main/logolar/lacasade.png" group-title="La casa de papel",5.Sezon 10.Bölüm
 https://storage.diziyou.co/episodes/10548_tr/720p.m3u8
 
