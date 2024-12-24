@@ -242,7 +242,14 @@ https://bialystok.eu-traffic-05.com/hls2/02/00025/w11m38ei6vm9_n/index-v1-a1.m3u
 https://raw.githubusercontent.com/bayzero1905/msiptv/refs/heads/main/logolar/theend.mp4
 
 
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/bayzero1905/msiptv/refs/heads/main/logolar/dizired.png" group-title="Eko Eko Eko",1.Bölüm
+https://lodz.eu-traffic-05.com/hls2/01/00009/aactl2xtomz3_n/index-v1-a1.m3u8?t=OTmawTk1JSyNyJa4jnjN83b4kLudZVtGqzygOlDmk18&s=1735083860&e=43200&f=48534&srv=x1&i=0.0&sp=5000&p1=lodz&p2=lodz
 
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/bayzero1905/msiptv/refs/heads/main/logolar/dizired.png" group-title="Eko Eko Eko",2.Bölüm
+https://pjs1.uk-traffic-076.com/hls2/01/00009/ugst3ii3osf1_n/index-v1-a1.m3u8?t=m9pZxkyO8HcBstzsQwKeruqdPmJEKQAPMSKowXCSR9g&s=1735083971&e=43200&f=48535&srv=x1&i=0.0&sp=5000&p1=pjs1&p2=pjs1
+
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/bayzero1905/msiptv/refs/heads/main/logolar/end.png" group-title="Eko Eko Eko",END
+https://raw.githubusercontent.com/bayzero1905/msiptv/refs/heads/main/logolar/theend.mp4
 
 
 
