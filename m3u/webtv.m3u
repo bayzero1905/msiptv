@@ -1,14 +1,14 @@
 #EXTM3U
 
 # ♦♦♦♦♦ TV DİZİLERİ ♦♦♦♦♦
-#EXTINF:0 tvg-logo="https://mo.ciner.com.tr/showtv/iu/393x220/sandik-kokusu.jpg" group-title="TV DİZİLERİ",Annem Ankara 4.Bölüm
-https://video.twimg.com/amplify_video/1866938972171055104/vid/avc1/1920x1080/aUk23AN0zrGmmYNd.mp4?tag=16
+#EXTINF:0 tvg-logo="https://mo.ciner.com.tr/showtv/iu/393x220/sandik-kokusu.jpg" group-title="TV DİZİLERİ",Annem Ankara 6.Bölüm
+https://kanaldvod.duhnet.tv/hls/o/kT/aa_6_blm/aa_6_blm.smil/hlssubplaylist-ovbnGvek_oacnWx7.m3u8?&app=com.kanald&min=0&max=1250
 
 #EXTINF:0 tvg-logo="https://mo.ciner.com.tr/showtv/iu/393x220/sandik-kokusu.jpg" group-title="TV DİZİLERİ",Uzak Şehir 7.Bölüm
 https://kanaldvod.duhnet.tv/hls/q/S2/us_7_blm/us_7_blm.smil/hlssubplaylist-ovbnGvek_oacney7.m3u8?&app=com.kanald&min=0&max=1250
 
-#EXTINF:0 tvg-logo="https://mo.ciner.com.tr/showtv/iu/393x220/sandik-kokusu.jpg" group-title="TV DİZİLERİ",Sandık Kokusu 39.Bölüm
-https://vmcdn.ciner.com.tr/ht/2024/12/19/6B50633D6399E38604033192DFFD92D2/6B50633D6399E38604033192DFFD92D2.m3u8
+#EXTINF:0 tvg-logo="https://mo.ciner.com.tr/showtv/iu/393x220/sandik-kokusu.jpg" group-title="TV DİZİLERİ",Sandık Kokusu 40.Bölüm
+https://vmcdn.ciner.com.tr/ht/2024/12/25/23227F2E6B8021AE38ECC8B3A568EAF0/23227F2E6B8021AE38ECC8B3A568EAF0.m3u8
 
 #EXTINF:0 tvg-logo="https://iaatv.tmgrup.com.tr/aaaa92/0/0/0/0/0/0?u=https://iatv.tmgrup.com.tr/2024/09/05/295x410/1725545448317.jpg" group-title="TV DİZİLERİ",Bir Gece Masalı 16.Bölüm
 https://httxxkbiqd.erbvr.com/vms/7/a8/d2/7a8d2d6f-af19-4f2d-bf22-7965e78d6d98/7a8d2d6f-af19-4f2d-bf22-7965e78d6d98.smil/hlssubplaylist-ovbniiMd_oacnaS7.m3u8?st=3Iix-KIYjSCw9yQDvisR9Q&e=1734520571&sid=cmGNS66oTk6R2cJz8cN_9A&bvr_flags=2&bvr_ch=7&bvr_bw=900000
