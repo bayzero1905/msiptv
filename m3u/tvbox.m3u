@@ -7,8 +7,8 @@ https://vmcdn.ciner.com.tr/ht/2024/12/23/DBDE596873D0864D009AF8A8BEC54769/DBDE59
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/bayzero1905/msiptv/refs/heads/main/logolar/kzlgnclr.png" group-title="TV DİZİLERİ",Kızıl Goncalar 32.Bölüm
 https://vod3.cf.dmcdn.net/sec2(06G5bQXCkQM5_ZTXHcIAqEn-ONy8bd_iWhHnJwAZc_XwBO9mzvVbOsAr0a6ZXjS9uV9JKevmBK90BYDbqvVPMTmZdEjwjzjZj_PfVIPNSHkjBBulBKQBX40thOzYGWNe1ZeF6ZBZMwnPOZvhpohK3_XxzIrrTQLyNQt7vwW3ebzeN1ww3ZVoUXYH7xTJ-13p)/video/222/990/563099222_mp4_h264_aac_hd_8.m3u8
 
-#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/bayzero1905/msiptv/refs/heads/main/logolar/inctnlr.png" group-title="TV DİZİLERİ",İnci Taneleri 27.Bölüm
-https://vod3.cf.dmcdn.net/sec2(z64y--JAb1ACEpBF3y1MM-9Kzago8cBcodknIzSX36sp8G7e68xCniIa4PxedV0LE3H3bfa3mhg5H_7_be6IDtxElTyqb_K3tj6LBEl5Q2Q19I2r6m0CnZ71qpm1ibgSSu6RPoGLg5fWTgFTW_K2bw1ttN1LinMSGoWTaC8WhKqLotQ7Y9v0-BSVH5m-Od-N)/video/883/397/562793388_mp4_h264_aac_hd_2.m3u8
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/bayzero1905/msiptv/refs/heads/main/logolar/inctnlr.png" group-title="TV DİZİLERİ",İnci Taneleri 28.Bölüm
+https://kanaldvod.duhnet.tv/hls/h/IH/it_28_blm/it_28_blm.smil/hlssubplaylist-ovbnGvek_oacnGx7.m3u8?&app=com.kanald&min=0&max=1250
 
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/bayzero1905/msiptv/refs/heads/main/logolar/cgh.png" group-title="TV DİZİLERİ",Ç.G.Hareketler 187.Bölüm
 https://startv-p3.mncdn.com/smil:cgh2_187_smil.smil/chunklist_b1628000.m3u8?st=nQ2977OrBdXR33pSV_JLNg&e=1735056851
@@ -201,23 +201,9 @@ https://777.trgoalshls7.cfd/yayinex6.m3u8
 https://raw.githubusercontent.com/bayzero1905/msiptv/refs/heads/main/logolar/theend.mp4
 
 # ♦♦♦♦♦ Gassal ♦♦♦♦♦
-#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/bayzero1905/msiptv/refs/heads/main/logolar/dizired.png" group-title="Gassal",5.Bölüm
-https://manchester.eu-traffic-05.com/hls2/01/00025/3d5sxai4p77a_n/index-v1-a1.m3u8?t=p6A0Zt0DZZy01S_lVSjNyzTZFDKdIB9NMimeZZvxGAs&s=1735224767&e=43200&f=125967&srv=x1&i=0.0&sp=5000&p1=manchester&p2=manchester
-
-#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/bayzero1905/msiptv/refs/heads/main/logolar/dizired.png" group-title="Gassal",6.Bölüm
-https://pa2s.uk-traffic-076.com/hls2/01/00025/qsyt0ezrtng1_n/index-v1-a1.m3u8?t=9kQXQx9gtRrcW-iUsoDKCyQmwwnDKIyHBAiUBvlgBYM&s=1735224866&e=43200&f=125968&srv=x1&i=0.0&sp=5000&p1=pa2s&p2=pa2s
-
-#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/bayzero1905/msiptv/refs/heads/main/logolar/dizired.png" group-title="Gassal",7.Bölüm
-https://marseille.eu-traffic-05.com/hls2/01/00025/wrnr4svsacsi_n/index-v1-a1.m3u8?t=wQBYo9Do7UqC6C9w_ehZIRKAcjX2ZZoqc0o_2yS1pzs&s=1735224898&e=43200&f=125969&srv=x1&i=0.0&sp=5000&p1=marseille&p2=marseille
-
-#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/bayzero1905/msiptv/refs/heads/main/logolar/dizired.png" group-title="Gassal",8.Bölüm
-https://liverpool.eu-traffic-05.com/hls2/01/00025/r1bs5ld078bd_n/index-v1-a1.m3u8?t=jQITlLmMhXnlBrZYTCFDVXltUC9FtTcs7B3_PAo14q0&s=1735224918&e=43200&f=125961&srv=x1&i=0.0&sp=5000&p1=liverpool&p2=liverpool
-
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/bayzero1905/msiptv/refs/heads/main/logolar/dizired.png" group-title="Gassal",9.Bölüm
-https://bristol.eu-traffic-05.com/hls2/01/00025/0iq1ieyc6a2c_n/index-v1-a1.m3u8?t=_esJQ9ICSZI7-IXheAZOiB2uitFHg9sT0nXgmVLAJXs&s=1735228264&e=43200&f=125962&srv=x1&i=0.0&sp=5000&p1=bristol&p2=bristol
 
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/bayzero1905/msiptv/refs/heads/main/logolar/dizired.png" group-title="Gassal",10.Bölüm
-https://lublin.eu-traffic-05.com/hls2/01/00025/ryzzxmy24y8s_n/index-v1-a1.m3u8?t=QDHfMTlwzECdKdeU8r0Kh_BraJOG5XZ1aT14YFU9fis&s=1735224967&e=43200&f=125963&srv=x1&i=0.0&sp=5000&p1=lublin&p2=lublin
 
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/bayzero1905/msiptv/refs/heads/main/logolar/end.png" group-title="Gassal",END
 https://raw.githubusercontent.com/bayzero1905/msiptv/refs/heads/main/logolar/theend.mp4
