@@ -18,8 +18,11 @@ https://raw.githubusercontent.com/bayzero1905/msiptv/refs/heads/main/logolar/the
 
 
 # ♦♦♦♦♦ FİLMLER ♦♦♦♦♦
-#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/bayzero1905/msiptv/refs/heads/main/logolar/film.png" group-title="FİLMLER",Mavi Gece
-https://pixeldrain.com/api/file/Qx4kgt4e
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/bayzero1905/msiptv/refs/heads/main/logolar/film.png" group-title="FİLMLER",Culpa tuya
+https://qp21.uk-traffic-076.com/hls2/01/00025/bg0o11xp69hx_n/index-v1-a1.m3u8?t=0spA9B_yFoS3PsDMU54CRG167MU7Z74dTzCQiQ3ajEE&s=1735335898&e=43200&f=126033&srv=x1&i=0.0&sp=5000&fr=bg0o11xp69hx&p1=qp21&p2=qp21
+
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/bayzero1905/msiptv/refs/heads/main/logolar/film.png" group-title="FİLMLER",Gladyatör 2
+https://zm1w.uk-traffic-076.com/hls2/02/00025/uljch74b8ng5_n/index-v1-a1.m3u8?t=QjRNK-xDEDQdwS4W4lnytRPWQI-jI63WLb337RMtYuE&s=1735335829&e=43200&f=126007&srv=x2&i=0.0&sp=5000&fr=uljch74b8ng5&p1=zm1w&p2=zm1w
 
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/bayzero1905/msiptv/refs/heads/main/logolar/film.png" group-title="FİLMLER",Filme Gel
 https://vs15.photoflick.org/v/Filme.Gel.2024.WEB-DL.1080p/480.m3u8
