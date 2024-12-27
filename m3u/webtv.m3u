@@ -243,10 +243,10 @@ https://raw.githubusercontent.com/bayzero1905/msiptv/refs/heads/main/logolar/the
 
 
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/bayzero1905/msiptv/refs/heads/main/logolar/dizired.png" group-title="Eko Eko Eko",1.Bölüm
-https://lodz.eu-traffic-05.com/hls2/01/00009/aactl2xtomz3_n/index-v1-a1.m3u8?t=OTmawTk1JSyNyJa4jnjN83b4kLudZVtGqzygOlDmk18&s=1735083860&e=43200&f=48534&srv=x1&i=0.0&sp=5000&p1=lodz&p2=lodz
+https://wroclaw.eu-traffic-05.com/hls2/01/00009/aactl2xtomz3_n/index-v1-a1.m3u8?t=5TNGauYbpd7o_0ON6NQak9DZnnWYbhIk1oyV_3CSrYE&s=1735308374&e=43200&f=48534&srv=x1&i=0.0&sp=5000&p1=wroclaw&p2=wroclaw
 
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/bayzero1905/msiptv/refs/heads/main/logolar/dizired.png" group-title="Eko Eko Eko",2.Bölüm
-https://pjs1.uk-traffic-076.com/hls2/01/00009/ugst3ii3osf1_n/index-v1-a1.m3u8?t=m9pZxkyO8HcBstzsQwKeruqdPmJEKQAPMSKowXCSR9g&s=1735083971&e=43200&f=48535&srv=x1&i=0.0&sp=5000&p1=pjs1&p2=pjs1
+https://lyon.eu-traffic-05.com/hls2/01/00009/ugst3ii3osf1_n/index-v1-a1.m3u8?t=L4uJEV-u5WOXDeuLifj48lBHVrVQD02CIcOQBq3xM6Q&s=1735308389&e=43200&f=48535&srv=x1&i=0.0&sp=5000&p1=lyon&p2=lyon
 
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/bayzero1905/msiptv/refs/heads/main/logolar/end.png" group-title="Eko Eko Eko",END
 https://raw.githubusercontent.com/bayzero1905/msiptv/refs/heads/main/logolar/theend.mp4
