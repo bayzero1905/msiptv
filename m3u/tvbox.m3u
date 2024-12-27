@@ -18,6 +18,12 @@ https://raw.githubusercontent.com/bayzero1905/msiptv/refs/heads/main/logolar/the
 
 
 # ♦♦♦♦♦ FİLMLER ♦♦♦♦♦
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/bayzero1905/msiptv/refs/heads/main/logolar/film.png" group-title="FİLMLER",Mavi Gece
+https://pixeldrain.com/api/file/Qx4kgt4e
+
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/bayzero1905/msiptv/refs/heads/main/logolar/film.png" group-title="FİLMLER",Filme Gel
+https://vs15.photoflick.org/v/Filme.Gel.2024.WEB-DL.1080p/480.m3u8
+
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/bayzero1905/msiptv/refs/heads/main/logolar/film.png" group-title="FİLMLER",1992
 https://vs9.photomag.biz/v/1992.2022.Bluray.1080p.DUAL/480.m3u8
 
