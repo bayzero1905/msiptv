@@ -10,8 +10,8 @@ https://vod3.cf.dmcdn.net/sec2(06G5bQXCkQM5_ZTXHcIAqEn-ONy8bd_iWhHnJwAZc_XwBO9mz
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/bayzero1905/msiptv/refs/heads/main/logolar/inctnlr.png" group-title="TV DİZİLERİ",İnci Taneleri 28.Bölüm
 https://kanaldvod.duhnet.tv/hls/h/IH/it_28_blm/it_28_blm.smil/hlssubplaylist-ovbnGvek_oacnGx7.m3u8?&app=com.kanald&min=0&max=1250
 
-#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/bayzero1905/msiptv/refs/heads/main/logolar/cgh.png" group-title="TV DİZİLERİ",Ç.G.Hareketler 187.Bölüm
-https://startv-p3.mncdn.com/smil:cgh2_187_smil.smil/chunklist_b1628000.m3u8?st=nQ2977OrBdXR33pSV_JLNg&e=1735056851
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/bayzero1905/msiptv/refs/heads/main/logolar/cgh.png" group-title="TV DİZİLERİ",Ç.G.Hareketler 188.Bölüm
+https://startv-p3.mncdn.com/smil:cgh2_188_smil.smil/chunklist_b1628000.m3u8?st=YGeig0aiGZ2ey5ImoKWiaQ&e=1735660824
 
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/bayzero1905/msiptv/refs/heads/main/logolar/end.png" group-title="TV DİZİLERİ",END
 https://raw.githubusercontent.com/bayzero1905/msiptv/refs/heads/main/logolar/theend.mp4
@@ -210,21 +210,6 @@ https://777.trgoalshls7.cfd/yayinex6.m3u8
 https://raw.githubusercontent.com/bayzero1905/msiptv/refs/heads/main/logolar/theend.mp4
 
 # ♦♦♦♦♦ Lost ♦♦♦♦♦
-#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/bayzero1905/msiptv/refs/heads/main/logolar/lost.png" group-title="LOST",1.Bölüm
-https://storage.diziyou.co/episodes/60701_tr/720p.m3u8
-
-#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/bayzero1905/msiptv/refs/heads/main/logolar/lost.png" group-title="LOST",2.Bölüm
-https://storage.diziyou.co/episodes/60702_tr/720p.m3u8
-
-#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/bayzero1905/msiptv/refs/heads/main/logolar/lost.png" group-title="LOST",3.Bölüm
-https://storage.diziyou.co/episodes/60703_tr/720p.m3u8
-
-#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/bayzero1905/msiptv/refs/heads/main/logolar/lost.png" group-title="LOST",4.Bölüm
-https://storage.diziyou.co/episodes/60704_tr/720p.m3u8
-
-#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/bayzero1905/msiptv/refs/heads/main/logolar/lost.png" group-title="LOST",5.Bölüm
-https://storage.diziyou.co/episodes/60705_tr/720p.m3u8
-
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/bayzero1905/msiptv/refs/heads/main/logolar/lost.png" group-title="LOST",6.Bölüm
 https://storage.diziyou.co/episodes/60706_tr/720p.m3u8
 
