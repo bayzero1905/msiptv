@@ -21,6 +21,9 @@ https://raw.githubusercontent.com/bayzero1905/msiptv/refs/heads/main/logolar/the
 
 
 # ♦♦♦♦♦ FİLM ♦♦♦♦♦
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/bayzero1905/msiptv/refs/heads/main/logolar/dizired.png" group-title="FİLM",Tarikat
+https://rovideo.xyz/164/tt16491560.480p.tr.m3u8
+
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/bayzero1905/msiptv/refs/heads/main/logolar/dizired.png" group-title="FİLM",Ad Vitam
 https://vs14.photour.org/v/Ad.Vitam.2025.WEB-DL.1080p.DUAL.H.264-HDM/360.m3u8
 
