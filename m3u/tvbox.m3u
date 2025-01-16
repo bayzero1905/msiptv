@@ -1,8 +1,11 @@
 #EXTM3U
 
 # ♦♦♦♦♦ TV DİZİLERİ ♦♦♦♦♦
-#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/bayzero1905/msiptv/refs/heads/main/logolar/annmankra.png" group-title="TV DİZİLERİ",Annem Ankar 1.Bölüm
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/bayzero1905/msiptv/refs/heads/main/logolar/annmankra.png" group-title="TV DİZİLERİ",Annem Ankara 1.Bölüm
 https://vod3.cf.dmcdn.net/sec2(U9U4t_tA2lxXydHB8tkxZGMGb7ZeIT7DQH-BQhqDRELVSEN2ApHqvqeo-Jhu-FXnSViJD6MmY81fasDZ_syYlF-nOUxV-Cri9jKaIT52JEN71bBxFe85XnSxuTeo58WXm5cws27238Xp7dRiqeRZ28LYMkUCzAZCimLTB8GJDPk46H7tt-ID2i4RHzn9VXr6)/video/447/541/560145744_mp4_h264_aac_hd_2.m3u8
+
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/bayzero1905/msiptv/refs/heads/main/logolar/annmankra.png" group-title="TV DİZİLERİ",Annem Ankara 2.Bölüm
+https://vod3.cf.dmcdn.net/sec2(uxMG7sthUcDH1rZSu0EgLPFIi1Qdn8m9ulzzvkwHT6hltfH9RR7g7TIL02zABT7QQz7nA0HpO_SavKfGDV0WrVqQZna7iQrgu7t7kXQQ20bXlYWkby7wmyeVreJ6ImNe19t4VZC3f2AF35fL4K79yxwaNH1TUV27vavFYs2fkO-EalQDmhNx1qVXTB06cUj4)/video/647/587/560785746_mp4_h264_aac_hd_2.m3u8
 
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/bayzero1905/msiptv/refs/heads/main/logolar/deha.png" group-title="TV DİZİLERİ",Deha 15.Bölüm
 https://vmcdn.ciner.com.tr/ht/2024/12/30/5412B5CCCBE2ABA4571893EBA46EDE2E/5412B5CCCBE2ABA4571893EBA46EDE2E.m3u8
