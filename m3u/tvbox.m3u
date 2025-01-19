@@ -1,11 +1,11 @@
 #EXTM3U
 
 # ♦♦♦♦♦ TV DİZİLERİ ♦♦♦♦♦
-#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/bayzero1905/msiptv/refs/heads/main/logolar/annmankra.png" group-title="TV DİZİLERİ",Annem Ankara 3.Bölüm
-https://vod3.cf.dmcdn.net/sec2(ZrtzEXmZs5Uxp0BuaDpn8ayyOtu_0femtSPy0HJ2WqG1EGfGv-TBbsoqM-34KKsbFpl7xyEOUjKw6l-hmCKRycsN0EqsNHtCZYl59OsdjTwyHLBIF7sNJ8nGd5VjV2atA06N6ZutEBj0DnZSrfQao5I4ISAY1pbFGmwQlMoGxzZ5XcEit9QmWcjMA2RjINVz)/video/440/414/561414044_mp4_h264_aac_hd_2.m3u8
-
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/bayzero1905/msiptv/refs/heads/main/logolar/annmankra.png" group-title="TV DİZİLERİ",Annem Ankara 4.Bölüm
-https://vod3.cf.dmcdn.net/sec2(xXql1qg9N4LZ3dLlZeBRJT99GwdteuneFqXc9nu8KkG6huz1DO-GhBoofmUvfWgUQWsyEOk5rzArB02ulktmSw0LRHFBXXF-Zw6fXi6gl4fRHORBfYk681ii0uiwi4fAmwFqjmG3-0lBFAZUw5zDn3PqYFD_AsO1PqjQOZBEyrvzpW2f8jnduNsfVqlIKXmE)/video/060/990/562099060_mp4_h264_aac_hd_9.m3u8
+https://vod3.cf.dmcdn.net/sec2(xLM9js3RMMIZTgV4TnkOYqRSYUGYMN2SZDYS3aGgAQtp-mCYm89Y_tCFS_UMzUKnIGUl1Jg-8yWrNVF5KtzaODy1dXZw7zq3-fstpWT55W0zcIU99Jtifu0J0aFEAC1TJZzpl8mQHsWpuJbcWsMmyQgpKEZ07BMRtq2B8vaILjL18FqseaebUU5lFXpaKz53)/video/060/990/562099060_mp4_h264_aac_hd_9.m3u8
+
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/bayzero1905/msiptv/refs/heads/main/logolar/annmankra.png" group-title="TV DİZİLERİ",Annem Ankara 5.Bölüm
+https://kanaldvod.duhnet.tv/hls/1/1W/aa_5_bolumm/aa_5_bolumm.smil/hlssubplaylist-ovdnEmSf_oacnwz7.m3u8?&app=com.kanald&min=0&max=1250
 
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/bayzero1905/msiptv/refs/heads/main/logolar/deha.png" group-title="TV DİZİLERİ",Deha 15.Bölüm
 https://vmcdn.ciner.com.tr/ht/2024/12/30/5412B5CCCBE2ABA4571893EBA46EDE2E/5412B5CCCBE2ABA4571893EBA46EDE2E.m3u8
