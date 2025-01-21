@@ -1,16 +1,16 @@
 #EXTM3U
 
 # ♦♦♦♦♦ TV DİZİLERİ ♦♦♦♦♦
-#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/bayzero1905/msiptv/refs/heads/main/logolar/annmankra.png" group-title="TV DİZİLERİ",Annem Ankara 5.Bölüm
-https://kanaldvod.duhnet.tv/hls/1/1W/aa_5_bolumm/aa_5_bolumm.smil/hlssubplaylist-ovdnEmSf_oacnwz7.m3u8?&app=com.kanald&min=0&max=1250
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/bayzero1905/msiptv/refs/heads/main/logolar/annmankra.png" group-title="TV DİZİLERİ",Annem Ankara 6.Bölüm
+
 
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/bayzero1905/msiptv/refs/heads/main/logolar/annmankra.png" group-title="TV DİZİLERİ",Annem Ankara 6.Bölüm
 
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/bayzero1905/msiptv/refs/heads/main/logolar/deha.png" group-title="TV DİZİLERİ",Deha 16.Bölüm
 https://vmcdn.ciner.com.tr/ht/2025/01/19/E8EF95FFE786EA933FD7282B826C5D10/E8EF95FFE786EA933FD7282B826C5D10.m3u8
 
-#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/bayzero1905/msiptv/refs/heads/main/logolar/kzlgnclr.png" group-title="TV DİZİLERİ",Kızıl Goncalar 33.Bölüm
-https://video.twimg.com/amplify_video/1873836271807733760/vid/avc1/1920x1080/ypAWrbm1iL-9-sWn.mp4?tag=16
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/bayzero1905/msiptv/refs/heads/main/logolar/kzlgnclr.png" group-title="TV DİZİLERİ",Kızıl Goncalar 34.Bölüm
+https://video.twimg.com/amplify_video/1881444762932158464/vid/avc1/1920x1080/7QL5qt7kG2mFOlP6.mp4?tag=16
 
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/bayzero1905/msiptv/refs/heads/main/logolar/inctnlr.png" group-title="TV DİZİLERİ",İnci Taneleri 29.Bölüm
 https://vod3.cf.dmcdn.net/sec2(U4XCpDxt73-Z9XqXuTsBketOQRPlot1uu4CI49Y_fYMaTfZ8-dI4jkkcUJu24mAa6dsg4Uo1Gvlye0qHFrO559x9I34B2bnmbHmlkGFUKwjgz_UUyGNWmM6ZFD-3DyR_iIKS3WDkdWL9OugFUMTzmUqxg8rcD4ijkxkCLP2zkd6durrFE7QuDIrmipdeFFZQ)/video/485/671/565176584_mp4_h264_aac_hd_2.m3u8
