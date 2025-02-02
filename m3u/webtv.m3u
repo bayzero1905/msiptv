@@ -21,6 +21,9 @@ https://raw.githubusercontent.com/bayzero1905/msiptv/refs/heads/main/logolar/the
 
 
 # ♦♦♦♦♦ FİLM ♦♦♦♦♦
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/bayzero1905/msiptv/refs/heads/main/logolar/dizired.png" group-title="FİLM",Sakın Ses Çıkarma
+https://vs18.photoflick.org/v/Speak.No.Evil.2024.WEB-DL.1080p.DUAL.H.264-HDM/480.m3u8
+
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/bayzero1905/msiptv/refs/heads/main/logolar/dizired.png" group-title="FİLM",Nightbitch
 https://vs17.photoflax.org/v/Nightbitch.2024.WEB-DL.1080p.DUAL.H.264-HDM/480.m3u8
 
