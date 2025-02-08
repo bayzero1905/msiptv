@@ -21,11 +21,11 @@ https://raw.githubusercontent.com/bayzero1905/msiptv/refs/heads/main/logolar/the
 
 
 # ♦♦♦♦♦ FİLM ♦♦♦♦♦
-#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/bayzero1905/msiptv/refs/heads/main/logolar/film.png" group-title="FİLM",Deniz Seviyesi
-https://poznan.eu-traffic-05.com/hls2/01/00025/leibvt81s58q_n/index-v1-a1.m3u8?t=8jQ1y27Gigg_RLMEveGxK_XaY2JptRHzc8dPCtHhYxw&s=1738934125&e=43200&f=126229&srv=x2&i=0.0&sp=5000&fr=leibvt81s58q&p1=poznan&p2=poznan
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/bayzero1905/msiptv/refs/heads/main/logolar/film.png" group-title="FİLM",JOKER
+https://vs15.photostack.net/v/Joker.Folie.a.Deux.2024.WEB-DL.1080p.DUAL.H.264-HDM/480.m3u8
 
-#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/bayzero1905/msiptv/refs/heads/main/logolar/film.png" group-title="FİLM",Babygirl
-https://katowice.eu-traffic-05.com/hls2/01/00025/sl73fd46pos7_n/index-v1-a1.m3u8?t=XVxBpnKhS5-FcGvtHEf5awCDAOdz_AO5qlSNwTMhGCA&s=1738934337&e=43200&f=126259&srv=x2&i=0.0&sp=5000&fr=sl73fd46pos7&p1=katowice&p2=katowice
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/bayzero1905/msiptv/refs/heads/main/logolar/film.png" group-title="FİLM",NEFES
+https://zm2n.uk-traffic-076.com/hls2/02/00025/9idwyxo48h8u_n/index-v1-a1.m3u8?t=eg3dd16-4s0DL8_yircg2g-cpEpnTZJYN9AViAQeD0g&s=1739012748&e=43200&f=126231&srv=x2&i=0.0&sp=5000&p1=zm2n&p2=zm2n
 
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/bayzero1905/msiptv/refs/heads/main/logolar/film.png" group-title="FİLM",Nightbitch
 https://vs17.photoflax.org/v/Nightbitch.2024.WEB-DL.1080p.DUAL.H.264-HDM/480.m3u8
@@ -61,14 +61,23 @@ https://www.youtube.com/watch?v=7uBpwcn2ZZ0
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/bayzero1905/msiptv/refs/heads/main/logolar/end.png" group-title="YOUTUBE",END
 https://raw.githubusercontent.com/bayzero1905/msiptv/refs/heads/main/logolar/theend.mp4
 
-# ♦♦♦♦♦ DİZİ ♦♦♦♦♦
-#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/bayzero1905/msiptv/refs/heads/main/logolar/dizired.png" group-title="DİZİ",I AM A KİLLER 1
-https://s1.giomgr.xyz/hls2/06/00006/l2qlhnyd2nnf_n/index-v1-a1.m3u8?t=Db1lzAeiBl9JopkD7OOPGyPVhX-AG1Ah4iau9VmwOWY&s=1729174263&e=43200&f=31072&srv=127.0.0.1
+# ♦♦♦♦♦ The Are Murders ♦♦♦♦♦
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/bayzero1905/msiptv/refs/heads/main/logolar/dizired.png" group-title="The Are Murders",01
+https://dn2p.uk-traffic-076.com/hls2/02/00025/0c6plgp9jd2p_n/index-v1-a2.m3u8?t=hhRt3vwK7RfzDJDtko_4KHxdZ8V3nwn2filmzWSn8yA&s=1739012935&e=43200&f=126236&srv=x2&i=0.0&sp=5000&fr=0c6plgp9jd2p&p1=dn2p&p2=dn2p
 
-#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/bayzero1905/msiptv/refs/heads/main/logolar/dizired.png" group-title="DİZİ",I AM A KİLLER 2
-https://s1.giomgr.xyz/hls2/06/00006/ag7wh7zvf40r_n/index-v1-a1.m3u8?t=rb0zYxpMsJkJOVHRyxfgDBTjRE6kJua5E4hHiL_WZr4&s=1729174491&e=43200&f=31073&srv=127.0.0.1
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/bayzero1905/msiptv/refs/heads/main/logolar/dizired.png" group-title="The Are Murders",02
+https://jfn2.uk-traffic-076.com/hls2/02/00025/xravyplr3rc3_n/index-v1-a2.m3u8?t=OzPRfPhpv8qoLAcdIk2mKlvcMHqg7gN4RSfg4ZErbJ4&s=1739013205&e=43200&f=126237&srv=x2&i=0.0&sp=5000&fr=xravyplr3rc3&p1=jfn2&p2=jfn2
 
-#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/bayzero1905/msiptv/refs/heads/main/logolar/end.png" group-title="DİZİ",END
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/bayzero1905/msiptv/refs/heads/main/logolar/dizired.png" group-title="The Are Murders",03
+https://montpellier.eu-traffic-05.com/hls2/02/00025/gxyakbe8erjn_n/index-v1-a2.m3u8?t=CI-UmvwziHMj37P61suRtsGGEriU2kgR5lW94zrfdyU&s=1739013087&e=43200&f=126233&srv=x2&i=0.0&sp=5000&fr=gxyakbe8erjn&p1=montpellier&p2=montpellier
+
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/bayzero1905/msiptv/refs/heads/main/logolar/dizired.png" group-title="The Are Murders",04
+https://z01k.uk-traffic-076.com/hls2/02/00025/lat8tbpbv2gt_n/index-v1-a2.m3u8?t=vMKJ8bwF7ilFgcrbEiXEpvoxd8yRIzi-w_KMcRDxw9M&s=1739013141&e=43200&f=126234&srv=x2&i=0.0&sp=5000&fr=lat8tbpbv2gt&p1=z01k&p2=z01k
+
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/bayzero1905/msiptv/refs/heads/main/logolar/dizired.png" group-title="The Are Murders",05
+https://jfn2.uk-traffic-076.com/hls2/02/00025/qdxxee3ooeye_n/index-v1-a2.m3u8?t=_zUEOWkxBomJ-ACOACBfL5DCjNMoIZ4_UJY9eCUzxQY&s=1739013154&e=43200&f=126235&srv=x2&i=0.0&sp=5000&fr=qdxxee3ooeye&p1=jfn2&p2=jfn2
+
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/bayzero1905/msiptv/refs/heads/main/logolar/end.png" group-title="The Are Murders",END
 https://raw.githubusercontent.com/bayzero1905/msiptv/refs/heads/main/logolar/theend.mp4
 
 # ♦♦♦♦♦ KONUŞANLAR ♦♦♦♦♦
