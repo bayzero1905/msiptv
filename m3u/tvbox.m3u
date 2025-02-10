@@ -4,8 +4,8 @@
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/bayzero1905/msiptv/refs/heads/main/logolar/annmankra.png" group-title="TV DİZİLERİ",Annem Ankara 9.Bölüm
 https://kanaldvod.duhnet.tv/hls/v/hg/aa_9_blm/aa_9_blm.smil/hlssubplaylist-ovdnEmSf_oacnWx7.m3u8?&app=com.kanald&min=0&max=1250
 
-#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/bayzero1905/msiptv/refs/heads/main/logolar/deha.png" group-title="TV DİZİLERİ",Deha 18.Bölüm
-https://vmcdn.ciner.com.tr/ht/2025/02/02/EC387D848983CE3A32BFF66CE6E5FEF1/EC387D848983CE3A32BFF66CE6E5FEF1.m3u8
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/bayzero1905/msiptv/refs/heads/main/logolar/deha.png" group-title="TV DİZİLERİ",Deha 19.Bölüm
+https://vmcdn.ciner.com.tr/ht/2025/02/09/41B6A88FBA609B508C544482051BFC74/41B6A88FBA609B508C544482051BFC74.m3u8
 
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/bayzero1905/msiptv/refs/heads/main/logolar/kzlgnclr.png" group-title="TV DİZİLERİ",Kızıl Goncalar 36.Bölüm
 https://video.twimg.com/amplify_video/1886515424243650560/vid/avc1/1280x720/PRxheDy3_a2HH3Sa.mp4?tag=16
@@ -13,8 +13,8 @@ https://video.twimg.com/amplify_video/1886515424243650560/vid/avc1/1280x720/PRxh
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/bayzero1905/msiptv/refs/heads/main/logolar/inctnlr.png" group-title="TV DİZİLERİ",İnci Taneleri 31.Bölüm
 https://vod3.cf.dmcdn.net/sec2(EFLuq0VxZhsVladGDHJczgRnkHhzospAckLQaXkgX1DHRa8OkT8YBDQ1i_JrJ3nW4JQrzMap2OLJuQ2ptftN1mEf7T8O9kmN3ZlUI1vDhL7rVASnXF7G9rZNg6OQ_0__90AQUuIbkXkuowKT4RizTF5oH5x7iCy7BEZjDWvx_5ZahpwArGeiibbL1NsUsDkG)/video/222/831/567138222_mp4_h264_aac_hd_2.m3u8
 
-#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/bayzero1905/msiptv/refs/heads/main/logolar/cgh.png" group-title="TV DİZİLERİ",Ç.G.Hareketler 190.Bölüm
-https://startv-p3.mncdn.com/smil:cgh190_02022025_smil.smil/chunklist_b1628000.m3u8?st=5JBv-BCEYoQ2BU3XXPE7gA&e=1739027394
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/bayzero1905/msiptv/refs/heads/main/logolar/cgh.png" group-title="TV DİZİLERİ",Ç.G.Hareketler 191.Bölüm
+https://startv-p3.mncdn.com/smil:cgh2_191_smil.smil/chunklist_b1628000.m3u8?st=ETZdq0dWtTWjeSlJXHkYxA&e=1739272100
 
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/bayzero1905/msiptv/refs/heads/main/logolar/end.png" group-title="TV DİZİLERİ",END
 https://raw.githubusercontent.com/bayzero1905/msiptv/refs/heads/main/logolar/theend.mp4
