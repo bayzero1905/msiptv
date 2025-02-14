@@ -23,6 +23,12 @@ https://raw.githubusercontent.com/bayzero1905/msiptv/refs/heads/main/logolar/the
 
 
 # ♦♦♦♦♦ FİLM ♦♦♦♦♦
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/bayzero1905/msiptv/refs/heads/main/logolar/film.png" group-title="FİLM",Malena
+https://sx1.rovideo.buzz/v/d/tt0213847/tr/480
+
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/bayzero1905/msiptv/refs/heads/main/logolar/film.png" group-title="FİLM",Genç Ve Güzel
+https://cdn.dzeninfra.com/vod/converted-video/vod-content/52/41/86/40/24/23/00/91/73/027873c0-ca12-44ed-adec-5db685fe8eda/kaltura/desc_ad0b165fca17495b4c55a779d6ca4abc/vslJ576ZYlkg/vw=1920,vh=1036,fps=24.00,vbrt=2146407,abrt=129380,vcodec=avc1.640028,acodec=mp4a.40.2,label=1080p/index-f7-v1-a1.m3u8
+
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/bayzero1905/msiptv/refs/heads/main/logolar/film.png" group-title="FİLM",Longing
 https://vs16.photofunny.org/v/Longing.2024.WEB-DL.1080p.DUAL.H.264-HDM/480.m3u8
 
