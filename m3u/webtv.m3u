@@ -23,6 +23,9 @@ https://raw.githubusercontent.com/bayzero1905/msiptv/refs/heads/main/logolar/the
 
 
 # ♦♦♦♦♦ FİLM ♦♦♦♦♦
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/bayzero1905/msiptv/refs/heads/main/logolar/film.png" group-title="FİLM",Cuckoo
+https://bordeaux.eu-traffic-05.com/hls2/02/00025/unmcq06m7ubw_n/index-v1-a2.m3u8?t=t1p8aTJJvTOfGSJX4hbcznyRcuhV6FYPz4SEuF4J6Ss&s=1739714239&e=43200&f=126260&srv=x2&i=0.0&sp=5000&fr=unmcq06m7ubw&p1=bordeaux&p2=bordeaux
+
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/bayzero1905/msiptv/refs/heads/main/logolar/film.png" group-title="FİLM",Umami
 https://cdn775.camaradavay.click/3764/720p.m3u8
 
