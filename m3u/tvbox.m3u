@@ -2,8 +2,8 @@
 
 # ♦♦♦♦♦ TV DİZİLERİ ♦♦♦♦♦
 
-#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/bayzero1905/msiptv/refs/heads/main/logolar/kralk.png" group-title="TV DİZİLERİ",Kral Kaybederse 2.Bölüm
-https://startv-p3.mncdn.com/smil:kral_kaybederse_s1b2_STAR_smil.smil/chunklist_b1628000.m3u8?st=871MZEjuPLeQLEXl6TBRvw&e=1739998498
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/bayzero1905/msiptv/refs/heads/main/logolar/kralk.png" group-title="TV DİZİLERİ",Kral Kaybederse 3.Bölüm
+https://yayin2.canlitv.fun/vod/_definst_/mp4:video/kralkaybeder3-tek.mp4/playlist.m3u8
 
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/bayzero1905/msiptv/refs/heads/main/logolar/annmankra.png" group-title="TV DİZİLERİ",Annem Ankara 11.Bölüm
 https://kanaldvod.duhnet.tv/hls/i/yG/aa_11_blm/aa_11_blm.smil/hlssubplaylist-ovbnGvek_oacnWx7.m3u8?&app=com.kanald&min=0&max=1250
