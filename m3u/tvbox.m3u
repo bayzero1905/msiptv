@@ -258,5 +258,33 @@ https://storage.diziyou.co/episodes/60735_tr/720p.m3u8
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/bayzero1905/msiptv/refs/heads/main/logolar/end.png" group-title="LOST",END
 https://raw.githubusercontent.com/bayzero1905/msiptv/refs/heads/main/logolar/theend.mp4
 
+# ♦♦♦♦♦ Mezarlık 2.Sezon ♦♦♦♦♦
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/bayzero1905/msiptv/refs/heads/main/logolar/dizired.png" group-title="Mezarlık",1.Bölüm
+https://j2mx.uk-traffic-076.com/hls2/01/00025/ijsjju58hc57_n/index-v1-a1.m3u8?t=JGRSRQm1CRxn49JFk7y1_45_zgDvk9sk7CrtXtdzdS0&s=1740851219&e=43200&f=127645&srv=x2&i=0.0&sp=5000&fr=ijsjju58hc57&p1=j2mx&p2=j2mx
+
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/bayzero1905/msiptv/refs/heads/main/logolar/dizired.png" group-title="Mezarlık",2.Bölüm
+https://zm1w.uk-traffic-076.com/hls2/01/00025/yi4fmyqph33a_n/index-v1-a1.m3u8?t=3TunGELExpFKOO8gkaIlJxp09eJ9cFzSJ4ORRvf-esY&s=1740851251&e=43200&f=127646&srv=x2&i=0.0&sp=5000&fr=yi4fmyqph33a&p1=zm1w&p2=zm1w
+
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/bayzero1905/msiptv/refs/heads/main/logolar/dizired.png" group-title="Mezarlık",3.Bölüm
+https://kde2.uk-traffic-076.com/hls2/01/00025/0ca6v4p3mwtv_n/index-v1-a1.m3u8?t=Xp13KYBxJ0B3k0AtCLlBaPC6UBR0Xry7hTu-fG6I5Hg&s=1740851274&e=43200&f=127647&srv=x2&i=0.0&sp=5000&fr=0ca6v4p3mwtv&p1=kde2&p2=kde2
+
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/bayzero1905/msiptv/refs/heads/main/logolar/dizired.png" group-title="Mezarlık",4.Bölüm
+https://m2sa.uk-traffic-076.com/hls2/01/00025/xkey3hat5fvh_n/index-v1-a1.m3u8?t=6_4qw_AbovZGCtXAMDJ6eSuoKxouvdsu8u9WfvB9wQE&s=1740851299&e=43200&f=127648&srv=x2&i=0.0&sp=5000&fr=xkey3hat5fvh&p1=m2sa&p2=m2sa
+
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/bayzero1905/msiptv/refs/heads/main/logolar/dizired.png" group-title="Mezarlık",5.Bölüm
+https://exeter.eu-traffic-05.com/hls2/01/00025/79dcnqwntegl_n/index-v1-a1.m3u8?t=55TucgrECkw1eVFkZHpmaM7O4bDKfBOEPsTHC4Uu2BI&s=1740851326&e=43200&f=127649&srv=x2&i=0.0&sp=5000&fr=79dcnqwntegl&p1=exeter&p2=exeter
+
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/bayzero1905/msiptv/refs/heads/main/logolar/dizired.png" group-title="Mezarlık",6.Bölüm
+https://sn12.uk-traffic-076.com/hls2/01/00025/9s4tjmfsef1o_n/index-v1-a1.m3u8?t=_HNaEkiRunWEo4ETLRUBv-qNsNE8Qf-fSG6T6tKRuiM&s=1740851346&e=43200&f=127642&srv=x2&i=0.0&sp=5000&fr=9s4tjmfsef1o&p1=sn12&p2=sn12
+
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/bayzero1905/msiptv/refs/heads/main/logolar/dizired.png" group-title="Mezarlık",7.Bölüm
+https://montpellier.eu-traffic-05.com/hls2/01/00025/7wl1a7kv8ffi_n/index-v1-a1.m3u8?t=r8NZmS5tOywBsMdtTSRiIxpEHnOS6DIlNw7z13YOMS0&s=1740851368&e=43200&f=127643&srv=x2&i=0.0&sp=5000&fr=7wl1a7kv8ffi&p1=montpellier&p2=montpellier
+
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/bayzero1905/msiptv/refs/heads/main/logolar/dizired.png" group-title="Mezarlık",8.Bölüm
+https://paris.eu-traffic-05.com/hls2/01/00025/9or9choablu8_n/index-v1-a1.m3u8?t=bXx9g7CSYkycxSJnBOdC-5W6A_WI7sQJf_U8ColFnFw&s=1740851387&e=43200&f=127644&srv=x2&i=0.0&sp=5000&fr=9or9choablu8&p1=paris&p2=paris
+
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/bayzero1905/msiptv/refs/heads/main/logolar/end.png" group-title="Mezarlık",END
+https://raw.githubusercontent.com/bayzero1905/msiptv/refs/heads/main/logolar/theend.mp4
+
 
 
