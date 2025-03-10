@@ -1,18 +1,14 @@
 #EXTM3U
 
 # ♦♦♦♦♦ TV DİZİLERİ ♦♦♦♦♦
-
-#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/bayzero1905/msiptv/refs/heads/main/logolar/kralk.png" group-title="TV DİZİLERİ",Kral Kaybederse 4.Bölüm
-https://video.twimg.com/amplify_video/1897013904565313536/pl/McF9MtVlASSrzLF1.m3u8?tag=16
-
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/bayzero1905/msiptv/refs/heads/main/logolar/annmankra.png" group-title="TV DİZİLERİ",Annem Ankara 13.Bölüm
 https://video.twimg.com/amplify_video/1897393150668181504/pl/J9gDsCdjWS8989V3.m3u8?tag=16
 
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/bayzero1905/msiptv/refs/heads/main/logolar/deha.png" group-title="TV DİZİLERİ",Deha 23.Bölüm
 https://vmcdn.ciner.com.tr/ht/2025/03/09/6DA5E9071BAF9990652CD33A96C9F9D2/6DA5E9071BAF9990652CD33A96C9F9D2.m3u8
 
-#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/bayzero1905/msiptv/refs/heads/main/logolar/kzlgnclr.png" group-title="TV DİZİLERİ",Kızıl Goncalar 40.Bölüm
-https://video.twimg.com/amplify_video/1896664760705294336/pl/cTZ3AEq_kKqOQ1Mv.m3u8?tag=16
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/bayzero1905/msiptv/refs/heads/main/logolar/kzlgnclr.png" group-title="TV DİZİLERİ",Kızıl Goncalar 41.Bölüm
+https://video.twimg.com/amplify_video/1899206012164272128/pl/DkP_nYCIGOkyL_-G.m3u8?tag=16
 
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/bayzero1905/msiptv/refs/heads/main/logolar/inctnlr.png" group-title="TV DİZİLERİ",İnci Taneleri 35.Bölüm
 https://video.twimg.com/amplify_video/1897754812806017024/pl/mK6tafMS_jIifg7X.m3u8?tag=16
