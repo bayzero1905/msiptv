@@ -271,18 +271,6 @@ https://paris.eu-traffic-05.com/hls2/01/00025/9or9choablu8_n/index-v1-a1.m3u8?t=
 https://raw.githubusercontent.com/bayzero1905/msiptv/refs/heads/main/logolar/theend.mp4
 
 # ♦♦♦♦♦ Narcos ♦♦♦♦♦
-#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/bayzero1905/msiptv/refs/heads/main/logolar/narcos.png" group-title="Narcos",5.Bölüm
-https://istanbul2.shop/cdn/down/a30362db00cb15b323971e5f3d7946b5/720p/720p.txt
-
-#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/bayzero1905/msiptv/refs/heads/main/logolar/narcos.png" group-title="Narcos",6.Bölüm
-https://istanbul2.shop/cdn/down/9ee409e3db903c40c4de9406a83ef320/720p/720p.txt
-
-#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/bayzero1905/msiptv/refs/heads/main/logolar/narcos.png" group-title="Narcos",7.Bölüm
-https://istanbul2.shop/cdn/down/13413993f4b550d302aaa637916ef232/720p/720p.txt
-
-#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/bayzero1905/msiptv/refs/heads/main/logolar/narcos.png" group-title="Narcos",8.Bölüm
-https://istanbul2.shop/cdn/down/af54d4902c8f2d968c1edd0404932ede/720p/720p.txt
-
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/bayzero1905/msiptv/refs/heads/main/logolar/narcos.png" group-title="Narcos",9.Bölüm
 https://istanbul2.shop/cdn/down/1f7f85336f96b23952400dff716985d3/720p/720p.txt
 
@@ -292,5 +280,36 @@ https://istanbul2.shop/cdn/down/ac24cfc731eb80b4063ef1dd1210a977/720p/720p.txt
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/bayzero1905/msiptv/refs/heads/main/logolar/end.png" group-title="Narcos",END
 https://raw.githubusercontent.com/bayzero1905/msiptv/refs/heads/main/logolar/theend.mp4
 
+# ♦♦♦♦♦ Narcos ♦♦♦♦♦
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/bayzero1905/msiptv/refs/heads/main/logolar/narcos.png" group-title="Narcos 2",1.Bölüm
+https://istanbul2.shop/cdn/down/0443a26e56b2a7232cef15a60283064f/720p/720p.txt
 
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/bayzero1905/msiptv/refs/heads/main/logolar/narcos.png" group-title="Narcos 2",2.Bölüm
+https://istanbul2.shop/cdn/down/942f4f2b3aafc9848d0891e059e5a9e7/720p/720p.txt
+
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/bayzero1905/msiptv/refs/heads/main/logolar/narcos.png" group-title="Narcos 2",3.Bölüm
+https://istanbul2.shop/cdn/down/575954bd73476c3660fbe0bbe9a333a1/720p/720p.txt
+
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/bayzero1905/msiptv/refs/heads/main/logolar/narcos.png" group-title="Narcos 2",4.Bölüm
+https://istanbul2.shop/cdn/down/459dcee691a5569aba2eb421eef31bcd/720p/720p.txt
+
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/bayzero1905/msiptv/refs/heads/main/logolar/narcos.png" group-title="Narcos 2",5.Bölüm
+https://istanbul2.shop/cdn/down/ad2c074e4aef086ef96cce9c4d0bf373/720p/720p.txt
+
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/bayzero1905/msiptv/refs/heads/main/logolar/narcos.png" group-title="Narcos 2",6.Bölüm
+https://istanbul2.shop/cdn/down/d14cdd875db64c5dbb8a258c213e1f2f/720p/720p.txt
+
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/bayzero1905/msiptv/refs/heads/main/logolar/narcos.png" group-title="Narcos 2",7.Bölüm
+https://istanbul2.shop/cdn/down/c3aed788cfff578c25958d644c1945a4/720p/720p.txt
+
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/bayzero1905/msiptv/refs/heads/main/logolar/narcos.png" group-title="Narcos 2",8.Bölüm
+https://istanbul2.shop/cdn/down/95670dfc20693751fa9582925cfc4aa7/720p/720p.txt
+
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/bayzero1905/msiptv/refs/heads/main/logolar/narcos.png" group-title="Narcos 2",9.Bölüm
+https://istanbul2.shop/cdn/down/d208728ae1e88111d669d1a5a448eb93/720p/720p.txt
+
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/bayzero1905/msiptv/refs/heads/main/logolar/narcos.png" group-title="Narcos 2",10.Bölüm
+https://istanbul2.shop/cdn/down/01b7a824c786fc26baee7c7b949aaf30/720p/720p.txt
+
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/bayzero1905/msiptv/refs/heads/main/logolar/end.png" group-title="Narcos 2",END
 
