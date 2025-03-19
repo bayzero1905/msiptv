@@ -1,6 +1,9 @@
 #EXTM3U
 
 # ♦♦♦♦♦ TV DİZİLERİ ♦♦♦♦♦
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/bayzero1905/msiptv/refs/heads/main/logolar/esrefruya.png" group-title="TV DİZİLERİ",Eşref Rüya
+https://video.twimg.com/amplify_video/1902444476150243328/pl/1Dor4ivtZiCCSa3k.m3u8?tag=16
+
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/bayzero1905/msiptv/refs/heads/main/logolar/annmankra.png" group-title="TV DİZİLERİ",Annem Ankara 14.Bölüm
 https://video.twimg.com/amplify_video/1899925496969764864/pl/7ko0xFPcSufu96nI.m3u8?tag=16
 
