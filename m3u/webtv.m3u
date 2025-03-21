@@ -21,6 +21,9 @@ https://raw.githubusercontent.com/bayzero1905/msiptv/refs/heads/main/logolar/the
 
 
 # ♦♦♦♦♦ FİLM ♦♦♦♦♦
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/bayzero1905/msiptv/refs/heads/main/logolar/film.png" group-title="FİLM",Orion ve Karanlık
+https://d2.rovideo.buzz/v/d/tt28066777/tr/480
+
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/bayzero1905/msiptv/refs/heads/main/logolar/film.png" group-title="FİLM",Gülümse 2
 https://vs17.photomag.biz/v/Smile.2.2024.WEB-DL.1080p.DUAL.H.264-HDM/480.m3u8
 
