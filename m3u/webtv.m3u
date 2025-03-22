@@ -21,6 +21,9 @@ https://raw.githubusercontent.com/bayzero1905/msiptv/refs/heads/main/logolar/the
 
 
 # ♦♦♦♦♦ FİLM ♦♦♦♦♦
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/bayzero1905/msiptv/refs/heads/main/logolar/film.png" group-title="FİLM",Çifte İhanet
+https://vs11.photoflax.org/v/Duplicity.2025.WEB-DL.1080p.DUAL.H.264-HDM/480.m3u8
+
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/bayzero1905/msiptv/refs/heads/main/logolar/film.png" group-title="FİLM",İçimizdeki Sesler
 https://cdn7771230583092.kabakciosman.store/uploads/encode/d2dk74ryiuvao73gzwt6/480p/playlist.m3u8
 
