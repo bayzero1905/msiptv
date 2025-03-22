@@ -21,6 +21,12 @@ https://raw.githubusercontent.com/bayzero1905/msiptv/refs/heads/main/logolar/the
 
 
 # ♦♦♦♦♦ FİLM ♦♦♦♦♦
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/bayzero1905/msiptv/refs/heads/main/logolar/film.png" group-title="FİLM",İçimizdeki Sesler
+https://cdn7771230583092.kabakciosman.store/uploads/encode/d2dk74ryiuvao73gzwt6/480p/playlist.m3u8
+
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/bayzero1905/msiptv/refs/heads/main/logolar/film.png" group-title="FİLM",Yalanların Anası
+https://rovideo.xyz/153/tt15307068.480p.tr.m3u8
+
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/bayzero1905/msiptv/refs/heads/main/logolar/film.png" group-title="FİLM",Sevda Mecburi İstikamet
 https://p2km.uk-traffic-076.com/hls2/01/00026/7bur96bt9af1_n/index-v1-a1.m3u8?t=F3qD07PJywyD2BYDBjaGzuaxWbojcN99L6Fq-9quPQM&s=1742667116&e=43200&f=131561&srv=x1&i=0.0&sp=5000&fr=7bur96bt9af1&p1=p2km&p2=p2km
 
