@@ -21,8 +21,11 @@ https://raw.githubusercontent.com/bayzero1905/msiptv/refs/heads/main/logolar/the
 
 
 # ♦♦♦♦♦ FİLM ♦♦♦♦♦
-#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/bayzero1905/msiptv/refs/heads/main/logolar/film.png" group-title="FİLM",Küçük Sibirya
-https://jfn2.uk-traffic-076.com/hls2/01/00026/uk2xh7mzl486_n/index-v1-a1.m3u8?t=-4r5aQKwddebSFyxDsprL8nE5dQFg03XkiAW5YyHvZc&s=1742659732&e=43200&f=131563&srv=x2&i=0.0&sp=5000&fr=uk2xh7mzl486&p1=jfn2&p2=jfn2
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/bayzero1905/msiptv/refs/heads/main/logolar/film.png" group-title="FİLM",Sevda Mecburi İstikamet
+https://p2km.uk-traffic-076.com/hls2/01/00026/7bur96bt9af1_n/index-v1-a1.m3u8?t=F3qD07PJywyD2BYDBjaGzuaxWbojcN99L6Fq-9quPQM&s=1742667116&e=43200&f=131561&srv=x1&i=0.0&sp=5000&fr=7bur96bt9af1&p1=p2km&p2=p2km
+
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/bayzero1905/msiptv/refs/heads/main/logolar/film.png" group-title="FİLM",Gelin Takımı
+https://pjs1.uk-traffic-076.com/hls2/01/00026/9w0jot0j5oso_n/index-v1-a1.m3u8?t=TBGfdmJJYipH9IL3YVdRHNGdLAoxH_8jSFwe7ILeoBk&s=1742667123&e=43200&f=131566&srv=x2&i=0.0&sp=5000&fr=9w0jot0j5oso&p1=pjs1&p2=pjs1
 
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/bayzero1905/msiptv/refs/heads/main/logolar/film.png" group-title="FİLM",Gülümse 2
 https://vs17.photomag.biz/v/Smile.2.2024.WEB-DL.1080p.DUAL.H.264-HDM/480.m3u8
