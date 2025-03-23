@@ -4,8 +4,8 @@
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/bayzero1905/msiptv/refs/heads/main/logolar/esrefruya.png" group-title="TV DİZİLERİ",Eşref Rüya
 https://video.twimg.com/amplify_video/1902444476150243328/pl/1Dor4ivtZiCCSa3k.m3u8?tag=16
 
-#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/bayzero1905/msiptv/refs/heads/main/logolar/annmankra.png" group-title="TV DİZİLERİ",Annem Ankara 14.Bölüm
-https://video.twimg.com/amplify_video/1899925496969764864/pl/7ko0xFPcSufu96nI.m3u8?tag=16
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/bayzero1905/msiptv/refs/heads/main/logolar/annmankra.png" group-title="TV DİZİLERİ",Annem Ankara FİNAL
+https://video.twimg.com/amplify_video/1903913245523505152/pl/z1y10b8ptpwrQRvS.m3u8?tag=16
 
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/bayzero1905/msiptv/refs/heads/main/logolar/deha.png" group-title="TV DİZİLERİ",Deha 25.Bölüm
 https://vmcdn.ciner.com.tr/ht/2025/03/23/57CFCE5F2AC96F3AB65D4B5FA2DDFBDD/57CFCE5F2AC96F3AB65D4B5FA2DDFBDD.m3u8
@@ -214,9 +214,6 @@ https://jhvggr.site/assia2/cdn/mix-sport/main.m3u8
 https://raw.githubusercontent.com/bayzero1905/msiptv/refs/heads/main/logolar/theend.mp4
 
 # ♦♦♦♦♦ Narcos 2.Sezon ♦♦♦♦♦
-#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/bayzero1905/msiptv/refs/heads/main/logolar/narcos.png" group-title="Narcos 2.Sezon",6.Bölüm
-https://istanbul2.shop/cdn/down/d14cdd875db64c5dbb8a258c213e1f2f/720p/720p.txt
-
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/bayzero1905/msiptv/refs/heads/main/logolar/narcos.png" group-title="Narcos 2.Sezon",7.Bölüm
 https://istanbul2.shop/cdn/down/c3aed788cfff578c25958d644c1945a4/720p/720p.txt
 
