@@ -179,8 +179,20 @@ https://b0.b4c8d3e9f1a2b7c5d92.cfd/yayinex2.m3u8
 #EXTVLCOPT:http-referrer=https://trgoals1226.xyz/
 https://b0.b4c8d3e9f1a2b7c5d92.cfd/yayinex3.m3u8
 
-#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/bayzero1905/msiptv/refs/heads/main/logolar/macyayin.png" group-title="MAÇ YAYINLARI",YAYIN 1
-https://jhvggr.site/daddyhd/cdn/850/main.m3u8
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/bayzero1905/msiptv/refs/heads/main/logolar/macyayin.png" group-title="MAÇ YAYINLARI",SSPORT 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referrer=https://trgoals1226.xyz/
+https://b0.b4c8d3e9f1a2b7c5d92.cfd/yayinss.m3u8
+
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/bayzero1905/msiptv/refs/heads/main/logolar/macyayin.png" group-title="MAÇ YAYINLARI",SSPORT 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referrer=https://trgoals1226.xyz/
+https://b0.b4c8d3e9f1a2b7c5d92.cfd/yayinss2.m3u8
+
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/bayzero1905/msiptv/refs/heads/main/logolar/macyayin.png" group-title="MAÇ YAYINLARI",BEINSPORT 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referrer=https://trgoals1226.xyz/
+https://b0.b4c8d3e9f1a2b7c5d92.cfd/yayin1.m3u84
 
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/bayzero1905/msiptv/refs/heads/main/logolar/macyayin.png" group-title="MAÇ YAYINLARI",YAYIN 2
 https://wffaa.site/cdn/cbc_hd/main.m3u8
