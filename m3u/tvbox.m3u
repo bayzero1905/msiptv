@@ -179,6 +179,9 @@ https://b0.b4c8d3e9f1a2b7c5d92.cfd/yayinex2.m3u8
 #EXTVLCOPT:http-referrer=https://trgoals1226.xyz/
 https://b0.b4c8d3e9f1a2b7c5d92.cfd/yayinex3.m3u8
 
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/bayzero1905/msiptv/refs/heads/main/logolar/exxen.png" group-title="MAÇ YAYINLARI",EXXEN 4
+https://steep-silence-b428.simitcigazozcuknk.workers.dev/https://fener2.demoscript.buzz/hls/eu1.m3u8
+
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/bayzero1905/msiptv/refs/heads/main/logolar/ssport.png" group-title="MAÇ YAYINLARI",SSPORT 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
 #EXTVLCOPT:http-referrer=https://trgoals1226.xyz/
