@@ -21,6 +21,12 @@ https://raw.githubusercontent.com/bayzero1905/msiptv/refs/heads/main/logolar/the
 
 
 # ♦♦♦♦♦ FİLM ♦♦♦♦♦
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/bayzero1905/msiptv/refs/heads/main/logolar/film.png" group-title="FİLM",Revelations
+https://toulouse.eu-traffic-05.com/hls2/01/00026/9soskdsdae7c_n/index-v1-a1.m3u8?t=Ilp8APFSus9pKqAMI0sYaX2zJEjgTlAR1mhCMCSfMCg&s=1743123225&e=43200&f=131560&srv=x1&i=0.0&sp=5000&fr=9soskdsdae7c&p1=toulouse&p2=toulouse
+
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/bayzero1905/msiptv/refs/heads/main/logolar/film.png" group-title="FİLM",Holland
+https://9k2m.uk-traffic-076.com/hls2/02/00026/552j29yw7i6k_n/index-v1-a2.m3u8?t=vJTm9mBZqml0RTJ6PPXOUTCSJJndAYllLteIHltm8Hg&s=1743123357&e=43200&f=132223&srv=x1&i=0.0&sp=5000&fr=552j29yw7i6k&p1=9k2m&p2=9k2m
+
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/bayzero1905/msiptv/refs/heads/main/logolar/film.png" group-title="FİLM",The Handmaiden
 https://i1.levitskaya.buzz/fg/NNPxjPHmdFAxvlmOAXjNYAmZAAjVmZG3pFZkpGWiRmVAs1Vy8Ph2z3NxCtxMMMzol5KpE5HtNuB78Yi4flh2vXcxv0d2dXYEAGf6xmcjllgx0lvr1b720
 
