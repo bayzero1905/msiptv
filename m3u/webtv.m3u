@@ -21,6 +21,9 @@ https://raw.githubusercontent.com/bayzero1905/msiptv/refs/heads/main/logolar/the
 
 
 # ♦♦♦♦♦ FİLM ♦♦♦♦♦
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/bayzero1905/msiptv/refs/heads/main/logolar/film.png" group-title="FİLM",İçimdeki Hayvan
+https://vs14.photostack.net/v/My.Animal.2023.WEB-DL.1080p.DUAL.H.264-HDM/480.m3u8
+
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/bayzero1905/msiptv/refs/heads/main/logolar/film.png" group-title="FİLM",The Life List
 https://cdn5902348775.kabakciosman.store/uploads/encode/4didnj4bkayavjok6zpe/480p/playlist.m3u8
 
