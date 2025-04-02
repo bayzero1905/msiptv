@@ -1,6 +1,9 @@
 #EXTM3U
 
 # ♦♦♦♦♦ TV DİZİLERİ ♦♦♦♦♦
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/bayzero1905/msiptv/refs/heads/main/logolar/esrefruya.png" group-title="TV DİZİLERİ",KAYNAK
+https://gv-vod-cdn.aliexpress-media.com/vod-4e6a43/653f66206c1971ee9b3887c6371c0102/e607be0116c94cda8bcab63d4d764526-86bc94a33dae89756364d9a8062ff333-sd.mp4?auth_key=1743567150-0-0-9ba2d560cc741079eab550a34e6454a8
+
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/bayzero1905/msiptv/refs/heads/main/logolar/esrefruya.png" group-title="TV DİZİLERİ",Eşref Rüya 2.Bölüm
 https://video.twimg.com/amplify_video/1904979979751866368/pl/Pd28v8CDh2_6tq8p.m3u8?tag=16
 
