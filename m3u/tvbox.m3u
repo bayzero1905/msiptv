@@ -21,7 +21,10 @@ https://raw.githubusercontent.com/bayzero1905/msiptv/refs/heads/main/logolar/the
 
 
 # ♦♦♦♦♦ FİLMLER ♦♦♦♦♦
-#EXTINF:0 tvg-logo="https://www.hdfilmizle.to/v/56628/poster/watch/narcosis.webphttps://vs1.photofunny.org/v/3oz48w37e5l4/480.m3u8" group-title="FİLMLER",Narcosis
+#EXTINF:0 tvg-logo="https://img03.imgsinemalar.com/images/afis_buyuk/n/narcosis-1659265726.jpg" group-title="FİLMLER",Narcosis
+https://vs1.photofunny.org/v/3oz48w37e5l4/480.m3u8
+
+#EXTINF:0 tvg-logo="https://www.hdfilmizle.to/v/56628/poster/thumb/narcosis.webp" group-title="FİLMLER",Narcosis2
 https://vs1.photofunny.org/v/3oz48w37e5l4/480.m3u8
 
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/bayzero1905/msiptv/refs/heads/main/logolar/film.png" group-title="FİLMLER",Dünyanın En Kötü İnsanı
