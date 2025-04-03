@@ -1,9 +1,6 @@
 #EXTM3U
 
 # ♦♦♦♦♦ TV DİZİLERİ ♦♦♦♦♦
-#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/bayzero1905/msiptv/refs/heads/main/logolar/esrefruya.png" group-title="TV DİZİLERİ",KAYNAK
-https://gv-vod-cdn.aliexpress-media.com/vod-4e6a43/653f66206c1971ee9b3887c6371c0102/e607be0116c94cda8bcab63d4d764526-86bc94a33dae89756364d9a8062ff333-sd.mp4?auth_key=1743567150-0-0-9ba2d560cc741079eab550a34e6454a8
-
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/bayzero1905/msiptv/refs/heads/main/logolar/esrefruya.png" group-title="TV DİZİLERİ",Eşref Rüya 2.Bölüm
 https://video.twimg.com/amplify_video/1904979979751866368/pl/Pd28v8CDh2_6tq8p.m3u8?tag=16
 
@@ -24,8 +21,11 @@ https://raw.githubusercontent.com/bayzero1905/msiptv/refs/heads/main/logolar/the
 
 
 # ♦♦♦♦♦ FİLMLER ♦♦♦♦♦
-#EXTINF:0 tvg-logo="https://www.hdfilmizle.to/v/58280/poster/watch/north-of-normal-hd.webp" group-title="FİLMLER",Normalin Kuzeyi
-https://vs2.photofunny.org/v/q5hnmtp9vp0i/480.m3u8
+#EXTINF:0 tvg-logo="https://www.hdfilmcehennemi.nl/images/list/poster/north-of-normal.webp" group-title="FİLMLER",Normalin Kuzeyi
+https://s402.rapidrame.com/hls2/01/00021/q5hnmtp9vp0i_,l,n,.urlset/index-f1-a1.m3u8?t=WbS3J9Uio_9E-7q-LemGmgKc3Wqcj0xPRZfenWft2u8&s=1743713909&e=1199998800&f=106181&i=0.0&sp=0
+
+#EXTINF:0 tvg-logo="https://www.hdfilmizle.to/v/501567/poster/watch/holland.webp" group-title="FİLMLER",Holland
+https://vs10.photofunia.org/v/Holland.2025.WEB-DL.1080p.DUAL.H.264-HDM/480.m3u8
 
 #EXTINF:0 tvg-logo="https://www.hdfilmizle.to/v/55625/poster/watch/cold-meat-izle.webp" group-title="FİLMLER",Cold Meat
 https://cdn82.chaintwistasherictive.com/stream/9ea2b1b219881ac2cd9d20c08988c507/MJTMsp1RshGTygnMNRUR2N2MSlnWXZEdMNDZzQWe5MDZzMmdZJTO1R2RWVHZDljekhkSsl1VwYnWtx2cihVT21keNVjTEpFbNdlWplFVNNTWyUEMNpXUyo1RRp3TEJVaOpGaqp1RZlnT6FVP:1743558542:176.232.185.120:45f9d53352961915f7677a7718bf84ed57f6630ee9560b7daea94352fd99c2a0/720/index.m3u8
