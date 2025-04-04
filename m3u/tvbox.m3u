@@ -21,6 +21,9 @@ https://raw.githubusercontent.com/bayzero1905/msiptv/refs/heads/main/logolar/the
 
 
 # ♦♦♦♦♦ FİLMLER ♦♦♦♦♦
+#EXTINF:0 tvg-logo="https://www.hdfilmizle.to/v/51612/poster/watch/bekleyis.webp" group-title="FİLMLER",Bekleyiş
+https://p2.photomag.biz/v/ip7fv850phod/master.m3u8
+
 #EXTINF:0 tvg-logo="https://www.hdfilmizle.to/v/58280/poster/watch/north-of-normal-hd.webp" group-title="FİLMLER",Normalin Kuzeyi
 https://vs2.photofunny.org/v/q5hnmtp9vp0i/master.m3u8
 
