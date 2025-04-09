@@ -1,8 +1,8 @@
 #EXTM3U
 
 # ♦♦♦♦♦ TV DİZİLERİ ♦♦♦♦♦
-#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/bayzero1905/msiptv/refs/heads/main/logolar/esrefruya.png" group-title="TV DİZİLERİ",Eşref Rüya 2.Bölüm
-https://video.twimg.com/amplify_video/1904979979751866368/pl/Pd28v8CDh2_6tq8p.m3u8?tag=16
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/bayzero1905/msiptv/refs/heads/main/logolar/esrefruya.png" group-title="TV DİZİLERİ",Eşref Rüya 3.Bölüm
+https://video.twimg.com/amplify_video/1910068996084260864/pl/DZpdR4nkRwb-RmkM.m3u8?tag=16
 
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/bayzero1905/msiptv/refs/heads/main/logolar/deha.png" group-title="TV DİZİLERİ",Deha 25.Bölüm
 https://vmcdn.ciner.com.tr/ht/2025/03/23/57CFCE5F2AC96F3AB65D4B5FA2DDFBDD/57CFCE5F2AC96F3AB65D4B5FA2DDFBDD.m3u8
@@ -281,23 +281,18 @@ https://istanbul2.shop/cdn/down/6e2a42071ddd1a2f1b19fbfeab786040/720p/720p.txt
 https://raw.githubusercontent.com/bayzero1905/msiptv/refs/heads/main/logolar/theend.mp4
 
 # ♦♦♦♦♦ Bir İhtimal Daha Var ♦♦♦♦♦
-#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/bayzero1905/msiptv/refs/heads/main/logolar/dizired.png" group-title="Bir İhtimal Daha Var",3.Bölüm
-https://ka5m.uk-traffic-076.com/hls2/02/00026/7fiokuiug697_n/index-v1-a1.m3u8?t=nggmonl4-vYb5FCmnMMlritUybR1t6zvDmpyCoBD14M&s=1744220146&e=43200&f=131432&srv=x1&i=0.0&sp=5000&fr=7fiokuiug697&p1=ka5m&p2=ka5m
-
-#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/bayzero1905/msiptv/refs/heads/main/logolar/dizired.png" group-title="Bir İhtimal Daha Var",4.Bölüm
-https://lodz.eu-traffic-05.com/hls2/02/00026/k3uov4lwr90p_n/index-v1-a1.m3u8?t=qvdddPIqDirlwOfqMNMHgta8tki7W2FXGqmDQPL-zxs&s=1744220170&e=43200&f=131433&srv=x1&i=0.0&sp=5000&fr=k3uov4lwr90p&p1=lodz&p2=lodz
 
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/bayzero1905/msiptv/refs/heads/main/logolar/dizired.png" group-title="Bir İhtimal Daha Var",5.Bölüm
-https://lille.eu-traffic-05.com/hls2/02/00026/ton9y9cfjfll_n/index-v1-a1.m3u8?t=p6jfAwSKfu3n-iAU1J8iAa1BKYtAM66_roAqGNESzzE&s=1744220192&e=43200&f=131434&srv=x1&i=0.0&sp=5000&fr=ton9y9cfjfll&p1=lille&p2=lille
+
 
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/bayzero1905/msiptv/refs/heads/main/logolar/dizired.png" group-title="Bir İhtimal Daha Var",6.Bölüm
-https://j2mx.uk-traffic-076.com/hls2/02/00026/qy1es7vshn7o_n/index-v1-a1.m3u8?t=rFLsULWA7rZwn1sCdzAU8lGgGq0-iZxSAgpoiJK-4p4&s=1744127949&e=43200&f=131435&srv=x1&i=0.0&sp=5000&fr=qy1es7vshn7o&p1=j2mx&p2=j2mx
+
 
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/bayzero1905/msiptv/refs/heads/main/logolar/dizired.png" group-title="Bir İhtimal Daha Var",7.Bölüm
-https://bordeaux.eu-traffic-05.com/hls2/02/00026/1osb8ptefvjj_n/index-v1-a1.m3u8?t=rSUwvhkWs6qgfscK4ZqGniNOLizytFl9OcxOgeQ1xt0&s=1744127970&e=43200&f=131436&srv=x1&i=0.0&sp=5000&fr=1osb8ptefvjj&p1=bordeaux&p2=bordeaux
+
 
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/bayzero1905/msiptv/refs/heads/main/logolar/dizired.png" group-title="Bir İhtimal Daha Var",8.Bölüm
-https://lublin.eu-traffic-05.com/hls2/02/00026/7fpc39rqdesn_n/index-v1-a1.m3u8?t=sSetzeDVHvQKJPJE6SU53QRFwhdBU-eBFzALjCnh4rc&s=1744127991&e=43200&f=131437&srv=x1&i=0.0&sp=5000&fr=7fpc39rqdesn&p1=lublin&p2=lublin
+
 
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/bayzero1905/msiptv/refs/heads/main/logolar/end.png" group-title="Bir İhtimal Daha Var",END
 https://raw.githubusercontent.com/bayzero1905/msiptv/refs/heads/main/logolar/theend.mp4
