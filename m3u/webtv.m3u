@@ -1,6 +1,10 @@
 #EXTM3U
 
 # ♦♦♦♦♦ TV DİZİLERİ ♦♦♦♦♦
+
+#EXTINF:0 tvg-logo="https://www.ddizi.im/diziresimleri/birzamanlaristkapak-min.jpg" group-title="TV DİZİLERİ",Bir Zamanlar İstanbul 9.Bölüm
+https://cms-tabii-public-video.tabii.com/vod/1f016fe8-0f63-6a1f-b72f-7d6f80872bc3/V0/packages/132895171908104478/media-2/media.ts
+
 #EXTINF:0 tvg-logo="https://www.ddizi.im/diziresimleri/kralkaybedersekapak-min.jpg" group-title="TV DİZİLERİ",Kral Kaybederse 8.Bölüm
 https://video.twimg.com/amplify_video/1909703054527516672/pl/avc1/1280x720/sicuXCnhcYyrQ-Nz.m3u8?tag=16
 
