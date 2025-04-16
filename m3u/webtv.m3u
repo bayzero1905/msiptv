@@ -30,6 +30,13 @@ https://raw.githubusercontent.com/bayzero1905/msiptv/refs/heads/main/logolar/the
 #EXTINF:0 tvg-logo="" group-title="FİLM",
 #EXTINF:0 tvg-logo="" group-title="FİLM",
 #EXTINF:0 tvg-logo="" group-title="FİLM",
+#EXTINF:0 tvg-logo="" group-title="FİLM",
+
+#EXTINF:0 tvg-logo="https://www.hdfilmizle.to/v/501067/poster/watch/juror-2.webp" group-title="FİLM",Juror #2
+https://vs11.photoflax.org/v/Juror.2.2024.WEB-DL.1080p.DUAL.H.264-HDM/720.m3u8
+
+#EXTINF:0 tvg-logo="https://www.hdfilmizle.to/v/500870/poster/watch/kizil-bakire.webp" group-title="FİLM",Kızıl Bakire
+https://vs15.photoflix.org/v/La.virgen.roja.2024.WEB-DL.1080p.DUAL/720.m3u8
 
 #EXTINF:0 tvg-logo="https://www.hdfilmizle.to/v/501641/poster/thumb/durak.webp" group-title="FİLM",Durak
 https://vs19.photoflix.org/v/Durak.2017.WEB-DL.1080p.H.264-HDM/480.m3u8
