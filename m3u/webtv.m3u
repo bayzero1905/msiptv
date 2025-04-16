@@ -30,7 +30,9 @@ https://raw.githubusercontent.com/bayzero1905/msiptv/refs/heads/main/logolar/the
 #EXTINF:0 tvg-logo="" group-title="FİLM",
 #EXTINF:0 tvg-logo="" group-title="FİLM",
 #EXTINF:0 tvg-logo="" group-title="FİLM",
-#EXTINF:0 tvg-logo="" group-title="FİLM",
+
+#EXTINF:0 tvg-logo="https://www.hdfilmizle.to/v/501641/poster/thumb/durak.webp" group-title="FİLM",Durak
+https://vs19.photoflix.org/v/Durak.2017.WEB-DL.1080p.H.264-HDM/480.m3u8
 
 #EXTINF:0 tvg-logo="https://www.filmmodu.io/uploads/movie/poster/12731/thumb_bidENTLt6baEa2ieNT95brFtsvb.jpg" group-title="FİLM",Avatar: Suyun Yolu
 https://rovideo.xyz/163/tt1630029.720p.tr.m3u8
