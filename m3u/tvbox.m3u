@@ -173,9 +173,6 @@ https://raw.githubusercontent.com/bayzero1905/msiptv/refs/heads/main/logolar/the
 
 
 # ♦♦♦♦♦ TV KANALLARI ♦♦♦♦♦
-#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/bayzero1905/msiptv/refs/heads/main/logolar/trt1.png" group-title="TV KANALLARI",TRT 1
-https://trt.daioncdn.net/trt-1/master_720p.m3u8?&sid=6jo8gz6q2uaz&app=ed3904e8-737b-4a5e-856a-1b0d7a0a94e2&ce=2
-
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/bayzero1905/msiptv/refs/heads/main/logolar/aspor.png" group-title="TV KANALLARI",A SPOR
 https://youtube.jitendraunatti.workers.dev/wanda.m3u8?id=7uBpwcn2ZZ0
 
