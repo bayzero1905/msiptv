@@ -214,6 +214,9 @@ https://p2km.uk-traffic-076.com/hls2/02/00008/btm9678obpbj_n/index-v1-a2.m3u8?t=
 #EXTINF:0 tvg-logo="https://www.themoviedb.org/t/p/w500/l2Fy8vvr27vbYJOPe49EfVd5Qli.jpg" group-title="The Gardener",6.Bölümm
 https://montpellier.eu-traffic-05.com/hls2/02/00008/kziv9mpaq3n7_n/index-v1-a2.m3u8?t=QRWSKgK2Rv48VzmD3XzLgLKUQbphBNL0EQxFXA_tf1A&s=1744858994&e=43200&f=44850&srv=x1&i=0.0&sp=5000&fr=kziv9mpaq3n7&p1=montpellier&p2=montpellier
 
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/bayzero1905/msiptv/refs/heads/main/logolar/end.png" group-title="The Gardener",END
+https://raw.githubusercontent.com/bayzero1905/msiptv/refs/heads/main/logolar/theend.mp4
+
 # ♦♦♦♦♦ High Potential ♦♦♦♦♦
 #EXTINF:0 tvg-logo="https://www.themoviedb.org/t/p/w500/sEWC7lzVKfuwXhzdahW4AX1F05s.jpg" group-title="High Potential",7.Bölüm
 https://qp21.uk-traffic-076.com/hls2/01/00026/c04epxj3lywd_n/index-v1-a2.m3u8?t=uaq6DzABO7j7i-1s5oySPBDEOP_VmxLjevB4I5u_u4Y&s=1744858435&e=43200&f=132949&srv=x1&i=0.0&sp=5000&fr=c04epxj3lywd&p1=qp21&p2=qp21
@@ -236,8 +239,8 @@ https://o23m.uk-traffic-076.com/hls2/01/00026/yi9vc9gvv5fj_n/index-v1-a2.m3u8?t=
 #EXTINF:0 tvg-logo="https://www.themoviedb.org/t/p/w500/sEWC7lzVKfuwXhzdahW4AX1F05s.jpg" group-title="High Potential",13.Bölüm
 https://lublin.eu-traffic-05.com/hls2/01/00026/f88934ki1zei_n/index-v1-a2.m3u8?t=SyxLw5-5Ob28S_vRniyKZXKVEUqgWzsLlDzsQTIKx4o&s=1744858599&e=43200&f=132942&srv=x1&i=0.0&sp=5000&fr=f88934ki1zei&p1=lublin&p2=lublin
 
-
-
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/bayzero1905/msiptv/refs/heads/main/logolar/end.png" group-title="High Potential",END
+https://raw.githubusercontent.com/bayzero1905/msiptv/refs/heads/main/logolar/theend.mp4
 
 
 
