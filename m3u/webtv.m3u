@@ -29,8 +29,12 @@ https://raw.githubusercontent.com/bayzero1905/msiptv/refs/heads/main/logolar/the
 #EXTINF:0 tvg-logo="" group-title="FİLM",
 #EXTINF:0 tvg-logo="" group-title="FİLM",
 #EXTINF:0 tvg-logo="" group-title="FİLM",
-#EXTINF:0 tvg-logo="" group-title="FİLM",
-#EXTINF:0 tvg-logo="" group-title="FİLM",
+
+#EXTINF:0 tvg-logo="https://jetfilmizle.io/wp-content/posterler/2025/04/every-little-thing-every-little-thing-izle.jpg" group-title="FİLM",Every Little Thing
+https://str12.vtube.network/hls/x5s4ur4sj5yki6cgamn4x65bp4rw5jd6g6vdm55tmoojvliq7rwqo2qk3hsq/index-v1-a1.m3u8
+
+#EXTINF:0 tvg-logo="https://jetfilmizle.io/wp-content/posterler/2025/04/sirrini-biliyorum-sirrini-biliyorum-izle.jpg" group-title="FİLM",Sırrını Biliyorum
+https://str12.vtube.network/hls/x5s47sfyj5yki6cgamc4x4von5nmvspohjss64z6gubgaosvuwmofmttv5bq/index-v1-a1.m3u8
 
 #EXTINF:0 tvg-logo="https://www.hdfilmizle.to/v/501067/poster/watch/juror-2.webp" group-title="FİLM",Juror #2
 https://vs11.photoflax.org/v/Juror.2.2024.WEB-DL.1080p.DUAL.H.264-HDM/720.m3u8
