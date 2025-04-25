@@ -17,8 +17,8 @@ https://video.twimg.com/amplify_video/1914422182542712832/pl/Z2owFE29SvsZzKEi.m3
 #EXTINF:0 tvg-logo="https://www.ddizi.im/diziresimleri/birgecemasalikapak-min.jpg" group-title="TV DİZİLERİ",Bir Gece Masalı 26.Bölüm
 https://video.twimg.com/amplify_video/1902104199850024960/pl/Qt3PscX7JTecPmjJ.m3u8?tag=16
 
-#EXTINF:0 tvg-logo="https://www.ddizi.im/diziresimleri/siyahkalpkapak-min.jpg" group-title="TV DİZİLERİ",Siyah Kalp 28.Bölüm
-https://video.twimg.com/amplify_video/1912972271074852866/pl/Y_13JuLiRu4cVs0r.m3u8?tag=16
+#EXTINF:0 tvg-logo="https://www.ddizi.im/diziresimleri/siyahkalpkapak-min.jpg" group-title="TV DİZİLERİ",Siyah Kalp 29.Bölüm
+https://video.twimg.com/amplify_video/1915514200035581952/pl/cmcVlwiXiBDq6m12.m3u8?tag=16
 
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/bayzero1905/msiptv/refs/heads/main/logolar/end.png" group-title="TV DİZİLERİ",END
 https://raw.githubusercontent.com/bayzero1905/msiptv/refs/heads/main/logolar/theend.mp4
@@ -28,7 +28,9 @@ https://raw.githubusercontent.com/bayzero1905/msiptv/refs/heads/main/logolar/the
 #EXTINF:0 tvg-logo="" group-title="FİLM",
 #EXTINF:0 tvg-logo="" group-title="FİLM",
 #EXTINF:0 tvg-logo="" group-title="FİLM",
-#EXTINF:0 tvg-logo="" group-title="FİLM",
+
+#EXTINF:0 tvg-logo="https://www.hdfilmizle.to/v/501716/poster/watch/kul.webp" group-title="FİLM",Kül
+https://vs13.photoflick.org/v/Ash.2025.WEB-DL.1080p.DUAL.H.264-HDM/480.m3u8
 
 #EXTINF:0 tvg-logo="https://jetfilmizle.io/wp-content/posterler/2025/04/every-little-thing-every-little-thing-izle.jpg" group-title="FİLM",Every Little Thing
 https://str12.vtube.network/hls/x5s4ur4sj5yki6cgamn4x65bp4rw5jd6g6vdm55tmoojvliq7rwqo2qk3hsq/index-v1-a1.m3u8
