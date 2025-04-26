@@ -80,6 +80,11 @@ https://owifavo5.rocketcdn.com/gstv/gstv.smil/master.m3u8
 https://raw.githubusercontent.com/bayzero1905/msiptv/refs/heads/main/logolar/theend.mp4
 
 # ♦♦♦♦♦ MAÇ YAYINLARI ♦♦♦♦♦
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/bayzero1905/msiptv/refs/heads/main/logolar/tivibuspor.png" group-title="MAÇ YAYINLARI",Tivibu Spor 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referrer=https://trgoals1226.xyz/
+https://l0.4928d54d950ee70q32.click/yayint1.m3u8
+
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/bayzero1905/msiptv/refs/heads/main/logolar/beinsports.png" group-title="MAÇ YAYINLARI",Bein Sports 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
 #EXTVLCOPT:http-referrer=https://trgoals1226.xyz/
