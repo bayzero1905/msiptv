@@ -24,8 +24,12 @@ https://raw.githubusercontent.com/bayzero1905/msiptv/refs/heads/main/logolar/the
 #EXTINF:0 tvg-logo="" group-title="FİLM",
 #EXTINF:0 tvg-logo="" group-title="FİLM",
 #EXTINF:0 tvg-logo="" group-title="FİLM",
-#EXTINF:0 tvg-logo="" group-title="FİLM",
-#EXTINF:0 tvg-logo="" group-title="FİLM",
+
+#EXTINF:0 tvg-logo="https://www.filmmodu.io/uploads/movie/poster/13322/thumb_9Osvlw56Is1UDWCbOoqyWGfhoJG.jpg" group-title="FİLM",Konferans
+https://rovideo.xyz/265/tt26547864.480p.tr.m3u8
+
+#EXTINF:0 tvg-logo="https://www.filmmodu.io/uploads/movie/poster/13343/thumb_oJwb2PV1LGxDp6Q3lynrjADxOIv.jpg" group-title="FİLM",The Royal Hotel
+https://rovideo.xyz/183/tt18363072.480p.tr.m3u8
 
 #EXTINF:0 tvg-logo="https://filmvitrini.net/wp-content/uploads/2025/04/Yurt-Dormitory-298x450.png" group-title="FİLM",Yurt
 https://yabancidizim.com/source2e/video/d9886cd211c5709b161d69465dea709f89f700de89bd61149e25bad797d035e4702796e407b8c6391e482f57d1c338eda1b6ff24e9dfc9013f6c53dd17e849c12e8c3ad740781f216d1c19da8758fb1f
