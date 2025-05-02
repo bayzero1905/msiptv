@@ -20,7 +20,6 @@ https://raw.githubusercontent.com/bayzero1905/msiptv/refs/heads/main/logolar/the
 # ♦♦♦♦♦ FİLMLER ♦♦♦♦♦
 #EXTINF:0 tvg-logo="" group-title="FİLM",
 #EXTINF:0 tvg-logo="" group-title="FİLM",
-#EXTINF:0 tvg-logo="" group-title="FİLM",
 
 #EXTINF:0 tvg-logo="https://www.hdfilmizle.to/v/501755/poster/watch/takintilar.webp" group-title="FİLM",Takıntılar
 https://vs15.photofunia.pro/v/Takintilar.2024.WEB-DL.1080p.H.264-HDM/480.m3u8
@@ -39,6 +38,9 @@ https://vs17.photoflick.org/v/Another.Simple.Favor.2025.WEB-DL.1080p.DUAL.H.264-
 
 #EXTINF:0 tvg-logo="https://www.hdfilmizle.to/v/501815/poster/watch/jenny-penin-kurali.webp" group-title="FİLM",Jenny Pen'in Kuralı
 https://vs16.photour.org/v/The.Rule.of.Jenny.Pen.2024.WEB-DL.1080p.DUAL.H.264-HDM/480.m3u8
+
+#EXTINF:0 tvg-logo="https://www.hdfilmizle.to/v/14800/poster/watch/yasak-ask.webp" group-title="FİLM",Yasak Aşk
+https://p1.photostack.net/v/zqx19di30fav/720.m3u8
 
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/bayzero1905/msiptv/refs/heads/main/logolar/end.png" group-title="FİLM",END
 https://raw.githubusercontent.com/bayzero1905/msiptv/refs/heads/main/logolar/theend.mp4
