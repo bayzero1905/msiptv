@@ -26,7 +26,6 @@ https://raw.githubusercontent.com/bayzero1905/msiptv/refs/heads/main/logolar/the
 #EXTINF:0 tvg-logo="" group-title="FİLM",
 #EXTINF:0 tvg-logo="" group-title="FİLM",
 #EXTINF:0 tvg-logo="" group-title="FİLM",
-#EXTINF:0 tvg-logo="" group-title="FİLM",
 
 #EXTINF:0 tvg-logo="https://www.hdfilmizle.to/v/501755/poster/watch/takintilar.webp" group-title="FİLM",Takıntılar
 https://vs15.photofunia.pro/v/Takintilar.2024.WEB-DL.1080p.H.264-HDM/480.m3u8
@@ -39,6 +38,9 @@ https://vs17.pictureflix.org/v/Bir.Cumhuriyet.Sarkisi.2024.WEB-DL.1080p.H.264-HD
 
 #EXTINF:0 tvg-logo="https://jetfilmizle.io/wp-content/posterler/2025/05/kalender-pide-kalender-pide-izle.jpg" group-title="FİLM",Kalender Pide
 https://prx-1316-ant.vmwesa.online/hls2/01/01833/f3mw4clwhvru_n/index-v1-a1.m3u8?t=7kuZGhfWUD1p7nT4Jcf4aWi30xrma-H_z26PL-65xy4&s=1746212334&e=43200&v=&srv=bck-1326-ant&i=0.4&sp=0&asn=34984
+
+#EXTINF:0 tvg-logo="https://www.hdfilmizle.to/v/53479/poster/watch/olumcul-dalis.webp" group-title="FİLM",Ölümcül Dalış
+https://vs10.photofunia.pro/v/The.Dive.2023.Bluray.1080p.DUAL.x264-HDM/480.m3u8
 
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/bayzero1905/msiptv/refs/heads/main/logolar/end.png" group-title="FİLM",END
 https://raw.githubusercontent.com/bayzero1905/msiptv/refs/heads/main/logolar/theend.mp4
