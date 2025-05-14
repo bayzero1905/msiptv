@@ -23,7 +23,9 @@ https://raw.githubusercontent.com/bayzero1905/msiptv/refs/heads/main/logolar/the
 #EXTINF:0 tvg-logo="" group-title="FİLM",
 #EXTINF:0 tvg-logo="" group-title="FİLM",
 #EXTINF:0 tvg-logo="" group-title="FİLM",
-#EXTINF:0 tvg-logo="" group-title="FİLM",
+
+#EXTINF:0 tvg-logo="https://www.hdfilmizle.to/v/3484/poster/watch/evdekiler-hd-izle.webp" group-title="FİLM",Evdekiler
+https://vs3.photour.org/mz/qzMxpTH4L3uvoKycd0zxpTuiqT91pv5ipzps0xi3vr1bhd
 
 #EXTINF:0 tvg-logo="https://filmizle.cx/uploads/filmler/2025-04/suruklenis-film-izle_f.webp" group-title="FİLM",Sürükleniş
 https://vidmody.com/mm/tt6306064/main/index-v1-a1.gif
