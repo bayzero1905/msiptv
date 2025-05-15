@@ -6,7 +6,7 @@
 https://cms-tabii-public-video.tabii.com/vod/1f016fe8-0f63-6a1f-b72f-7d6f80872bc3/V0/packages/132895171908104478/media-2/media.ts
 
 #EXTINF:0 tvg-logo="https://www.ddizi.im/diziresimleri/sakirpasaailesikapak-min.jpg" group-title="TV DİZİLERİ",Şakir Paşa Ailesi 11.Bölüm
-https://video.twimg.com/amplify_video/1903907122280062976/pl/WGiNjccRO6GzVtye.m3u8?tag=16
+https://video-cf.xhpingcdn.com/lBffNcXnLVKbDHVcSrg4TJzf82IcRuQAS4uIOuWNAtY%3D/87/1747274400/media=hls4/multi=256x144:144p:,426x240:240p:,854x480:480p:,1280x720:720p:/021/082/941/720p.av1.mp4.m3u8
 
 #EXTINF:0 tvg-logo="https://www.ddizi.im/diziresimleri/uzaksehirkapaky-min.jpg" group-title="TV DİZİLERİ",Uzak Şehir 25.Bölüm
 https://video.twimg.com/amplify_video/1922038567326425088/pl/P5nn8Q0w_pIMwFqA.m3u8?tag=21
@@ -14,8 +14,8 @@ https://video.twimg.com/amplify_video/1922038567326425088/pl/P5nn8Q0w_pIMwFqA.m3
 #EXTINF:0 tvg-logo="https://www.ddizi.im/diziresimleri/birgecemasalikapak-min.jpg" group-title="TV DİZİLERİ",Bir Gece Masalı 26.Bölüm
 https://video.twimg.com/amplify_video/1902104199850024960/pl/Qt3PscX7JTecPmjJ.m3u8?tag=16
 
-#EXTINF:0 tvg-logo="https://www.ddizi.im/diziresimleri/siyahkalpkapak-min.jpg" group-title="TV DİZİLERİ",Siyah Kalp 31.Bölüm
-https://video.twimg.com/amplify_video/1920583293843509249/pl/eX74QZruc9M9UacM.m3u8?tag=21
+#EXTINF:0 tvg-logo="https://www.ddizi.im/diziresimleri/siyahkalpkapak-min.jpg" group-title="TV DİZİLERİ",Siyah Kalp 32.Bölüm
+https://video.twimg.com/amplify_video/1923121371392958465/pl/K8mZVZy97NaHhI12.m3u8?tag=21
 
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/bayzero1905/msiptv/refs/heads/main/logolar/end.png" group-title="TV DİZİLERİ",END
 https://raw.githubusercontent.com/bayzero1905/msiptv/refs/heads/main/logolar/theend.mp4
