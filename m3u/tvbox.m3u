@@ -21,7 +21,9 @@ https://raw.githubusercontent.com/bayzero1905/msiptv/refs/heads/main/logolar/the
 #EXTINF:0 tvg-logo="" group-title="FİLM",
 #EXTINF:0 tvg-logo="" group-title="FİLM",
 #EXTINF:0 tvg-logo="" group-title="FİLM",
-#EXTINF:0 tvg-logo="" group-title="FİLM",
+
+#EXTINF:0 tvg-logo="https://filmvitrini.net/wp-content/uploads/2025/02/The-Brutalist-300x450.jpg" group-title="FİLM",The Brutalist
+https://yabancidizim.com/source2e/video/c45402be5a6a222bef029c4740043b4439f7d034c3ab09d96c5a548656205f72b01bcadf40769e9d9d609284e4e6edd11e6f361b0dd55379eec1ced9ebbeebc9e1bbe852f49be0f01bf609d6bc27f9df
 
 #EXTINF:0 tvg-logo="https://filmvitrini.net/wp-content/uploads/2025/05/Buyukanneler-Restorani-Nonnas-300x450.png" group-title="FİLM",Nonnas
 https://yabancidizim.com/source2e/video/90b37aa698d64ad699c59344b1bd28c3f8b3a81ca8e0742c50ca4e69c8795e53c4f35306302c5ab7b08f48468a1fc88dda045dabfa99df7a330951d7d4315f82977b82dc8b1a07c921f14de5ee866321
