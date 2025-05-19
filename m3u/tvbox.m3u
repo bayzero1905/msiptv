@@ -207,9 +207,11 @@ https://raw.githubusercontent.com/bayzero1905/msiptv/refs/heads/main/logolar/the
 
 
 
-# ♦♦♦♦♦ Bates Motel 2♦♦♦♦♦
+# ♦♦♦♦♦ Bates Motel 2 ♦♦♦♦♦
 #EXTINF:0 tvg-logo="https://sezonlukdizi6.com/i/dizi400/d/b/97.jpg" group-title="Bates Motel 2",1.Bölüm
-https://pixeldrain.com/api/file/rZ8GqxnS
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referrer=https://sezonlukdizi6.com/
+https://be6721.rcr72.waw04.cdn255.com/hls2/01/08765/i1g7s2bl4vr3_h/master.m3u8?t=smV7nneGrTHj0ZNJnBj6JDhtpIMZ1PgcJmqUKiMgOw4&s=1747686188&e=10800&f=43825855&srv=40&asn=34984&sp=4000&p=
 
 #EXTINF:0 tvg-logo="https://sezonlukdizi6.com/i/dizi400/d/b/97.jpg" group-title="Bates Motel 2",2.Bölüm
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
