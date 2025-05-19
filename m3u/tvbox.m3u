@@ -232,19 +232,29 @@ https://fin-3dg-b1.cdn255.com/hls2/01/08765/56iz0ac3ie3i_h/index-v1-a1.m3u8?t=Wp
 https://be6721.rcr72.waw04.cdn255.com/hls2/01/08765/w39t46fkgtv2_h/index-v1-a1.m3u8?t=4GKp5YiWb79-RgLo_oFFT5KB54qoUHUXGjbdAXo9GQ8&s=1747675562&e=10800&f=43825859&srv=20&asn=34984&sp=4000&p=
 
 #EXTINF:0 tvg-logo="https://sezonlukdizi6.com/i/dizi400/d/b/97.jpg" group-title="Bates Motel 2",6.Bölüm
-
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referrer=https://sezonlukdizi6.com/
+https://be7713.rcr82.waw05.cdn255.com/hls2/01/08765/pi6owh1ws8yk_h/master.m3u8?t=KCSlPXpSygge-ostdovwDSg1VC1XYRfP6IAF46-foKA&s=1747685371&e=10800&f=43825860&srv=50&asn=34984&sp=4000&p=
 
 #EXTINF:0 tvg-logo="https://sezonlukdizi6.com/i/dizi400/d/b/97.jpg" group-title="Bates Motel 2",7.Bölüm
-
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referrer=https://sezonlukdizi6.com/
+https://be6721.rcr72.waw04.cdn255.com/hls2/06/08765/8eykpcveqzb1_h/master.m3u8?t=GoIsit7fF7HGGk4YeiiZ7KZ3y-g5vrdganmK9D3VulA&s=1747685502&e=10800&f=43825873&srv=53&asn=34984&sp=4000&p=
 
 #EXTINF:0 tvg-logo="https://sezonlukdizi6.com/i/dizi400/d/b/97.jpg" group-title="Bates Motel 2",8.Bölüm
-
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referrer=https://sezonlukdizi6.com/
+https://fin-3dg-b1.cdn255.com/hls2/06/08765/45adbhgky3oo_h/master.m3u8?t=EMrTZFuKtNJv42UeAKrYG-lg_0LhBN3voumWnuWXhEE&s=1747685544&e=10800&f=43825874&srv=53&asn=34984&sp=4000&p=
 
 #EXTINF:0 tvg-logo="https://sezonlukdizi6.com/i/dizi400/d/b/97.jpg" group-title="Bates Motel 2",9.Bölüm
-
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referrer=https://sezonlukdizi6.com/
+https://fin-3dg-b1.cdn255.com/hls2/05/08765/bnv977cvyq5q_h/master.m3u8?t=QJgePI1cjd2VypgtrY8O8r9Ovm39qSbAojPoy4wQxss&s=1747685570&e=10800&f=43825875&srv=53&asn=34984&sp=4000&p=
 
 #EXTINF:0 tvg-logo="https://sezonlukdizi6.com/i/dizi400/d/b/97.jpg" group-title="Bates Motel 2",10.Bölüm
-
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referrer=https://sezonlukdizi6.com/
+https://fin-3dg-b1.cdn255.com/hls2/01/08765/0ctaumfo48wj_h/master.m3u8?t=t4WwONdwLcVMQjj65TCf6upRTKUX-pN-YNRZMIsO2Vc&s=1747685595&e=10800&f=43825872&srv=47&asn=34984&sp=4000&p=
 
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/bayzero1905/msiptv/refs/heads/main/logolar/end.png" group-title="Bates Motel 2",END
 https://raw.githubusercontent.com/bayzero1905/msiptv/refs/heads/main/logolar/theend.mp4
