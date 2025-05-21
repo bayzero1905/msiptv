@@ -20,7 +20,16 @@ https://raw.githubusercontent.com/bayzero1905/msiptv/refs/heads/main/logolar/the
 #EXTINF:0 tvg-logo="" group-title="FİLM",
 #EXTINF:0 tvg-logo="" group-title="FİLM",
 #EXTINF:0 tvg-logo="" group-title="FİLM",
-#EXTINF:0 tvg-logo="" group-title="FİLM",
+
+#EXTINF:0 tvg-logo="https://www.hdfilmcehennemi.nl/images/list/poster/lee@2x.webp" group-title="FİLM",Lee
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referrer=https://www.hdfilmcehennemi.nl/
+https://s425.rapidrame.com/hls2/01/00021/8vcdxf5p5ou1_,l,n,.urlset/index-f1-v1-a1.m3u8?t=KIzcpZ7tTs8tDT3wRTWQL2ysHsyuOyS4gSr9HUP7yNc&s=1747866298&e=1199998800&f=108114&srv=s427&i=0.0&sp=0&p1=s425&p2=s425
+
+#EXTINF:0 tvg-logo="https://www.hdfilmcehennemi.nl/images/list/poster/gladiator-ii@2x.webp" group-title="FİLM",Gladyatör 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referrer=https://www.hdfilmcehennemi.nl/
+https://s231.rapidrame.com/hls2/01/00023/1jaw9zbbqfus_,l,n,.urlset/index-f1-v1-a1.m3u8?t=smuhD8c82yJA-OIOVH8ap6MA-8LTjskbY18JIZReKww&s=1747863807&e=1199998800&f=115022&srv=s379&i=0.0&sp=0&p1=s231&p2=s231
 
 #EXTINF:0 tvg-logo="https://www.hdfilmizle.to/v/21174/poster/watch-lg/olumcul-tuzak.webp" group-title="FİLM", Ölümcül Tuzak
 https://p1.photostack.net/v/vgqt7q81iwqs/480.m3u8
