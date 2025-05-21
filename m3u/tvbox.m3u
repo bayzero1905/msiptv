@@ -1,11 +1,8 @@
 #EXTM3U
 
 # ♦♦♦♦♦ TV DİZİLERİ ♦♦♦♦♦
-#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/bayzero1905/msiptv/refs/heads/main/logolar/esrefruya.png" group-title="TV DİZİLERİ",Eşref Rüya 8.Bölüm
-https://video.twimg.com/amplify_video/1922756464067674112/pl/PsJJOZ1mDtUMtpUk.m3u8?tag=21
-
-#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/bayzero1905/msiptv/refs/heads/main/logolar/deha.png" group-title="TV DİZİLERİ",Deha 31.Bölüm Final
-https://vmcdn.ciner.com.tr/ht/2025/05/19/49073D397D37F231EDB00888D408ED72/49073D397D37F231EDB00888D408ED72.m3u8
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/bayzero1905/msiptv/refs/heads/main/logolar/esrefruya.png" group-title="TV DİZİLERİ",Eşref Rüya 9.Bölüm
+https://video.twimg.com/amplify_video/1925291220005257216/pl/D-RJNg03Ep8bG9JE.m3u8?tag=21
 
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/bayzero1905/msiptv/refs/heads/main/logolar/inctnlr.png" group-title="TV DİZİLERİ",İnci Taneleri 44.Bölüm
 https://video.twimg.com/amplify_video/1923118382347354112/pl/CnGIGSNAkZzwq3nI.m3u8?tag=21
@@ -172,9 +169,6 @@ https://jhvggr.site/assia2/cdn/mix-sport/main.m3u8
 https://raw.githubusercontent.com/bayzero1905/msiptv/refs/heads/main/logolar/theend.mp4
 
 # ♦♦♦♦♦ Bates Motel 1 ♦♦♦♦♦
-#EXTINF:0 tvg-logo="https://sezonlukdizi6.com/i/dizi400/d/b/97.jpg" group-title="Bates Motel  1",5.Bölüm
-https://pixeldrain.com/api/file/CU4QFnmu
-
 #EXTINF:0 tvg-logo="https://sezonlukdizi6.com/i/dizi400/d/b/97.jpg" group-title="Bates Motel  1",6.Bölüm
 https://pixeldrain.com/api/file/hbJrzhJU
 
@@ -293,7 +287,9 @@ https://pixeldrain.com/api/file/D4N4i8uq
 https://pixeldrain.com/api/file/vycb1mym
 
 #EXTINF:0 tvg-logo="https://sezonlukdizi6.com/i/dizi400/d/b/97.jpg" group-title="Bates Motel  4",10.Bölüm
-https://pixeldrain.com/api/file/3Vg1F652
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referrer=https://www.hdfilmcehennemi.nl/
+https://s427.rapidrame.com/hls2/01/00019/cgtn936imx4j_,l,n,.urlset/index-f1-v1-a1.m3u8?t=xKp4j3eaos2eVVgjbMIrT3AQ9DQZbzu9Rq-nvUM339Y&s=1747840820&e=1199998800&f=99701&i=0.0&sp=0
 
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/bayzero1905/msiptv/refs/heads/main/logolar/end.png" group-title="Bates Motel  4",END
 https://raw.githubusercontent.com/bayzero1905/msiptv/refs/heads/main/logolar/theend.mp4
