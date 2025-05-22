@@ -21,6 +21,11 @@ https://raw.githubusercontent.com/bayzero1905/msiptv/refs/heads/main/logolar/the
 #EXTINF:0 tvg-logo="" group-title="FİLM",
 #EXTINF:0 tvg-logo="" group-title="FİLM",
 
+#EXTINF:0 tvg-logo="https://www.hdfilmcehennemi.nl/images/list/poster/inpaintings@2x.webp" group-title="FİLM",Başlangıçlar
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referrer=https://www.hdfilmcehennemi.nl/
+https://s230.rapidrame.com/hls2/01/00023/imoztyj05qyv_,l,n,.urlset/index-f1-v1-a1.m3u8?t=pLVFVQStb_H_4EzKqk--VonJzj1shrwLgt8dYzqSK6I&s=1747868450&e=1199998800&f=116632&srv=s351&i=0.0&sp=0&p1=s230&p2=s230
+
 #EXTINF:0 tvg-logo="https://www.hdfilmcehennemi.nl/images/list/poster/lee@2x.webp" group-title="FİLM",Lee
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
 #EXTVLCOPT:http-referrer=https://www.hdfilmcehennemi.nl/
