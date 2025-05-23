@@ -1,0 +1,338 @@
+#EXTM3U
+
+# ♦♦♦♦♦ TV DİZİLERİ ♦♦♦♦♦
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/bayzero1905/msiptv/refs/heads/main/logolar/esrefruya.png" group-title="TV DİZİLERİ",Eşref Rüya 9.Bölüm
+https://video.twimg.com/amplify_video/1925291220005257216/pl/D-RJNg03Ep8bG9JE.m3u8?tag=21
+
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/bayzero1905/msiptv/refs/heads/main/logolar/inctnlr.png" group-title="TV DİZİLERİ",İnci Taneleri 44.Bölüm
+https://video.twimg.com/amplify_video/1923118382347354112/pl/CnGIGSNAkZzwq3nI.m3u8?tag=21
+
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/bayzero1905/msiptv/refs/heads/main/logolar/cgh.png" group-title="TV DİZİLERİ",Ç.G.Hareketler 203.Bölüm
+https://video.fadb6-1.fna.fbcdn.net/o1/v/t2/f2/m69/AQMCIv0WMNKJz5hGPKzqpy1xLgLfDcIlQQp4QzW8DocMjyhsCChDcMpVECjwZWdzEqf3DCDVVmFflxnKEjDOxMUs.mp4?strext=1&_nc_cat=104&_nc_oc=Adm2dMXSxnn2hKaMVefoF4Ujle1dgZHkklH9N-zQz9nwhQSsCqm09EkYLT6kt969zXk&_nc_sid=5e9851&_nc_ht=video.fadb6-1.fna.fbcdn.net&_nc_ohc=uphS1YyG5HkQ7kNvwHXoZI1&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5GQUNFQk9PSy4uQzMuMTI4MC5kYXNoX2gyNjQtYmFzaWMtZ2VuMl83MjBwIiwieHB2X2Fzc2V0X2lkIjoxMzU1MTQ0MDkyNDExNzcyLCJ2aV91c2VjYXNlX2lkIjoxMDEyMiwiZHVyYXRpb25fcyI6NjY1NSwidXJsZ2VuX3NvdXJjZSI6Ind3dyJ9&ccb=17-1&vs=7ee53e64ee312ec5&_nc_vs=HBksFQIYOnBhc3N0aHJvdWdoX2V2ZXJzdG9yZS9HSUNXbUFDejQ4bVhNdkVGQUpFUTQyWmptNjBEYm1kakFBQUYVAALIAQAVAhg6cGFzc3Rocm91Z2hfZXZlcnN0b3JlL0dCOUt1UjNsSVNNcDFid0VBT3dBNlF0LXk1TWhickZxQUFBRhUCAsgBACgAGAAbAogHdXNlX29pbAExEnByb2dyZXNzaXZlX3JlY2lwZQExFQAAJvid-6Pin-gEFQIoAkMzLBdAuf_rhR64UhgZZGFzaF9oMjY0LWJhc2ljLWdlbjJfNzIwcBEAdQJllJ4BAA&_nc_zt=28&oh=00_AfIhNZJ5Qym8gHO-ji-yDbo8VVQ01hNXStYYDlN-0L9b7A&oe=68300E2A
+
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/bayzero1905/msiptv/refs/heads/main/logolar/end.png" group-title="TV DİZİLERİ",END
+https://raw.githubusercontent.com/bayzero1905/msiptv/refs/heads/main/logolar/theend.mp4
+
+
+# ♦♦♦♦♦ FİLMLER ♦♦♦♦♦
+#EXTINF:0 tvg-logo="" group-title="FİLM",
+#EXTINF:0 tvg-logo="" group-title="FİLM",
+#EXTINF:0 tvg-logo="" group-title="FİLM",
+#EXTINF:0 tvg-logo="" group-title="FİLM",
+
+#EXTINF:0 tvg-logo="https://www.hdfilmizle.to/v/501968/poster/watch-lg/yalanci-sahit.webp" group-title="FİLM",Yalancı Şahit
+https://vs12.pictureflix.org/v/Yalanci.Sahit.2022.WEB-DL.1080p.H.264-HDM/480.m3u8
+
+#EXTINF:0 tvg-logo="https://www.hdfilmcehennemi.nl/images/list/poster/convoy@2x.webp" group-title="FİLM",Convoy
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referrer=https://www.hdfilmcehennemi.nl/
+https://s230.rapidrame.com/hls2/01/00023/svxaz71klk8p_,l,n,.urlset/index-f1-v1-a1.m3u8?t=U37avpgtmjSUUC0zLQ5ZF_TRwUJbEuOAjhXiyKIZwPs&s=1747933504&e=1199998800&f=116582&srv=s379&i=0.0&sp=0&p1=s230&p2=s230
+
+#EXTINF:0 tvg-logo="https://www.hdfilmcehennemi.nl/images/list/poster/september-5@2x.webp" group-title="FİLM",September 5
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referrer=https://www.hdfilmcehennemi.nl/
+https://s425.rapidrame.com/hls2/01/00023/6zlxp3epbgyo_,l,n,.urlset/index-f1-v1-a1.m3u8?t=RffFF4a6c_yfoC6OQlsZ_XYpk0_5Yfn6WV46tIjdm3U&s=1747929993&e=1199998800&f=116678&srv=s390&i=0.0&sp=0&p1=s425&p2=s425
+
+#EXTINF:0 tvg-logo="https://www.hdfilmcehennemi.nl/images/list/poster/inpaintings@2x.webp" group-title="FİLM",Başlangıçlar
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referrer=https://www.hdfilmcehennemi.nl/
+https://s230.rapidrame.com/hls2/01/00023/imoztyj05qyv_,l,n,.urlset/index-f1-v1-a1.m3u8?t=pLVFVQStb_H_4EzKqk--VonJzj1shrwLgt8dYzqSK6I&s=1747868450&e=1199998800&f=116632&srv=s351&i=0.0&sp=0&p1=s230&p2=s230
+
+#EXTINF:0 tvg-logo="https://www.hdfilmcehennemi.nl/images/list/poster/lee@2x.webp" group-title="FİLM",Lee
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referrer=https://www.hdfilmcehennemi.nl/
+https://s425.rapidrame.com/hls2/01/00021/8vcdxf5p5ou1_,l,n,.urlset/index-f1-v1-a1.m3u8?t=KIzcpZ7tTs8tDT3wRTWQL2ysHsyuOyS4gSr9HUP7yNc&s=1747866298&e=1199998800&f=108114&srv=s427&i=0.0&sp=0&p1=s425&p2=s425
+
+#EXTINF:0 tvg-logo="https://www.hdfilmcehennemi.nl/images/list/poster/gladiator-ii@2x.webp" group-title="FİLM",Gladyatör 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referrer=https://www.hdfilmcehennemi.nl/
+https://s231.rapidrame.com/hls2/01/00023/1jaw9zbbqfus_,l,n,.urlset/index-f1-v1-a1.m3u8?t=smuhD8c82yJA-OIOVH8ap6MA-8LTjskbY18JIZReKww&s=1747863807&e=1199998800&f=115022&srv=s379&i=0.0&sp=0&p1=s231&p2=s231
+
+#EXTINF:0 tvg-logo="https://www.hdfilmizle.to/v/21174/poster/watch-lg/olumcul-tuzak.webp" group-title="FİLM", Ölümcül Tuzak
+https://p1.photostack.net/v/vgqt7q81iwqs/480.m3u8
+
+#EXTINF:0 tvg-logo="https://www.hdfilmizle.to/v/24448/poster/watch-lg/gelecek-dunya.webp" group-title="FİLM",The World to Come
+https://p2.photofunia.pro/v/gcqnxhovcdkd/480.m3u8
+
+#EXTINF:0 tvg-logo="https://filmvitrini.net/wp-content/uploads/2025/02/The-Brutalist-300x450.jpg" group-title="FİLM",The Brutalist
+https://yabancidizim.com/source2e/video/c45402be5a6a222bef029c4740043b4439f7d034c3ab09d96c5a548656205f72b01bcadf40769e9d9d609284e4e6edd11e6f361b0dd55379eec1ced9ebbeebc9e1bbe852f49be0f01bf609d6bc27f9df
+
+#EXTINF:0 tvg-logo="https://filmvitrini.net/wp-content/uploads/2025/05/Buyukanneler-Restorani-Nonnas-300x450.png" group-title="FİLM",Nonnas
+https://yabancidizim.com/source2e/video/90b37aa698d64ad699c59344b1bd28c3f8b3a81ca8e0742c50ca4e69c8795e53c4f35306302c5ab7b08f48468a1fc88dda045dabfa99df7a330951d7d4315f82977b82dc8b1a07c921f14de5ee866321
+
+#EXTINF:0 tvg-logo="https://www.hdfilmizle.to/v/3484/poster/watch/evdekiler-hd-izle.webp" group-title="FİLM",Evdekiler
+https://vs3.photour.org/mz/qzMxpTH4L3uvoKycd0zxpTuiqT91pv5ipzps0xi3vr1bhd
+
+#EXTINF:0 tvg-logo="https://filmizle.cx/uploads/filmler/2025-04/suruklenis-film-izle_f.webp" group-title="FİLM",Sürükleniş
+https://vidmody.com/mm/tt6306064/main/index-v1-a1.gif
+
+#EXTINF:0 tvg-logo="https://www.hdfilmizle.to/v/501884/poster/watch/mukadderat.webp" group-title="FİLM",Mukadderat
+https://vs18.pictureflix.org/v/Mukadderat.2024.WEB-DL.1080p.H.264-HDM/480.m3u8
+
+#EXTINF:0 tvg-logo="https://www.hdfilmizle.to/v/501808/poster/watch/genis-aile-4-cevahir-ulvi.webp" group-title="FİLM",Geniş Aile 4: Cevahir & Ulvi
+https://vs15.photomag.biz/v/Genis.Aile.4.Cevahir.Ulvi.2024.WEB-DL.1080p.DUAL.H.264-HDM/480.m3u8
+
+#EXTINF:0 tvg-logo="https://www.hdfilmizle.to/v/501888/poster/thumb/leydi-di.webp" group-title="FİLM",Leydi Di
+https://vs12.photomag.biz/v/Lady.Di.2024.WEB-DL.1080p.H.264-HDM/480.m3u8
+
+#EXTINF:0 tvg-logo="https://www.hdfilmizle.to/v/501822/poster/thumb/bir-cumhuriyet-sarkisi.webp" group-title="FİLM",Bir Cumhuriyet Şarkısı
+https://vs17.pictureflix.org/v/Bir.Cumhuriyet.Sarkisi.2024.WEB-DL.1080p.H.264-HDM/480.m3u8
+
+#EXTINF:0 tvg-logo="https://jetfilmizle.io/wp-content/posterler/2025/05/kalender-pide-kalender-pide-izle.jpg" group-title="FİLM",Kalender Pide
+https://prx-1316-ant.vmwesa.online/hls2/01/01833/f3mw4clwhvru_n/index-v1-a1.m3u8?t=7kuZGhfWUD1p7nT4Jcf4aWi30xrma-H_z26PL-65xy4&s=1746212334&e=43200&v=&srv=bck-1326-ant&i=0.4&sp=0&asn=34984
+
+#EXTINF:0 tvg-logo="https://www.hdfilmizle.to/v/53479/poster/watch/olumcul-dalis.webp" group-title="FİLM",Ölümcül Dalış
+https://vs10.photofunia.pro/v/The.Dive.2023.Bluray.1080p.DUAL.x264-HDM/480.m3u8
+
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/bayzero1905/msiptv/refs/heads/main/logolar/end.png" group-title="FİLM",END
+https://raw.githubusercontent.com/bayzero1905/msiptv/refs/heads/main/logolar/theend.mp4
+
+# ♦♦♦♦♦ TV KANALLARI ♦♦♦♦♦
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/bayzero1905/msiptv/refs/heads/main/logolar/aspor.png" group-title="TV KANALLARI",A SPOR
+https://youtube.jitendraunatti.workers.dev/wanda.m3u8?id=7uBpwcn2ZZ0
+
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/bayzero1905/msiptv/refs/heads/main/logolar/htspor.png" group-title="TV KANALLARI",HT SPOR
+https://ciner.daioncdn.net/ht-spor/ht-spor_720p.m3u8?ex=0&sid=6un2ioj783y6&app=d5539841-018b-48b4-80fe-8bac2ffc3d5e&ce=2
+
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/bayzero1905/msiptv/refs/heads/main/logolar/beinsports.png" group-title="TV KANALLARI",BEIN SPORTS HABER
+https://youtube.jitendraunatti.workers.dev/wanda.m3u8?id=VCl1wO81VdM
+
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/bayzero1905/msiptv/refs/heads/main/logolar/trtspor.png" group-title="TV KANALLARI",TRT SPOR
+https://tv-trtspor1.medya.trt.com.tr/master_720.m3u8
+
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/bayzero1905/msiptv/refs/heads/main/logolar/tv8.png" group-title="TV KANALLARI",TV 8
+https://tv8.daioncdn.net/tv8/tv8_720p.m3u8?&sid=6kcxjl1er67i&app=7ddc255a-ef47-4e81-ab14-c0e5f2949788&ce=3
+
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/bayzero1905/msiptv/refs/heads/main/logolar/tv85.png" group-title="TV KANALLARI",TV 8.5
+https://tv8.daioncdn.net/tv8bucuk/tv8bucuk_720p.m3u8?&sid=6kcxozvaks8h&app=bf58ab52-4865-4c81-b223-26b41009801e&ce=3
+
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/bayzero1905/msiptv/refs/heads/main/logolar/atv.png" group-title="TV KANALLARI",ATV
+http://stream.tvcdn.net/ulusal/atv.m3u8
+
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/bayzero1905/msiptv/refs/heads/main/logolar/beyaztv.png" group-title="TV KANALLARI",BEYAZ TV 
+https://beyaztv-live.daioncdn.net/beyaztv/beyaztv_720p.m3u8
+
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/bayzero1905/msiptv/refs/heads/main/logolar/gstv.png" group-title="TV KANALLARI",GS TV 
+https://owifavo5.rocketcdn.com/gstv/gstv.smil/master.m3u8
+
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/bayzero1905/msiptv/refs/heads/main/logolar/end.png" group-title="TV KANALLARI",END
+https://raw.githubusercontent.com/bayzero1905/msiptv/refs/heads/main/logolar/theend.mp4
+
+# ♦♦♦♦♦ MAÇ YAYINLARI ♦♦♦♦♦
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/bayzero1905/msiptv/refs/heads/main/logolar/tivibuspor.png" group-title="MAÇ YAYINLARI",Tivibu Spor 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referrer=https://trgoals1226.xyz/
+https://l0.4928d54d950ee70q32.click/yayint1.m3u8
+
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/bayzero1905/msiptv/refs/heads/main/logolar/beinsports.png" group-title="MAÇ YAYINLARI",Bein Sports 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referrer=https://trgoals1226.xyz/
+https://e0.4928d54d950ee70q5.lat/yayin1.m3u8
+
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/bayzero1905/msiptv/refs/heads/main/logolar/trt1.png" group-title="MAÇ YAYINLARI",TRT 1
+https://trt.daioncdn.net/trt-1/master_720p.m3u8?&sid=6jo8gz6q2uaz&app=ed3904e8-737b-4a5e-856a-1b0d7a0a94e2&ce=2
+
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/bayzero1905/msiptv/refs/heads/main/logolar/tabiispor.png" group-title="MAÇ YAYINLARI",Tabii Spor
+https://beert7sqimrk0bfdupfgn6qew.medya.trt.com.tr/master_720p.m3u8
+
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/bayzero1905/msiptv/refs/heads/main/logolar/tabiispor.png" group-title="MAÇ YAYINLARI",Tabii Spor 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referrer=https://trgoals1226.xyz/
+https://j0.4928d54d950ee70q10.click/yayinex1.m3u8
+
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/bayzero1905/msiptv/refs/heads/main/logolar/tabiispor.png" group-title="MAÇ YAYINLARI",Tabii Spor 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referrer=https://trgoals1226.xyz/
+https://j0.4928d54d950ee70q10.click/yayinex2.m3u8
+
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/bayzero1905/msiptv/refs/heads/main/logolar/tabiispor.png" group-title="MAÇ YAYINLARI",Tabii Spor 02
+https://klublsslubcgyiz7zqt5bz8il.medya.trt.com.tr/master_1080p.m3u8
+
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/bayzero1905/msiptv/refs/heads/main/logolar/exxen.png" group-title="MAÇ YAYINLARI",EXXEN 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referrer=https://trgoals1226.xyz/
+https://b0.b4c8d3e9f1a2b7c5d92.cfd/yayinex1.m3u8
+
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/bayzero1905/msiptv/refs/heads/main/logolar/exxen.png" group-title="MAÇ YAYINLARI",EXXEN 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referrer=https://trgoals1226.xyz/
+https://b0.b4c8d3e9f1a2b7c5d92.cfd/yayinex2.m3u8
+
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/bayzero1905/msiptv/refs/heads/main/logolar/exxen.png" group-title="MAÇ YAYINLARI",EXXEN 3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referrer=https://trgoals1226.xyz/
+https://b0.b4c8d3e9f1a2b7c5d92.cfd/yayinex3.m3u8
+
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/bayzero1905/msiptv/refs/heads/main/logolar/exxen.png" group-title="MAÇ YAYINLARI",EXXEN 4
+https://steep-silence-b428.simitcigazozcuknk.workers.dev/https://fener2.demoscript.buzz/hls/eu1.m3u8
+
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/bayzero1905/msiptv/refs/heads/main/logolar/ssport.png" group-title="MAÇ YAYINLARI",SSPORT 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referrer=https://trgoals1226.xyz/
+https://h0.4928d54d950ee70q50.click/yayinss.m3u8
+
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/bayzero1905/msiptv/refs/heads/main/logolar/ssport.png" group-title="MAÇ YAYINLARI",SSPORT 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referrer=https://trgoals1226.xyz/
+https://b0.b4c8d3e9f1a2b7c5d92.cfd/yayinss2.m3u8
+
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/bayzero1905/msiptv/refs/heads/main/logolar/macyayin.png" group-title="MAÇ YAYINLARI",YAYIN 1
+https://jhvggr.site/assia2/cdn/mix-sport30/main.m3u8
+
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/bayzero1905/msiptv/refs/heads/main/logolar/macyayin.png" group-title="MAÇ YAYINLARI",YAYIN 2
+https://jhvggr.site/365/cdn/232897621/main.m3u8
+
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/bayzero1905/msiptv/refs/heads/main/logolar/macyayin.png" group-title="MAÇ YAYINLARI",YAYIN 3
+https://jhvggr.site/daddyhd/cdn/591/main.m3u8
+
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/bayzero1905/msiptv/refs/heads/main/logolar/macyayin.png" group-title="MAÇ YAYINLARI",YAYIN 4
+https://gagas.site/cdn/tabi_spor_hd/main.m3u8
+
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/bayzero1905/msiptv/refs/heads/main/logolar/macyayin.png" group-title="MAÇ YAYINLARI",YAYIN 5
+https://jhvggr.site/assia2/cdn/mix-sport/main.m3u8
+
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/bayzero1905/msiptv/refs/heads/main/logolar/end.png" group-title="MAÇ YAYINLARI",END
+https://raw.githubusercontent.com/bayzero1905/msiptv/refs/heads/main/logolar/theend.mp4
+
+# ♦♦♦♦♦ Bates Motel 1 ♦♦♦♦♦
+#EXTINF:0 tvg-logo="https://sezonlukdizi6.com/i/dizi400/d/b/97.jpg" group-title="Bates Motel",6.Bölüm
+https://pixeldrain.com/api/file/hbJrzhJU
+
+#EXTINF:0 tvg-logo="https://sezonlukdizi6.com/i/dizi400/d/b/97.jpg" group-title="Bates Motel",7.Bölüm
+https://pixeldrain.com/api/file/Yg24jguQ
+
+#EXTINF:0 tvg-logo="https://sezonlukdizi6.com/i/dizi400/d/b/97.jpg" group-title="Bates Motel",8.Bölüm
+https://pixeldrain.com/api/file/v7QzovLq
+
+#EXTINF:0 tvg-logo="https://sezonlukdizi6.com/i/dizi400/d/b/97.jpg" group-title="Bates Motel",9.Bölüm
+https://pixeldrain.com/api/file/D2T2EPBa
+
+#EXTINF:0 tvg-logo="https://sezonlukdizi6.com/i/dizi400/d/b/97.jpg" group-title="Bates Motel",10.Bölüm
+https://pixeldrain.com/api/file/gPEuMCz5
+
+#EXTINF:0 tvg-logo="https://sezonlukdizi6.com/i/dizi400/d/b/97.jpg" group-title="Bates Motel",11.Bölüm
+https://12.hot-video.dzeninfra.ru/vod/converted-video/vod-content/92/61/45/49/72/08/58/14/88/6fcb58ac-80c3-4400-b351-19abbe9bae66/kaltura/desc_b534265761fe3bf8c5af5611cf068c2c/v4V5UQGgCDXo/master.m3u8
+
+#EXTINF:0 tvg-logo="https://sezonlukdizi6.com/i/dizi400/d/b/97.jpg" group-title="Bates Motel",12.Bölüm
+https://12.hot-video.dzeninfra.ru/vod/converted-video/vod-content/19/72/92/89/32/68/20/46/80/0/c6bae590-a502-4c6c-8325-c342d20bcfc2/kaltura/desc_53b9fea19aeabdea0dcdd72bfd78d1f5/vl3s6a6hN03c/master.m3u8
+
+#EXTINF:0 tvg-logo="https://sezonlukdizi6.com/i/dizi400/d/b/97.jpg" group-title="Bates Motel",13.Bölüm
+https://12.hot-video.dzeninfra.ru/vod/converted-video/vod-content/81/34/51/17/12/58/78/38/55/2/3819d8d9-4cb5-4919-a3a7-30b29d251f10/kaltura/desc_995d0ec2cfb5a0f4d36ea418da7422b2/vaiL-xeOPNRo/master.m3u8
+
+#EXTINF:0 tvg-logo="https://sezonlukdizi6.com/i/dizi400/d/b/97.jpg" group-title="Bates Motel",14.Bölüm
+https://12.hot-video.dzeninfra.ru/vod/converted-video/vod-content/33/42/70/58/36/21/95/97/96/1/f93b088b-54ca-46a8-b899-e8b9d80598e0/kaltura/desc_b23cc209cd38f4e9e6b2eb91fcc38e34/vNc55e7KG7T0/master.m3u8
+
+#EXTINF:0 tvg-logo="https://sezonlukdizi6.com/i/dizi400/d/b/97.jpg" group-title="Bates Motel",15.Bölüm
+https://12.hot-video.dzeninfra.ru/vod/converted-video/vod-content/35/59/39/04/75/93/60/33/01/2/e2d91725-8963-45df-bef2-97dc0475328e/kaltura/desc_cf5e4fa39a7fd62dd7bffd203fb6b180/vPoUJCr4JTSE/master.m3u8
+
+#EXTINF:0 tvg-logo="https://sezonlukdizi6.com/i/dizi400/d/b/97.jpg" group-title="Bates Motel",16.Bölüm
+https://12.hot-video.dzeninfra.ru/vod/converted-video/vod-content/53/55/02/47/12/25/16/07/28/8/a887b4b1-63b1-4f9a-baad-b7c225317e0d/kaltura/desc_41e00c63520264177600cc8779fc6ac5/v12qydUrnOWo/master.m3u8
+
+#EXTINF:0 tvg-logo="https://sezonlukdizi6.com/i/dizi400/d/b/97.jpg" group-title="Bates Motel",17.Bölüm
+https://12.hot-video.dzeninfra.ru/vod/converted-video/vod-content/78/99/94/44/24/17/92/48/56/5/2937c7f1-4d66-4a06-9c3a-c6bdf4f159c9/kaltura/desc_ee25172f1a10c0eba05612da5db45dcb/vR69jEJo4gRc/master.m3u8
+
+#EXTINF:0 tvg-logo="https://sezonlukdizi6.com/i/dizi400/d/b/97.jpg" group-title="Bates Motel",18.Bölüm
+https://12.hot-video.dzeninfra.ru/vod/converted-video/vod-content/41/04/86/61/72/15/32/32/81/5/08e5656d-fd96-4efd-9394-26dd16d04300/kaltura/desc_66e09bdc3844cce45be092cc12e44fb2/vnlJTL1he5kI/master.m3u8
+
+#EXTINF:0 tvg-logo="https://sezonlukdizi6.com/i/dizi400/d/b/97.jpg" group-title="Bates Motel",19.Bölüm
+https://12.hot-video.dzeninfra.ru/vod/converted-video/vod-content/26/35/61/07/69/91/54/03/98/5/e2973be2-2d58-4bff-a32d-2e377b91bb0d/kaltura/desc_bf649a91d6ad7d0fb32b6cd7a854d847/v-LT9XHAIrRI/master.m3u8
+
+#EXTINF:0 tvg-logo="https://sezonlukdizi6.com/i/dizi400/d/b/97.jpg" group-title="Bates Motel",20.Bölüm
+https://12.hot-video.dzeninfra.ru/vod/converted-video/vod-content/29/16/20/37/23/48/34/56/73/7/a530e2e3-3956-4b32-a5f0-adbf1c32d54f/kaltura/desc_0d987c570aea591ca5f5e098d49f2c7a/vOuINhcCSKA0/master.m3u8
+
+#EXTINF:0 tvg-logo="https://sezonlukdizi6.com/i/dizi400/d/b/97.jpg" group-title="Bates Motel",21.Bölüm
+https://pixeldrain.com/api/file/bnMEi69i
+
+#EXTINF:0 tvg-logo="https://sezonlukdizi6.com/i/dizi400/d/b/97.jpg" group-title="Bates Motel",22.Bölüm
+https://pixeldrain.com/api/file/qR1LMpHW
+
+#EXTINF:0 tvg-logo="https://sezonlukdizi6.com/i/dizi400/d/b/97.jpg" group-title="Bates Motel",23.Bölüm
+https://pixeldrain.com/api/file/MA69hTc9
+
+#EXTINF:0 tvg-logo="https://sezonlukdizi6.com/i/dizi400/d/b/97.jpg" group-title="Bates Motel",24.Bölüm
+https://pixeldrain.com/api/file/jRa3PN6C
+
+#EXTINF:0 tvg-logo="https://sezonlukdizi6.com/i/dizi400/d/b/97.jpg" group-title="Bates Motel",25.Bölüm
+https://pixeldrain.com/api/file/b49Mh7bk
+
+#EXTINF:0 tvg-logo="https://sezonlukdizi6.com/i/dizi400/d/b/97.jpg" group-title="Bates Motel",26.Bölüm
+https://pixeldrain.com/api/file/6bkLusjQ
+
+#EXTINF:0 tvg-logo="https://sezonlukdizi6.com/i/dizi400/d/b/97.jpg" group-title="Bates Motel",27.Bölüm
+https://pixeldrain.com/api/file/G3kXaMRr
+
+#EXTINF:0 tvg-logo="https://sezonlukdizi6.com/i/dizi400/d/b/97.jpg" group-title="Bates Motel",28.Bölüm
+https://pixeldrain.com/api/file/e2pnCY2c
+
+#EXTINF:0 tvg-logo="https://sezonlukdizi6.com/i/dizi400/d/b/97.jpg" group-title="Bates Motel",29.Bölüm
+https://pixeldrain.com/api/file/Scv1q6vi
+
+#EXTINF:0 tvg-logo="https://sezonlukdizi6.com/i/dizi400/d/b/97.jpg" group-title="Bates Motel",30.Bölüm
+https://pixeldrain.com/api/file/tow5BbKo
+
+#EXTINF:0 tvg-logo="https://sezonlukdizi6.com/i/dizi400/d/b/97.jpg" group-title="Bates Motel",31.Bölüm
+https://pixeldrain.com/api/file/VA22jjY6
+
+#EXTINF:0 tvg-logo="https://sezonlukdizi6.com/i/dizi400/d/b/97.jpg" group-title="Bates Motel",32.Bölüm
+https://pixeldrain.com/api/file/eBwAtXXm
+
+#EXTINF:0 tvg-logo="https://sezonlukdizi6.com/i/dizi400/d/b/97.jpg" group-title="Bates Motel",33.Bölüm
+https://pixeldrain.com/api/file/KzUvK6rj
+
+#EXTINF:0 tvg-logo="https://sezonlukdizi6.com/i/dizi400/d/b/97.jpg" group-title="Bates Motel",34.Bölüm
+https://pixeldrain.com/api/file/icQkkJgR
+
+#EXTINF:0 tvg-logo="https://sezonlukdizi6.com/i/dizi400/d/b/97.jpg" group-title="Bates Motel",35.Bölüm
+https://pixeldrain.com/api/file/xSKuvopX
+
+#EXTINF:0 tvg-logo="https://sezonlukdizi6.com/i/dizi400/d/b/97.jpg" group-title="Bates Motel",36.Bölüm
+https://pixeldrain.com/api/file/7jH4PZ15
+
+#EXTINF:0 tvg-logo="https://sezonlukdizi6.com/i/dizi400/d/b/97.jpg" group-title="Bates Motel",37.Bölüm
+https://pixeldrain.com/api/file/8B18uuCV
+
+#EXTINF:0 tvg-logo="https://sezonlukdizi6.com/i/dizi400/d/b/97.jpg" group-title="Bates Motel",38.Bölüm
+https://pixeldrain.com/api/file/D4N4i8uq
+
+#EXTINF:0 tvg-logo="https://sezonlukdizi6.com/i/dizi400/d/b/97.jpg" group-title="Bates Motel",39.Bölüm
+https://pixeldrain.com/api/file/vycb1mym
+
+#EXTINF:0 tvg-logo="https://sezonlukdizi6.com/i/dizi400/d/b/97.jpg" group-title="Bates Motel",40.Bölüm
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referrer=https://www.hdfilmcehennemi.nl/
+https://s427.rapidrame.com/hls2/01/00019/cgtn936imx4j_,l,n,.urlset/index-f1-v1-a1.m3u8?t=xKp4j3eaos2eVVgjbMIrT3AQ9DQZbzu9Rq-nvUM339Y&s=1747840820&e=1199998800&f=99701&i=0.0&sp=0
+
+#EXTINF:0 tvg-logo="https://sezonlukdizi6.com/i/dizi400/d/b/97.jpg" group-title="Bates Motel",41.Bölüm
+https://pixeldrain.com/api/file/opVZXw1i
+
+#EXTINF:0 tvg-logo="https://sezonlukdizi6.com/i/dizi400/d/b/97.jpg" group-title="Bates Motel",42.Bölüm
+https://pixeldrain.com/api/file/dDGm6qDy
+
+#EXTINF:0 tvg-logo="https://sezonlukdizi6.com/i/dizi400/d/b/97.jpg" group-title="Bates Motel",43.Bölüm
+https://pixeldrain.com/api/file/Dc7fPVsu
+
+#EXTINF:0 tvg-logo="https://sezonlukdizi6.com/i/dizi400/d/b/97.jpg" group-title="Bates Motel",44.Bölüm
+https://pixeldrain.com/api/file/jk9cHC6C
+
+#EXTINF:0 tvg-logo="https://sezonlukdizi6.com/i/dizi400/d/b/97.jpg" group-title="Bates Motel",45.Bölüm
+https://pixeldrain.com/api/file/wzYduubx
+
+#EXTINF:0 tvg-logo="https://sezonlukdizi6.com/i/dizi400/d/b/97.jpg" group-title="Bates Motel",46.Bölüm
+https://pixeldrain.com/api/file/aFphhv3n
+
+#EXTINF:0 tvg-logo="https://sezonlukdizi6.com/i/dizi400/d/b/97.jpg" group-title="Bates Motel",47.Bölüm
+https://pixeldrain.com/api/file/fa9adqz1
+
+#EXTINF:0 tvg-logo="https://sezonlukdizi6.com/i/dizi400/d/b/97.jpg" group-title="Bates Motel",48.Bölüm
+https://pixeldrain.com/api/file/d9PMP1i3
+
+#EXTINF:0 tvg-logo="https://sezonlukdizi6.com/i/dizi400/d/b/97.jpg" group-title="Bates Motel",49.Bölüm
+https://pixeldrain.com/api/file/CFS5kpbA
+
+#EXTINF:0 tvg-logo="https://sezonlukdizi6.com/i/dizi400/d/b/97.jpg" group-title="Bates Motel",50.Bölüm
+https://pixeldrain.com/api/file/mbKWCqWy
+
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/bayzero1905/msiptv/refs/heads/main/logolar/end.png" group-title="Bates Motel",END
+https://raw.githubusercontent.com/bayzero1905/msiptv/refs/heads/main/logolar/theend.mp4
+
+
