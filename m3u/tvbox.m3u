@@ -18,7 +18,11 @@ https://raw.githubusercontent.com/bayzero1905/msiptv/refs/heads/main/logolar/the
 #EXTINF:0 tvg-logo="" group-title="FİLM",
 #EXTINF:0 tvg-logo="" group-title="FİLM",
 #EXTINF:0 tvg-logo="" group-title="FİLM",
-#EXTINF:0 tvg-logo="" group-title="FİLM",
+
+#EXTINF:0 tvg-logo="https://www.hdfilmcehennemi.nl/images/list/poster/conclave@2x.webp" group-title="FİLM",Konsey
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referrer=https://www.hdfilmcehennemi.nl/
+https://s230.rapidrame.com/hls2/01/00023/q87qtjz6iut1_,l,n,.urlset/index-f1-v1-a1.m3u8?t=kT6FWM2BMKdamkrMbOtnCuksAekYJ1r_TNONRKGta4E&s=1748037944&e=1199998800&f=115967&srv=s429&i=0.0&sp=0&p1=s230&p2=s230
 
 #EXTINF:0 tvg-logo="https://www.hdfilmcehennemi.nl/images/list/poster/oflu-hoca-4@2x.webp" group-title="FİLM",Oflu Hoca 4
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
