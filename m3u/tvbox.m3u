@@ -20,6 +20,21 @@ https://raw.githubusercontent.com/bayzero1905/msiptv/refs/heads/main/logolar/the
 #EXTINF:0 tvg-logo="" group-title="FİLM",
 #EXTINF:0 tvg-logo="" group-title="FİLM",
 
+#EXTINF:0 tvg-logo="https://www.hdfilmcehennemi.nl/images/list/poster/oflu-hoca-4@2x.webp" group-title="FİLM",Oflu Hoca 4
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referrer=https://www.hdfilmcehennemi.nl/
+https://s231.rapidrame.com/hls2/01/00023/3i39ad92ezhh_,l,n,.urlset/index-f1-v1-a1.m3u8?t=nvoFOxrstN58zvs_B7m63cQZxBB_VYCuWeTlZVKn1xc&s=1748021657&e=1199998800&f=116701&srv=s401&i=0.0&sp=0&p1=s231&p2=s231
+
+#EXTINF:0 tvg-logo="https://www.hdfilmcehennemi.nl/images/list/poster/fear-street-prom-queen@2x.webp" group-title="FİLM",Korku Sokağı: Mezuniyet Balosu
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referrer=https://www.hdfilmcehennemi.nl/
+https://s231.rapidrame.com/hls2/01/00023/pl01nm18bw0k_,l,n,.urlset/index-f1-v1-a1.m3u8?t=-UtQEo3o5Chi1wCSp8CtzxPQNxOOOUele-gBegnu4Uo&s=1748021432&e=1199998800&f=116742&srv=s390&i=0.0&sp=0&p1=s231&p2=s231
+
+#EXTINF:0 tvg-logo="https://www.hdfilmcehennemi.nl/images/list/poster/rosario@2x.webp" group-title="FİLM",Rosario
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referrer=https://www.hdfilmcehennemi.nl/
+https://s231.rapidrame.com/hls2/01/00023/e4eutw0cij79_,l,n,.urlset/index-f1-v1-a1.m3u8?t=-hnDCVztOEE4yoH1TYQtujVem81Pjxh5-RqHQ4ZR2K8&s=1748021529&e=1199998800&f=116712&srv=s402&i=0.0&sp=0&p1=s231&p2=s231
+
 #EXTINF:0 tvg-logo="https://www.hdfilmizle.to/v/501968/poster/watch-lg/yalanci-sahit.webp" group-title="FİLM",Yalancı Şahit
 https://vs12.pictureflix.org/v/Yalanci.Sahit.2022.WEB-DL.1080p.H.264-HDM/480.m3u8
 
@@ -64,7 +79,9 @@ https://yabancidizim.com/source2e/video/90b37aa698d64ad699c59344b1bd28c3f8b3a81c
 https://vs3.photour.org/mz/qzMxpTH4L3uvoKycd0zxpTuiqT91pv5ipzps0xi3vr1bhd
 
 #EXTINF:0 tvg-logo="https://filmizle.cx/uploads/filmler/2025-04/suruklenis-film-izle_f.webp" group-title="FİLM",Sürükleniş
-https://vidmody.com/mm/tt6306064/main/index-v1-a1.gif
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referrer=https://www.hdfilmcehennemi.nl/
+https://s427.rapidrame.com/hls2/01/00005/ku4lhwwhsy8p_,l,n,.urlset/index-f2-v1-a1.m3u8?t=rKudE-Ury9Refy5YQ5ifrFDUpeO0lBarx0Z4yLrodyM&s=1748021828&e=1199998800&f=28940&i=0.0&sp=0
 
 #EXTINF:0 tvg-logo="https://www.hdfilmizle.to/v/501884/poster/watch/mukadderat.webp" group-title="FİLM",Mukadderat
 https://vs18.pictureflix.org/v/Mukadderat.2024.WEB-DL.1080p.H.264-HDM/480.m3u8
@@ -168,13 +185,13 @@ https://steep-silence-b428.simitcigazozcuknk.workers.dev/https://fener2.demoscri
 
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/bayzero1905/msiptv/refs/heads/main/logolar/ssport.png" group-title="MAÇ YAYINLARI",SSPORT 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
-#EXTVLCOPT:http-referrer=https://trgoals1226.xyz/
-https://h0.4928d54d950ee70q50.click/yayinss.m3u8
+#EXTVLCOPT:http-referrer=https://trgoals1336.xyz/
+https://f0.4928d54d950ee70q6.lat/yayin1.m3u8
 
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/bayzero1905/msiptv/refs/heads/main/logolar/ssport.png" group-title="MAÇ YAYINLARI",SSPORT 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
-#EXTVLCOPT:http-referrer=https://trgoals1226.xyz/
-https://b0.b4c8d3e9f1a2b7c5d92.cfd/yayinss2.m3u8
+#EXTVLCOPT:http-referrer=https://trgoals1336.xyz/
+https://f0.4928d54d950ee70q6.lat/yayinss2.m3u8
 
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/bayzero1905/msiptv/refs/heads/main/logolar/macyayin.png" group-title="MAÇ YAYINLARI",YAYIN 1
 https://jhvggr.site/assia2/cdn/mix-sport30/main.m3u8
@@ -195,12 +212,6 @@ https://jhvggr.site/assia2/cdn/mix-sport/main.m3u8
 https://raw.githubusercontent.com/bayzero1905/msiptv/refs/heads/main/logolar/theend.mp4
 
 # ♦♦♦♦♦ Bates Motel 1 ♦♦♦♦♦
-#EXTINF:0 tvg-logo="https://sezonlukdizi6.com/i/dizi400/d/b/97.jpg" group-title="Bates Motel",6.Bölüm
-https://pixeldrain.com/api/file/hbJrzhJU
-
-#EXTINF:0 tvg-logo="https://sezonlukdizi6.com/i/dizi400/d/b/97.jpg" group-title="Bates Motel",7.Bölüm
-https://pixeldrain.com/api/file/Yg24jguQ
-
 #EXTINF:0 tvg-logo="https://sezonlukdizi6.com/i/dizi400/d/b/97.jpg" group-title="Bates Motel",8.Bölüm
 https://pixeldrain.com/api/file/v7QzovLq
 
@@ -318,7 +329,9 @@ https://pixeldrain.com/api/file/jk9cHC6C
 https://pixeldrain.com/api/file/wzYduubx
 
 #EXTINF:0 tvg-logo="https://sezonlukdizi6.com/i/dizi400/d/b/97.jpg" group-title="Bates Motel",46.Bölüm
-https://pixeldrain.com/api/file/aFphhv3n
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referrer=https://www.hdfilmcehennemi.nl/
+https://s427.rapidrame.com/hls2/01/00019/q063dfomdh9f_,l,n,.urlset/index-f1-v1-a1.m3u8?t=kjcIgyCAY8cmkI5Scx0n6WM5m9ApHy_0zaF_GJm1Neg&s=1748013176&e=1199998800&f=99704&i=0.0&sp=0
 
 #EXTINF:0 tvg-logo="https://sezonlukdizi6.com/i/dizi400/d/b/97.jpg" group-title="Bates Motel",47.Bölüm
 https://pixeldrain.com/api/file/fa9adqz1
