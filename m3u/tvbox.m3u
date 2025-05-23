@@ -337,13 +337,19 @@ https://s427.rapidrame.com/hls2/01/00019/q063dfomdh9f_,l,n,.urlset/index-f1-v1-a
 https://pixeldrain.com/api/file/fa9adqz1
 
 #EXTINF:0 tvg-logo="https://sezonlukdizi6.com/i/dizi400/d/b/97.jpg" group-title="Bates Motel",48.Bölüm
-https://pixeldrain.com/api/file/d9PMP1i3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referrer=https://www.hdfilmcehennemi.nl/
+https://s386.rapidrame.com/hls2/01/00008/yw70fowkfxvj_,l,n,.urlset/index-f2-v1-a1.m3u8?t=GarIGk2TZoAmVOai0eqmHDjM3txIssPJNOlKOGPXfcE&s=1748033924&e=1199998800&f=43078&i=0.0&sp=0
 
 #EXTINF:0 tvg-logo="https://sezonlukdizi6.com/i/dizi400/d/b/97.jpg" group-title="Bates Motel",49.Bölüm
-https://pixeldrain.com/api/file/CFS5kpbA
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referrer=https://www.hdfilmcehennemi.nl/
+https://s427.rapidrame.com/hls2/01/00019/s3f3vltn90kb_,l,n,.urlset/index-f1-v1-a1.m3u8?t=yBlXkfxJruHVa_NBvBeYyTvrVRMkxFm7X2enshi_HO4&s=1748034006&e=1199998800&f=99706&i=0.0&sp=0
 
 #EXTINF:0 tvg-logo="https://sezonlukdizi6.com/i/dizi400/d/b/97.jpg" group-title="Bates Motel",50.Bölüm
-https://pixeldrain.com/api/file/mbKWCqWy
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referrer=https://www.hdfilmcehennemi.nl/
+https://s389.rapidrame.com/hls2/01/00019/w2hrbmhr93qk_,l,n,.urlset/index-f1-v1-a1.m3u8?t=IJ8KwLpqEfAIJaSYGWCMfIiEQe6tjuAhf6Fe4UhyQqk&s=1748034056&e=1199998800&f=99707&i=0.0&sp=0
 
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/bayzero1905/msiptv/refs/heads/main/logolar/end.png" group-title="Bates Motel",END
 https://raw.githubusercontent.com/bayzero1905/msiptv/refs/heads/main/logolar/theend.mp4
