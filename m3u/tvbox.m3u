@@ -16,8 +16,49 @@ https://raw.githubusercontent.com/bayzero1905/msiptv/refs/heads/main/logolar/the
 
 # ♦♦♦♦♦ FİLMLER ♦♦♦♦♦
 #EXTINF:0 tvg-logo="" group-title="FİLM",
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referrer=https://www.hdfilmcehennemi.nl/
+
+
 #EXTINF:0 tvg-logo="" group-title="FİLM",
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referrer=https://www.hdfilmcehennemi.nl/
+
+
 #EXTINF:0 tvg-logo="" group-title="FİLM",
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referrer=https://www.hdfilmcehennemi.nl/
+
+
+#EXTINF:0 tvg-logo="" group-title="FİLM",
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referrer=https://www.hdfilmcehennemi.nl/
+
+
+#EXTINF:0 tvg-logo="" group-title="FİLM",
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referrer=https://www.hdfilmcehennemi.nl/
+
+
+#EXTINF:0 tvg-logo="https://www.hdfilmcehennemi.nl/images/list/poster/el-camino@2x.webp" group-title="FİLM",El Camino
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referrer=https://www.hdfilmcehennemi.nl/
+https://s285.rapidrame.com/hls2/01/00023/cr3osm050itd_,l,n,.urlset/index-f1-v1-a1.m3u8?t=Gtz9GtyI39o0-kg024n7_pHNdKM99OekNwfZU1BDVyg&s=1748076249&e=1199998800&f=116375&i=0.0&sp=0
+
+#EXTINF:0 tvg-logo="https://www.hdfilmcehennemi.nl/images/list/poster/one-of-those-days-when-hemme-dies@2x.webp" group-title="FİLM",Hemmenin Öldüğü Günlerden Biri
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referrer=https://www.hdfilmcehennemi.nl/
+https://s342.rapidrame.com/hls2/01/00023/a259ti0dhb96_,l,n,.urlset/index-f1-v1-a1.m3u8?t=_rqmqVEwBPPfHu53xI2ZyUhV55kN0ampHnDgdiGtCd8&s=1748053225&e=1199998800&f=116770&i=0.0&sp=0
+
+#EXTINF:0 tvg-logo="https://www.hdfilmcehennemi.nl/images/list/poster/mickey-17@2x.webp" group-title="FİLM",Mickey 17
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referrer=https://www.hdfilmcehennemi.nl/
+https://s230.rapidrame.com/hls2/01/00023/ir6sreoab9lp_,l,n,.urlset/index-f1-v1-a1.m3u8?t=jPzbUnHibqZQt1V0_GaL6VAYiZOgNFkVqhvBO9tPyZ8&s=1748052861&e=1199998800&f=116768&srv=s390&i=0.0&sp=0&p1=s230&p2=s230
+
+#EXTINF:0 tvg-logo="https://www.hdfilmcehennemi.nl/images/list/poster/gatlopp@2x.webp" group-title="FİLM",Gatlopp Hell of a Game
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referrer=https://www.hdfilmcehennemi.nl/
+https://s230.rapidrame.com/hls2/01/00023/ehbrysjh0m5d_,l,n,.urlset/index-f1-v1-a1.m3u8?t=hqiOFzhMv5cr_bgI37xDzxtCbnRvl8qkWwwymtLzGhs&s=1748039310&e=1199998800&f=116706&srv=s400&i=0.0&sp=0&p1=s230&p2=s230
 
 #EXTINF:0 tvg-logo="https://www.hdfilmcehennemi.nl/images/list/poster/conclave@2x.webp" group-title="FİLM",Konsey
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
@@ -256,7 +297,9 @@ https://12.hot-video.dzeninfra.ru/vod/converted-video/vod-content/26/35/61/07/69
 https://12.hot-video.dzeninfra.ru/vod/converted-video/vod-content/29/16/20/37/23/48/34/56/73/7/a530e2e3-3956-4b32-a5f0-adbf1c32d54f/kaltura/desc_0d987c570aea591ca5f5e098d49f2c7a/vOuINhcCSKA0/master.m3u8
 
 #EXTINF:0 tvg-logo="https://sezonlukdizi6.com/i/dizi400/d/b/97.jpg" group-title="Bates Motel",21.Bölüm
-https://pixeldrain.com/api/file/bnMEi69i
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referrer=https://www.hdfilmcehennemi.nl/
+https://s427.rapidrame.com/hls2/01/00019/baklvvdaocgg_,l,n,.urlset/index-f1-v1-a1.m3u8?t=KmihPU7aP0eT9gbfo1i_Shkb7SSWeBEvgJVEtiJhXjo&s=1748050108&e=1199998800&f=99692&i=0.0&sp=0
 
 #EXTINF:0 tvg-logo="https://sezonlukdizi6.com/i/dizi400/d/b/97.jpg" group-title="Bates Motel",22.Bölüm
 https://pixeldrain.com/api/file/qR1LMpHW
@@ -274,13 +317,19 @@ https://pixeldrain.com/api/file/b49Mh7bk
 https://pixeldrain.com/api/file/6bkLusjQ
 
 #EXTINF:0 tvg-logo="https://sezonlukdizi6.com/i/dizi400/d/b/97.jpg" group-title="Bates Motel",27.Bölüm
-https://pixeldrain.com/api/file/G3kXaMRr
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referrer=https://www.hdfilmcehennemi.nl/
+https://s427.rapidrame.com/hls2/01/00019/4180ttnn4mer_,l,n,.urlset/index-f1-v1-a1.m3u8?t=Vs9tsCbBvr-mplsvTBm7FMSQ7N0HH3784m_0gB534zc&s=1748050186&e=1199998800&f=99695&i=0.0&sp=0
 
 #EXTINF:0 tvg-logo="https://sezonlukdizi6.com/i/dizi400/d/b/97.jpg" group-title="Bates Motel",28.Bölüm
-https://pixeldrain.com/api/file/e2pnCY2c
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referrer=https://www.hdfilmcehennemi.nl/
+https://s427.rapidrame.com/hls2/01/00019/v3oowlf88225_,l,n,.urlset/index-f1-v1-a2.m3u8?t=lOpeeVY3f2Jvn1sNEgWzeRDgbvUlWvyDzQhD-4_4CG4&s=1748050391&e=1199998800&f=99696&i=0.0&sp=0
 
 #EXTINF:0 tvg-logo="https://sezonlukdizi6.com/i/dizi400/d/b/97.jpg" group-title="Bates Motel",29.Bölüm
-https://pixeldrain.com/api/file/Scv1q6vi
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referrer=https://www.hdfilmcehennemi.nl/
+https://s230.rapidrame.com/hls2/01/00014/wvd9jf8ps8kg_,l,n,.urlset/index-f1-v1-a1.m3u8?t=10vkls_T0p6KCK_ti-j7kMCZuJGW6UAxcOQvXvIdEn8&s=1748050238&e=1199998800&f=71589&srv=s427&i=0.0&sp=0&p1=s230&p2=s230
 
 #EXTINF:0 tvg-logo="https://sezonlukdizi6.com/i/dizi400/d/b/97.jpg" group-title="Bates Motel",30.Bölüm
 https://pixeldrain.com/api/file/tow5BbKo
@@ -289,7 +338,9 @@ https://pixeldrain.com/api/file/tow5BbKo
 https://pixeldrain.com/api/file/VA22jjY6
 
 #EXTINF:0 tvg-logo="https://sezonlukdizi6.com/i/dizi400/d/b/97.jpg" group-title="Bates Motel",32.Bölüm
-https://pixeldrain.com/api/file/eBwAtXXm
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referrer=https://www.hdfilmcehennemi.nl/
+https://s230.rapidrame.com/hls2/01/00008/0g234wfxoc18_,l,n,.urlset/index-f1-v1-a1.m3u8?t=0_fjQ5wVu9sUDA5p02VqMMAe6B9ZnATIyVQEdaFSiLI&s=1748050884&e=1199998800&f=43082&srv=s427&i=0.0&sp=0&p1=s230&p2=s230
 
 #EXTINF:0 tvg-logo="https://sezonlukdizi6.com/i/dizi400/d/b/97.jpg" group-title="Bates Motel",33.Bölüm
 https://pixeldrain.com/api/file/KzUvK6rj
@@ -307,10 +358,14 @@ https://pixeldrain.com/api/file/7jH4PZ15
 https://pixeldrain.com/api/file/8B18uuCV
 
 #EXTINF:0 tvg-logo="https://sezonlukdizi6.com/i/dizi400/d/b/97.jpg" group-title="Bates Motel",38.Bölüm
-https://pixeldrain.com/api/file/D4N4i8uq
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referrer=https://www.hdfilmcehennemi.nl/
+https://s427.rapidrame.com/hls2/01/00008/8z7g2euzltp8_,l,n,.urlset/index-f1-v1-a1.m3u8?t=GY2AozqTRQ8MmAPtV3bqjgfrSEtBT-Dyfujq3K5C264&s=1748050952&e=1199998800&f=43088&i=0.0&sp=0
 
 #EXTINF:0 tvg-logo="https://sezonlukdizi6.com/i/dizi400/d/b/97.jpg" group-title="Bates Motel",39.Bölüm
-https://pixeldrain.com/api/file/vycb1mym
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referrer=https://www.hdfilmcehennemi.nl/
+https://s427.rapidrame.com/hls2/01/00008/gcbcnueb2t7j_,l,n,.urlset/index-f1-v1-a1.m3u8?t=dwOSzViFN1GuYyD6G50ljESwDI7VqmvoQBw0zWEaApY&s=1748050981&e=1199998800&f=43089&i=0.0&sp=0
 
 #EXTINF:0 tvg-logo="https://sezonlukdizi6.com/i/dizi400/d/b/97.jpg" group-title="Bates Motel",40.Bölüm
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
@@ -327,7 +382,9 @@ https://pixeldrain.com/api/file/dDGm6qDy
 https://pixeldrain.com/api/file/Dc7fPVsu
 
 #EXTINF:0 tvg-logo="https://sezonlukdizi6.com/i/dizi400/d/b/97.jpg" group-title="Bates Motel",44.Bölüm
-https://pixeldrain.com/api/file/jk9cHC6C
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referrer=https://www.hdfilmcehennemi.nl/
+https://s429.rapidrame.com/hls2/01/00008/t1nxvfdkdosa_,l,n,.urlset/index-f1-v1-a1.m3u8?t=RzL-i0Neb8EHKsMTXPUXvRkhbNYUqUQrN_3PATGUJJ4&s=1748051015&e=1199998800&f=43075&i=0.0&sp=0
 
 #EXTINF:0 tvg-logo="https://sezonlukdizi6.com/i/dizi400/d/b/97.jpg" group-title="Bates Motel",45.Bölüm
 https://pixeldrain.com/api/file/wzYduubx
@@ -357,5 +414,104 @@ https://s389.rapidrame.com/hls2/01/00019/w2hrbmhr93qk_,l,n,.urlset/index-f1-v1-a
 
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/bayzero1905/msiptv/refs/heads/main/logolar/end.png" group-title="Bates Motel",END
 https://raw.githubusercontent.com/bayzero1905/msiptv/refs/heads/main/logolar/theend.mp4
+
+# ♦♦♦♦♦ Görünmez ♦♦♦♦♦
+#EXTINF:0 tvg-logo="https://www.hdfilmcehennemi.nl/images/list/poster/unseen@2x.webp" group-title="Görünmez",1.Bölüm
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referrer=https://www.hdfilmcehennemi.nl/
+https://s230.rapidrame.com/hls2/01/00016/jztprmpid57t_,l,n,.urlset/index-f1-v1-a1.m3u8?t=5XVBgO02dvUSStv0HAbJGWExuw1RYkZhOnzO8TbA9pw&s=1747862752&e=1199998800&f=83951&srv=s402&i=0.0&sp=0&p1=s230&p2=s230
+
+#EXTINF:0 tvg-logo="https://www.hdfilmcehennemi.nl/images/list/poster/unseen@2x.webp" group-title="Görünmez",2.Bölüm
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referrer=https://www.hdfilmcehennemi.nl/
+https://s394.rapidrame.com/hls2/01/00019/t1466lh6heb5_,l,n,.urlset/index-f1-v1-a1.m3u8?t=PaUr9CgcJhtrH12yg3mGydxZjeTZyHJaC6IuSc1xHzI&s=1747863003&e=1199998800&f=99988&i=0.0&sp=0
+
+#EXTINF:0 tvg-logo="https://www.hdfilmcehennemi.nl/images/list/poster/unseen@2x.webp" group-title="Görünmez",3.Bölüm
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referrer=https://www.hdfilmcehennemi.nl/
+https://s427.rapidrame.com/hls2/01/00016/i4senwlwoey5_,l,n,.urlset/index-f1-v1-a1.m3u8?t=o4-AClYStkxHRmkBpl2bjrLIu0lPWi-p5-9j5YI_qcY&s=1747863138&e=1199998800&f=83953&i=0.0&sp=0
+
+#EXTINF:0 tvg-logo="https://www.hdfilmcehennemi.nl/images/list/poster/unseen@2x.webp" group-title="Görünmez",4.Bölüm
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referrer=https://www.hdfilmcehennemi.nl/
+https://s427.rapidrame.com/hls2/01/00016/b6mevope3h6d_,l,n,.urlset/index-f1-v1-a1.m3u8?t=ok3qmQyMjFDcjbx2_yfmWUg6AO8wldzC5LYOgdbecZU&s=1747863159&e=1199998800&f=83954&i=0.0&sp=0
+
+#EXTINF:0 tvg-logo="https://www.hdfilmcehennemi.nl/images/list/poster/unseen@2x.webp" group-title="Görünmez",5.Bölüm
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referrer=https://www.hdfilmcehennemi.nl/
+https://s427.rapidrame.com/hls2/01/00016/tkx1lkvt65x8_,l,n,.urlset/index-f1-v1-a1.m3u8?t=iUCqg2diirF-qSw65ZG3ejbPAv8BMsvRpw3yHOP6hDo&s=1747863202&e=1199998800&f=83957&i=0.0&sp=0
+
+#EXTINF:0 tvg-logo="https://www.hdfilmcehennemi.nl/images/list/poster/unseen@2x.webp" group-title="Görünmez",6.Bölüm
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referrer=https://www.hdfilmcehennemi.nl/
+https://s427.rapidrame.com/hls2/01/00019/40f8trk7uteh_,l,n,.urlset/index-f1-v1-a1.m3u8?t=EKdNYwDKSdwsZM4oG2gWjRHRLcU7ITT2dRgh8dRVz0Y&s=1747863226&e=1199998800&f=99989&i=0.0&sp=0
+
+#EXTINF:0 tvg-logo="https://www.hdfilmcehennemi.nl/images/list/poster/unseen@2x.webp" group-title="Görünmez",7.Bölüm
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referrer=https://www.hdfilmcehennemi.nl/
+https://s3.gelsistirire.cfd/down/2cpkbdh094ja/l
+
+#EXTINF:0 tvg-logo="https://www.hdfilmcehennemi.nl/images/list/poster/unseen@2x.webp" group-title="Görünmez",8.Bölüm
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referrer=https://www.hdfilmcehennemi.nl/
+https://s400.rapidrame.com/hls2/01/00023/omkyju2f8xmk_,l,n,.urlset/index-f1-v1-a1.m3u8?t=1otHgfYdi9l6g_yo1k3p7PaxxcL0FRQkVZhqWTTqzeU&s=1747916110&e=1199998800&f=115935&i=0.0&sp=0
+
+#EXTINF:0 tvg-logo="https://www.hdfilmcehennemi.nl/images/list/poster/unseen@2x.webp" group-title="Görünmez",9.Bölüm
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referrer=https://www.hdfilmcehennemi.nl/
+https://s394.rapidrame.com/hls2/01/00023/8k2oudmmyvkz_,l,n,.urlset/index-f1-v1-a1.m3u8?t=Rpr60FJvRh-CJL4Wp1RzDh_NklanVrEFXQGksyGDwQU&s=1747916140&e=1199998800&f=115937&i=0.0&sp=0
+
+#EXTINF:0 tvg-logo="https://www.hdfilmcehennemi.nl/images/list/poster/unseen@2x.webp" group-title="Görünmez",10.Bölüm
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referrer=https://www.hdfilmcehennemi.nl/
+https://s394.rapidrame.com/hls2/01/00023/ptgkazqsweih_,l,n,.urlset/index-f2-v1-a1.m3u8?t=zOnch2gXOwyvSbFXnD3Pbw0Rg5X4CXRhYoNteY_WAno&s=1747916181&e=1199998800&f=115936&i=0.0&sp=0
+
+#EXTINF:0 tvg-logo="https://www.hdfilmcehennemi.nl/images/list/poster/unseen@2x.webp" group-title="Görünmez",11.Bölüm
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referrer=https://www.hdfilmcehennemi.nl/
+https://s424.rapidrame.com/hls2/01/00023/3qkyb0p941re_,l,n,.urlset/index-f1-v1-a1.m3u8?t=wwFEV625G8GCx1PM7eZV9zzRA3FyI6VU8eud-e8_NfY&s=1747916205&e=1199998800&f=115939&i=0.0&sp=0
+
+#EXTINF:0 tvg-logo="https://www.hdfilmcehennemi.nl/images/list/poster/unseen@2x.webp" group-title="Görünmez",12.Bölüm
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referrer=https://www.hdfilmcehennemi.nl/
+https://s424.rapidrame.com/hls2/01/00023/9hk7nip3jed1_,l,n,.urlset/index-f1-v1-a1.m3u8?t=SSqmjyayrFVBTGNWiwTFzcXaIt5AnPTk7V-MFsBQW5g&s=1747916235&e=1199998800&f=115938&i=0.0&sp=0
+
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/bayzero1905/msiptv/refs/heads/main/logolar/end.png" group-title="Görünmez",END
+https://raw.githubusercontent.com/bayzero1905/msiptv/refs/heads/main/logolar/theend.mp4
+
+
+#EXTINF:0 tvg-logo="https://www.hdfilmcehennemi.nl/images/list/poster/just-one-look@2x.webp" group-title="Tek Bir Bakış",1.Bölüm
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referrer=https://www.hdfilmcehennemi.nl/
+https://s425.rapidrame.com/hls2/01/00022/71v77bxwfimu_,l,n,.urlset/index-f1-v1-a1.m3u8?t=g6ucrhIQoM7OKkfmCrBilaNDBK7xXTxPpyZH2Wp-Xlg&s=1748084836&e=1199998800&f=112952&srv=s427&i=0.0&sp=0&p1=s425&p2=s425
+
+#EXTINF:0 tvg-logo="https://www.hdfilmcehennemi.nl/images/list/poster/just-one-look@2x.webp" group-title="Tek Bir Bakış",2.Bölüm
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referrer=https://www.hdfilmcehennemi.nl/
+https://s427.rapidrame.com/hls2/01/00022/h1s8807x30im_,l,n,.urlset/index-f1-v1-a1.m3u8?t=XCWEepn6XnhbgPTCLnd9amGPTp0LB55kxbQPFD-MNyI&s=1748084935&e=1199998800&f=112953&i=0.0&sp=0
+
+#EXTINF:0 tvg-logo="https://www.hdfilmcehennemi.nl/images/list/poster/just-one-look@2x.webp" group-title="Tek Bir Bakış",3.Bölüm
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referrer=https://www.hdfilmcehennemi.nl/
+https://s427.rapidrame.com/hls2/01/00022/0dn0aqwej9dy_,l,n,.urlset/index-f1-v1-a1.m3u8?t=cvYPvoqJEIEJxD3klJETo-IFxsaQInM4cR7tEwfq3HE&s=1748085277&e=1199998800&f=112956&i=0.0&sp=0
+
+#EXTINF:0 tvg-logo="https://www.hdfilmcehennemi.nl/images/list/poster/just-one-look@2x.webp" group-title="Tek Bir Bakış",4.Bölüm
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referrer=https://www.hdfilmcehennemi.nl/
+https://s427.rapidrame.com/hls2/01/00022/yot1y96nd1qb_,l,n,.urlset/index-f1-v1-a1.m3u8?t=IOTPNHs3Zjknh9wy1CTB5TIbifikByW90aRu5u_qB7w&s=1748085393&e=1199998800&f=112958&i=0.0&sp=0
+
+#EXTINF:0 tvg-logo="https://www.hdfilmcehennemi.nl/images/list/poster/just-one-look@2x.webp" group-title="Tek Bir Bakış",5.Bölüm
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referrer=https://www.hdfilmcehennemi.nl/
+https://s427.rapidrame.com/hls2/01/00022/6nfwmz6yrp6a_,l,n,.urlset/index-f1-v1-a1.m3u8?t=Y4OsVhLnYjtCnwnlrk8yWq5fW4m0QUUdjwahLIRdLYE&s=1748085434&e=1199998800&f=112959&i=0.0&sp=0
+
+#EXTINF:0 tvg-logo="https://www.hdfilmcehennemi.nl/images/list/poster/just-one-look@2x.webp" group-title="Tek Bir Bakış",6.Bölüm
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referrer=https://www.hdfilmcehennemi.nl/
+https://s427.rapidrame.com/hls2/01/00022/o6ilbs2piuht_,l,n,.urlset/index-f1-v1-a1.m3u8?t=JcE_t0ZVGFZ5_1wyaoydJsDzXSO2YMhC4hd81dZVv58&s=1748085461&e=1199998800&f=112960&i=0.0&sp=0
+
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/bayzero1905/msiptv/refs/heads/main/logolar/end.png" group-title="Tek Bir Bakış",END
+https://raw.githubusercontent.com/bayzero1905/msiptv/refs/heads/main/logolar/theend.mp4
+
 
 
